@@ -1,23 +1,25 @@
-import logo from './logo.svg';
+import { useEffect, useState, useRef } from 'react';
 import './App.css';
+import Difficulty from './components/Difficulty';
+import monsterDrops from './data/MONSTER_DROPS';
+import boxDrops from './data/BOX_DROPS';
+import Table from './components/Table';
+import Character from './components/Character';
 
 function App() {
+  const [character, setCharacter] = useState({
+    name: 'noname',
+    class: 'HUmar',
+    secID: 'Viridia'
+  });
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Ephinea PSO:BB drop database</h1>
+      <Character character={character} setCharacter={setCharacter} />
+      <div className="table-container">
+        <Table />
+      </div>
     </div>
   );
 }
