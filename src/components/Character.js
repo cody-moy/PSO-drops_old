@@ -1,11 +1,22 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import TextInput from './TextInput';
-import { secIDs } from '../data/miscData';
+import { secIDs, classes } from '../data/miscData';
 
 import './styles/Character.css';
 import Select from './Select';
 
 function Character({ character, setCharacter }) {
+  const [secID, setSecID] = useState(character.secID);
+  const [characterClass, setCharacterClass] = useState(character.class);
+
+  useEffect(() => {
+    setCharacter({ ...character, secID: secID });
+  }, [secID]);
+
+  useEffect(() => {
+    setCharacter({ ...character, class: characterClass });
+  }, [characterClass]);
+
   return (
     <div className="character-info-wrapper">
       <p>Current character</p>
@@ -20,7 +31,16 @@ function Character({ character, setCharacter }) {
           return s.name;
         })}
         value={character.secID}
-        setValue={setCharacter}
+        setValue={setSecID}
+      />
+      <Select
+        label={'Class'}
+        options={classes.map(c => {
+          return c.name;
+        })}
+        value={character.class}
+        setValue={setCharacterClass}
+        borderFreq={4}
       />
     </div>
   );

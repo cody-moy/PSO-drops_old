@@ -1,0 +1,59 @@
+.select-container {
+  padding: 0.5rem;
+}
+
+.select-wrapper {
+  position: relative;
+}
+
+.select-label {
+  margin-bottom: 0.25rem;
+}
+
+.select-clickable-wrapper {
+  padding: 0.25rem;
+  border-radius: 0.25rem;
+  background-color: var(--color-surface-2);
+  cursor: pointer;
+  transition: background-color 300ms, border-radius 100ms 300ms ease;
+}
+
+.select-wrapper.expanded .select-clickable-wrapper {
+  transition-delay: 0s;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.select-clickable-wrapper:hover {
+  background-color: var(--color-surface-2-hover);
+}
+
+.select-clickable-wrapper span {
+  font-weight: 600;
+}
+
+.select-options-container {
+  width: 100%;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  height: 0;
+  overflow: hidden;
+  border-bottom-right-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+  transition: height 300ms ease;
+  z-index: 10;
+}
+
+.select-option {
+  height: 1.5rem;
+  background-color: var(--color-surface-secondary-2);
+  display: flex;
+  align-items: center;
+  transition: background-color 200ms;
+  cursor: pointer;
+}
+
+.select-option:hover {
+  background-color: var(--color-surface-secondary-2-hover);
+}

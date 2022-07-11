@@ -17,3 +17,16 @@ span {
 body {
   background-color: #1f1f24;
 }
+
+:root {
+  --main-bg-color: #1f1f24;
+  --color-surface-1: #34394d;
+  --color-surface-1-hover: #484f69;
+  --color-surface-2: #595f77;
+  --color-surface-2-hover: #707794;
+
+  --color-surface-secondary-1: #1c2b31;
+  --color-surface-secondary-1-hover: #2b3e46;
+  --color-surface-secondary-2: #284c5a;
+  --color-surface-secondary-2-hover: #386070;
+}

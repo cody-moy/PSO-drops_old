@@ -40,3 +40,42 @@ export const secIDs = [
     color: '#FFFFFF'
   }
 ];
+
+export const classes = [
+  {
+    name: 'HUmar'
+  },
+  {
+    name: 'HUnewearl'
+  },
+  {
+    name: 'HUcast'
+  },
+  {
+    name: 'HUcaseal'
+  },
+  {
+    name: 'RAmar'
+  },
+  {
+    name: 'RAmarl'
+  },
+  {
+    name: 'RAcast'
+  },
+  {
+    name: 'RAcaseal'
+  },
+  {
+    name: 'FOmar'
+  },
+  {
+    name: 'FOmarl'
+  },
+  {
+    name: 'FOnewm'
+  },
+  {
+    name: 'FOnewearl'
+  }
+];
