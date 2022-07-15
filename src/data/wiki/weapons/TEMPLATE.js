@@ -1,6 +1,6 @@
 // for data[n].classes, the order of 'bits' is:
 // HUmar
-// HUmarl
+// HUnewearl
 // HUcast
 // HUcaseal
 // RAmar

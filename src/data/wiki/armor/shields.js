@@ -1184,5 +1184,683 @@ export const shields = [
     levelRequirement: 120,
     classes: `111111110000`,
     notes: `+35 ATP and +30% Foie Damage`
+  },
+  {
+    role: `technique merge`,
+    name: `Foie Merge`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 5,
+      EIC: 0,
+      ETH: 0,
+      EDK: 0,
+      ELT: 0
+    },
+    levelRequirement: 6,
+    classes: `111111111111`,
+    notes: `+30% Foie Damage`
+  },
+  {
+    role: `technique merge`,
+    name: `Zonde Merge`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 0,
+      ETH: 5,
+      EDK: 0,
+      ELT: 0
+    },
+    levelRequirement: 8,
+    classes: `111111111111`,
+    notes: `+30% Zonde Damage`
+  },
+  {
+    role: `technique merge`,
+    name: `Barta Merge`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 5,
+      ETH: 0,
+      EDK: 0,
+      ELT: 0
+    },
+    levelRequirement: 7,
+    classes: `111111111111`,
+    notes: `+30% Barta Damage`
+  },
+  {
+    role: `technique merge`,
+    name: `Gifoie Merge`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 10,
+      EIC: 0,
+      ETH: 0,
+      EDK: 0,
+      ELT: 0
+    },
+    levelRequirement: 12,
+    classes: `111111111111`,
+    notes: `+30% Gifoie Damage`
+  },
+  {
+    role: `technique merge`,
+    name: `Gizonde Merge`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 0,
+      ETH: 10,
+      EDK: 0,
+      ELT: 0
+    },
+    levelRequirement: 15,
+    classes: `111111111111`,
+    notes: `+30% Gizonde Damage`
+  },
+  {
+    role: `technique merge`,
+    name: `Gibarta Merge`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 10,
+      ETH: 0,
+      EDK: 0,
+      ELT: 0
+    },
+    levelRequirement: 14,
+    classes: `111111111111`,
+    notes: `+30% Gibarta Damage`
+  },
+  {
+    role: `technique merge`,
+    name: `Rafoie Merge`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 15,
+      EIC: 0,
+      ETH: 0,
+      EDK: 0,
+      ELT: 0
+    },
+    levelRequirement: 18,
+    classes: `111111111111`,
+    notes: `+30% Rafoie Damage`
+  },
+  {
+    role: `technique merge`,
+    name: `Razonde Merge`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 0,
+      ETH: 15,
+      EDK: 0,
+      ELT: 0
+    },
+    levelRequirement: 20,
+    classes: `111111111111`,
+    notes: `+30% Razonde Damage`
+  },
+  {
+    role: `technique merge`,
+    name: `Rabarta Merge`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 15,
+      ETH: 0,
+      EDK: 0,
+      ELT: 0
+    },
+    levelRequirement: 19,
+    classes: `111111111111`,
+    notes: `+30% Rabarta Damage`
+  },
+  {
+    role: `technique merge`,
+    name: `Red Merge`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 20,
+      EIC: 0,
+      ETH: 0,
+      EDK: 0,
+      ELT: 0
+    },
+    levelRequirement: 24,
+    classes: `111111111111`,
+    notes: `+20% Foie, Gifoie and Rafoie Damage`
+  },
+  {
+    role: `technique merge`,
+    name: `Yellow Merge`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 0,
+      ETH: 20,
+      EDK: 0,
+      ELT: 0
+    },
+    levelRequirement: 26,
+    classes: `111111111111`,
+    notes: `+20% Zonde, Gizonde and Razonde Damage`
+  },
+  {
+    role: `technique merge`,
+    name: `Blue Merge`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 20,
+      ETH: 0,
+      EDK: 0,
+      ELT: 0
+    },
+    levelRequirement: 25,
+    classes: `111111111111`,
+    notes: `+20% Barta, Gibarta and Rabarta Damage`
+  },
+  {
+    role: `technique merge`,
+    name: `Shifta Merge`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 0,
+      ETH: 0,
+      EDK: 10,
+      ELT: 10
+    },
+    levelRequirement: 16,
+    classes: `111111111111`,
+    notes: `+100% Shifta Range`
+  },
+  {
+    role: `technique merge`,
+    name: `Deband Merge`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 0,
+      ETH: 0,
+      EDK: 15,
+      ELT: 15
+    },
+    levelRequirement: 14,
+    classes: `111111111111`,
+    notes: `+100% Deband Range`
+  },
+  {
+    role: `technique merge`,
+    name: `Resta Merge`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 0,
+      ETH: 0,
+      EDK: 10,
+      ELT: 10
+    },
+    levelRequirement: 11,
+    classes: `111111111111`,
+    notes: `+100% Resta Range`
+  },
+  {
+    role: `technique merge`,
+    name: `Anti Merge`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 0,
+      ETH: 0,
+      EDK: 15,
+      ELT: 15
+    },
+    levelRequirement: 13,
+    classes: `111111111111`,
+    notes: `+100% Anti Range`
+  },
+  {
+    role: `technique barrier`,
+    name: `Red Barrier`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 0,
+      ETH: 0,
+      EDK: 0,
+      ELT: 0
+    },
+    levelRequirement: 6,
+    classes: `111111111111`,
+    notes: `Creates fire merges`
+  },
+  {
+    role: `technique barrier`,
+    name: `Yellow Barrier`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 0,
+      ETH: 0,
+      EDK: 0,
+      ELT: 0
+    },
+    levelRequirement: 6,
+    classes: `111111111111`,
+    notes: `Creates thunder merges`
+  },
+  {
+    role: `technique barrier`,
+    name: `Blue Barrier`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 0,
+      ETH: 0,
+      EDK: 0,
+      ELT: 0
+    },
+    levelRequirement: 6,
+    classes: `111111111111`,
+    notes: `Creates ice merges`
+  },
+  {
+    role: `technique barrier`,
+    name: `Assist Barrier`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 0,
+      ETH: 0,
+      EDK: 0,
+      ELT: 0
+    },
+    levelRequirement: 6,
+    classes: `111111111111`,
+    notes: `Creates support merges`
+  },
+  {
+    role: `technique barrier`,
+    name: `Recovery Barrier`,
+    rarity: `9★`,
+    DFP: {
+      min: 2,
+      max: 7
+    },
+    EVP: {
+      min: 25,
+      max: 30
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 0,
+      ETH: 0,
+      EDK: 0,
+      ELT: 0
+    },
+    levelRequirement: 6,
+    classes: `111111111111`,
+    notes: `Creates healing merges`
+  },
+  {
+    role: `ring`,
+    name: `Blue Ring`,
+    rarity: `9★`,
+    DFP: {
+      min: 35,
+      max: 40
+    },
+    EVP: {
+      min: 130,
+      max: 135
+    },
+    resistances: {
+      EFR: 5,
+      EIC: 5,
+      ETH: 5,
+      EDK: 5,
+      ELT: 5
+    },
+    levelRequirement: 81,
+    classes: `111111111111`,
+    notes: `+50 MST for each extra player with a Blue Ring`
+  },
+  {
+    role: `ring`,
+    name: `Green Ring`,
+    rarity: `9★`,
+    DFP: {
+      min: 35,
+      max: 40
+    },
+    EVP: {
+      min: 130,
+      max: 135
+    },
+    resistances: {
+      EFR: 5,
+      EIC: 5,
+      ETH: 5,
+      EDK: 5,
+      ELT: 5
+    },
+    levelRequirement: 81,
+    classes: `111111111111`,
+    notes: `+10 ATA for each extra player with a Green Ring`
+  },
+  {
+    role: `ring`,
+    name: `Yellow Ring`,
+    rarity: `9★`,
+    DFP: {
+      min: 35,
+      max: 40
+    },
+    EVP: {
+      min: 130,
+      max: 135
+    },
+    resistances: {
+      EFR: 5,
+      EIC: 5,
+      ETH: 5,
+      EDK: 5,
+      ELT: 5
+    },
+    levelRequirement: 81,
+    classes: `111111111111`,
+    notes: `+25 LCK for each extra player with a Yellow Ring`
+  },
+  {
+    role: `ring`,
+    name: `Purple Ring`,
+    rarity: `9★`,
+    DFP: {
+      min: 35,
+      max: 40
+    },
+    EVP: {
+      min: 130,
+      max: 135
+    },
+    resistances: {
+      EFR: 5,
+      EIC: 5,
+      ETH: 5,
+      EDK: 5,
+      ELT: 5
+    },
+    levelRequirement: 81,
+    classes: `111111111111`,
+    notes: `+50 DFP for each extra player with a Purple Ring`
+  },
+  {
+    role: `ring`,
+    name: `White Ring`,
+    rarity: `9★`,
+    DFP: {
+      min: 35,
+      max: 40
+    },
+    EVP: {
+      min: 130,
+      max: 135
+    },
+    resistances: {
+      EFR: 5,
+      EIC: 5,
+      ETH: 5,
+      EDK: 5,
+      ELT: 5
+    },
+    levelRequirement: 81,
+    classes: `111111111111`,
+    notes: `+25 EVP for each extra player with a White Ring`
+  },
+  {
+    role: `ring`,
+    name: `Black Ring`,
+    rarity: `9★`,
+    DFP: {
+      min: 35,
+      max: 40
+    },
+    EVP: {
+      min: 130,
+      max: 135
+    },
+    resistances: {
+      EFR: 5,
+      EIC: 5,
+      ETH: 5,
+      EDK: 5,
+      ELT: 5
+    },
+    levelRequirement: 81,
+    classes: `111111111111`,
+    notes: `+50 ATP for each extra player with a Black Ring`
+  },
+  {
+    role: `ring`,
+    name: `Anti-Light Ring`,
+    rarity: `10★`,
+    DFP: 90,
+    EVP: 80,
+    resistances: {
+      EFR: 0,
+      EIC: 0,
+      ETH: 0,
+      EDK: 0,
+      ELT: 60
+    },
+    levelRequirement: 30,
+    classes: `111111111111`,
+    notes: null
+  },
+  {
+    role: `ring`,
+    name: `Anti-Dark Ring`,
+    rarity: `10★`,
+    DFP: 20,
+    EVP: 135,
+    resistances: {
+      EFR: 0,
+      EIC: 0,
+      ETH: 0,
+      EDK: 60,
+      ELT: 0
+    },
+    levelRequirement: 80,
+    classes: `111111111111`,
+    notes: null
+  },
+  {
+    role: `ring`,
+    name: `Red Ring`,
+    rarity: `11★`,
+    DFP: {
+      min: 150,
+      max: 235
+    },
+    EVP: {
+      min: 232,
+      max: 257
+    },
+    resistances: {
+      EFR: 30,
+      EIC: 30,
+      ETH: 30,
+      EDK: 5,
+      ELT: 5
+    },
+    levelRequirement: 180,
+    classes: `111111111111`,
+    notes: `+20 ATP, MST, ATA and LCK; Slowly restores HP/TP over time`
   }
 ];
