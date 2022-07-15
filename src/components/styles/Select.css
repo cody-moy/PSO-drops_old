@@ -15,7 +15,7 @@
   border-radius: 0.25rem;
   background-color: var(--color-surface-2);
   cursor: pointer;
-  transition: background-color 300ms, border-radius 100ms 300ms ease;
+  transition: background-color 300ms, border-radius 100ms 200ms ease;
 }
 
 .select-wrapper.expanded .select-clickable-wrapper {
@@ -41,13 +41,13 @@
   overflow: hidden;
   border-bottom-right-radius: 0.25rem;
   border-bottom-left-radius: 0.25rem;
-  transition: height 300ms ease;
+  transition: height 200ms ease;
   z-index: 10;
 }
 
 .select-option {
   height: 1.5rem;
-  background-color: var(--color-surface-secondary-2);
+  background-color: var(--color-surface-alt-2);
   display: flex;
   align-items: center;
   transition: background-color 200ms;
@@ -55,5 +55,5 @@
 }
 
 .select-option:hover {
-  background-color: var(--color-surface-secondary-2-hover);
+  background-color: var(--color-surface-alt-2-hover);
 }

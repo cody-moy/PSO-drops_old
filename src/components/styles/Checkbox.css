@@ -1,0 +1,8 @@
+.checkbox {
+  display: flex;
+  align-items: center;
+}
+
+.checkbox label {
+  flex-grow: 1;
+}

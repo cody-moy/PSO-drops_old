@@ -1,17 +1,26 @@
-.difficulty-selector {
+.table-filter-container {
+  display: flex;
+  align-items: center;
+}
+
+.table-filter {
   width: fit-content;
+  margin: 0.5rem 2rem;
   padding: 1rem;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.difficulty-selector p {
-  margin-bottom: 0.5rem;
+.table-filter p {
+  text-transform: uppercase;
+  font-weight: 500;
+  margin-bottom: 0.25rem;
 }
 
-.difficulty-selector button {
-  margin: 0.25rem;
+.table-filter .button {
+  width: 100%;
+  text-align: center;
 }
 
 .table__episode-name {

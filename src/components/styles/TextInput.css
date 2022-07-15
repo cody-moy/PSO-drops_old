@@ -1,3 +1,5 @@
 .text-input__input {
-  width: 7rem;
+  min-width: 7rem;
+  padding: 0.25rem;
+  border: 0;
 }

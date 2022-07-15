@@ -4,3 +4,8 @@
   background-color: #34394d;
   border-radius: 0.25rem;
 }
+
+.character-controls.fade {
+  opacity: 0.5;
+  pointer-events: none;
+}

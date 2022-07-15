@@ -52,7 +52,7 @@ const Option = ({ value, setValue, setExpanded, height, padding, border }) => {
       style={{
         height: `${height}px`,
         padding: `${padding}px`,
-        borderBottom: border ? '1px solid var(--color-surface-secondary-1)' : ''
+        borderBottom: border ? '1px solid var(--color-surface-alt-1)' : ''
       }}
       onClick={() => {
         setValue(value);

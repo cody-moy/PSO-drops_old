@@ -1,5 +1,7 @@
 * {
-  font-family: Montserrat, sans-serif;
+  /* font-family: Montserrat, sans-serif; */
+  font-family: Inter, sans-serif;
+  user-select: none;
 }
 
 h1,
@@ -9,9 +11,21 @@ h4,
 h5,
 h6,
 p,
-span {
+span,
+label {
   color: #e7e7f5;
   margin: 0;
+}
+
+label {
+  font-family: Cabin, sans-serif;
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+}
+
+input[type='checkbox'] {
+  width: 16px;
+  height: 16px;
 }
 
 body {
@@ -21,12 +35,38 @@ body {
 :root {
   --main-bg-color: #1f1f24;
   --color-surface-1: #34394d;
+  --color-surface-dark-1: #1a1e2e;
   --color-surface-1-hover: #484f69;
-  --color-surface-2: #595f77;
-  --color-surface-2-hover: #707794;
+  --color-surface-1-active: #252b41;
+  --color-surface-1-highlighted: #bbd7f7;
 
-  --color-surface-secondary-1: #1c2b31;
-  --color-surface-secondary-1-hover: #2b3e46;
-  --color-surface-secondary-2: #284c5a;
-  --color-surface-secondary-2-hover: #386070;
+  --color-surface-2: #595f77;
+  --color-surface-dark-2: #1e253d;
+  --color-surface-2-hover: #707794;
+  --color-surface-2-active: #4e5880;
+  --color-surface-2-highlighted: #6491e6;
+
+  --color-surface-alt-1: #1c2b31;
+  --color-surface-dark-alt-1: #0a161b;
+  --color-surface-alt-1-hover: #2b3e46;
+  --color-surface-alt-1-active: #172b33;
+  --color-surface-alt-1-highlighted: #83dee5;
+
+  --color-surface-alt-2: #284c5a;
+  --color-surface-dark-alt-2: #193541;
+  --color-surface-alt-2-hover: #386070;
+  --color-surface-alt-2-active: #214e5f;
+  --color-surface-alt-2-highlighted: #52c1cf;
+
+  --color-text-1: #dedef8;
+  --color-text-2: #9d9dc2;
+
+  --color-text-dark-1: #0e0e18;
+  --color-text-dark-2: #26263d;
+
+  --color-text-alt-1: #bce2f5;
+  --color-text-alt-2: #67a3c4;
+
+  --color-text-dark-alt-1: #0a141a;
+  --color-text-dark-alt-2: #19252c;
 }

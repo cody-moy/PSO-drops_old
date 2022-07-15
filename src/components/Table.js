@@ -3,26 +3,79 @@ import { secIDs } from '../data/miscData';
 import monsterDrops from '../data/MONSTER_DROPS';
 import boxDrops from '../data/BOX_DROPS';
 import Character from './Character';
+import Button from './Button';
+import Checkbox from './Checkbox';
 
 import './styles/Table.css';
 
 function Table(props) {
   const [difficulty, setDifficulty] = useState('ultimate');
+  const [episodeFilter, setEpisodeFilter] = useState([true, true, true]);
   const [episodes, setEpisodes] = useState([]);
 
   useEffect(() => {
     setEpisodes(monsterDrops[difficulty].episodes);
   }, [difficulty]);
 
+  useEffect(() => {
+    console.log('episodeFilter:', episodeFilter);
+  }, [episodeFilter]);
+
+  const changeEpFilter = (episode, value) => {
+    console.log('episode:', episode);
+    console.log('value:', value);
+    if (episode === 'all') {
+      setEpisodeFilter([true, true, true]);
+      return;
+    }
+    let temp = [...episodeFilter];
+    temp[episode] = value;
+    setEpisodeFilter(temp);
+  };
+
   return (
     <div>
-      <div className="difficulty-selector">
-        <p>View drop table by difficulty</p>
-        <div>
-          <button onClick={() => setDifficulty('ultimate')}>Ultimate</button>
-          <button onClick={() => setDifficulty('vhard')}>Very Hard</button>
-          <button onClick={() => setDifficulty('hard')}>Hard</button>
-          <button onClick={() => setDifficulty('normal')}>Normal</button>
+      <div className="table-filter-container">
+        <div className="table-filter" id="difficulty">
+          <p>Difficulty</p>
+          <Button func={() => setDifficulty('ultimate')} label="Ultimate" />
+          <Button func={() => setDifficulty('vhard')} label="Very hard" />
+          <Button func={() => setDifficulty('hard')} label="Hard" />
+          <Button func={() => setDifficulty('normal')} label="Normal" />
+        </div>
+
+        <div className="table-filter" id="episode">
+          <p>Episode</p>
+          <Button
+            highlighted={
+              episodeFilter[0] && episodeFilter[1] && episodeFilter[2]
+            }
+            func={() => {
+              changeEpFilter('all', true);
+            }}
+            label="All"
+          />
+          <Button
+            highlighted={episodeFilter[0]}
+            func={() => {
+              changeEpFilter(0, !episodeFilter[0]);
+            }}
+            label="Episode 1"
+          />
+          <Button
+            highlighted={episodeFilter[1]}
+            func={() => {
+              changeEpFilter(1, !episodeFilter[1]);
+            }}
+            label="Episode 2"
+          />
+          <Button
+            highlighted={episodeFilter[2]}
+            func={() => {
+              changeEpFilter(2, !episodeFilter[2]);
+            }}
+            label="Episode 4"
+          />
         </div>
       </div>
       <h2>Drop table for {difficulty}</h2>
