@@ -76,17 +76,21 @@ export const misc = [
     name: `Christmas Present`,
     type: `Event Item`,
     decription: `A rare seasonal drop which can contain various items.
-During the Christmas Event, Love Rappies are replaced by St. Rappies, which drop Christmas Presents at 87.5% chance (with no rare drop boost) instead of the usual Love Rappy rare drop.
-Once used, a Christmas Present will give one of the following items:
-Heart of Angel: 15%
-Heart of Devil: 15%
-Panther's Spirit: 15%
-Kit of Mark III: 15%
-Kit of Hamburger: 15%
-Kit of Master System: 10%
-Kit of Genesis: 7%
-Kit of Sega Saturn: 5%
-Kit of Dreamcast: 3%`
+During the Christmas Event, Love Rappies are replaced by St. Rappies, which drop Christmas Presents at 87.5% chance (not counting any rare drop boost) instead of the usual Love Rappy rare drop.`,
+    christmasDropTable: {
+      caption: `Item chance upon use`,
+      data: [
+        `Heart of Angel: 15%`,
+        `Heart of Devil: 15%`,
+        `Panther's Spirit: 15%`,
+        `Kit of Mark III: 15%`,
+        `Kit of Hamburger: 15%`,
+        `Kit of Master System: 10%`,
+        `Kit of Genesis: 7%`,
+        `Kit of Sega Saturn: 5%`,
+        `Kit of Dreamcast: 3%`
+      ]
+    }
   },
   {
     name: `Liberta Kit`,

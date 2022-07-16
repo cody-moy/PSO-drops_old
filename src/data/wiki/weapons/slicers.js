@@ -8,13 +8,13 @@ export const slicers = [
     },
     ATA: 28,
     grind: 12,
-    special: `Dark (Activation rate reduced by ⅔)`,
+    special: `Dark*`,
     requirement: {
       stat: `ATP`,
       amount: 475
     },
     classes: `111111111111`,
-    notes: `50% ATP boost, +30 ATA and +10% attack speed if equipped with Thirteen; +10 DFP`
+    notes: `50% ATP boost, +30 ATA and +10% attack speed if equipped with Thirteen; +10 DFP; *Activation rate reduced by ⅔`
   },
   {
     name: `Diska of Liberator`,
@@ -25,13 +25,13 @@ export const slicers = [
     },
     ATA: 31,
     grind: 9,
-    special: `Havoc (Activation rate reduced by ⅔`,
+    special: `Havoc*`,
     requirement: {
       stat: `ATP`,
       amount: 480
     },
     classes: `111111111111`,
-    notes: `50% ATP boost, +30 ATA and +10% attack speed if equipped with Thirteen; +10 MST`
+    notes: `50% ATP boost, +30 ATA and +10% attack speed if equipped with Thirteen; +10 MST; *Activation rate reduced by ⅔`
   },
   {
     name: `Diska of Braveman`,

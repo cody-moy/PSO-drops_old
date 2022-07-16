@@ -59,13 +59,13 @@ export const mechguns = [
     },
     ATA: 18,
     grind: 9,
-    special: `Freeze (Activation rate reduced by ⅔)`,
+    special: `Freeze*`,
     requirement: {
       stat: `ATA`,
       amount: 122
     },
     classes: `111111111111`,
-    notes: null
+    notes: `*Activation rate reduced by ⅔`
   },
   {
     name: `L&K14 Combat`,
@@ -76,13 +76,13 @@ export const mechguns = [
     },
     ATA: 18,
     grind: 20,
-    special: `Seize (Activation rate reduced by ⅔)`,
+    special: `Seize*`,
     requirement: {
       stat: `ATA`,
       amount: 124
     },
     classes: `111111111111`,
-    notes: `+10 LCK`
+    notes: `+10 LCK; *Activation rate reduced by ⅔`
   },
   {
     name: `Twin Psychogun`,

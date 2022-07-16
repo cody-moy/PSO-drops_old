@@ -1,3 +1,11 @@
+.text-input-container {
+  padding: 0.5rem;
+}
+
+.text-input__label {
+  margin-bottom: 0.25rem;
+}
+
 .text-input__input {
   min-width: 7rem;
   padding: 0.25rem;

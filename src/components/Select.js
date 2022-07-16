@@ -44,6 +44,7 @@ function Select({ label, options, value, setValue, borderFreq }) {
             return (
               <Option
                 key={i}
+                selectedValue={value}
                 value={o}
                 setValue={setValue}
                 setExpanded={setExpanded}
@@ -59,14 +60,22 @@ function Select({ label, options, value, setValue, borderFreq }) {
   );
 }
 
-const Option = ({ value, setValue, setExpanded, height, padding, border }) => {
+const Option = ({
+  selectedValue,
+  value,
+  setValue,
+  setExpanded,
+  height,
+  padding,
+  border
+}) => {
   return (
     <div
-      className="select-option"
+      className={`select-option ${selectedValue === value ? 'selected' : ''}`}
       style={{
         height: `${height}px`,
         padding: `${padding}px`,
-        borderBottom: border ? '1px solid var(--color-surface-alt-1)' : ''
+        borderBottom: border ? '1px solid var(--color-surface-alt-1)' : null
       }}
       onClick={() => {
         setValue(value);

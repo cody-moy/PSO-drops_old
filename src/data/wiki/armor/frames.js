@@ -1,6 +1,6 @@
 export const frames = [
   {
-    role: `common`,
+    role: `Common`,
     name: `Ultimate Frame`,
     rarity: `8★`,
     DFP: {
@@ -23,7 +23,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Dress Plate`,
     rarity: `9★`,
     DFP: 30,
@@ -40,7 +40,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Force Field`,
     rarity: `9★`,
     DFP: {
@@ -63,7 +63,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Hunter Field`,
     rarity: `9★`,
     DFP: {
@@ -86,7 +86,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Kroe's Sweater`,
     rarity: `9★`,
     DFP: 1,
@@ -103,7 +103,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Ranger Field`,
     rarity: `9★`,
     DFP: {
@@ -126,7 +126,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Sonic Team Armor`,
     rarity: `9★`,
     DFP: 500,
@@ -143,7 +143,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Alliance Uniform`,
     rarity: `10★`,
     DFP: {
@@ -163,7 +163,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Attribute Plate`,
     rarity: `10★`,
     DFP: {
@@ -186,7 +186,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Black Hound Cuirass`,
     rarity: `10★`,
     DFP: {
@@ -206,7 +206,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Commander Uniform`,
     rarity: `10★`,
     DFP: {
@@ -226,7 +226,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Custom Frame ver.OO`,
     rarity: `10★`,
     DFP: {
@@ -249,7 +249,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `DB's Armor`,
     rarity: `10★`,
     DFP: {
@@ -272,7 +272,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Flowen's Frame`,
     rarity: `10★`,
     DFP: {
@@ -295,7 +295,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Graviton Plate`,
     rarity: `10★`,
     DFP: {
@@ -315,7 +315,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Infantry Gear`,
     rarity: `10★`,
     DFP: {
@@ -338,7 +338,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Infantry Mantle`,
     rarity: `10★`,
     DFP: {
@@ -361,7 +361,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Lieutenant Gear`,
     rarity: `10★`,
     DFP: {
@@ -384,7 +384,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Lieutenant Mantle`,
     rarity: `10★`,
     DFP: {
@@ -407,7 +407,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Officer Uniform`,
     rarity: `10★`,
     DFP: {
@@ -427,7 +427,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Parasite Wear: De Rol`,
     rarity: `10★`,
     DFP: 120,
@@ -444,7 +444,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Revival Cuirass`,
     rarity: `10★`,
     DFP: {
@@ -467,7 +467,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Revival Garment`,
     rarity: `10★`,
     DFP: {
@@ -490,7 +490,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Sense Plate`,
     rarity: `10★`,
     DFP: {
@@ -513,7 +513,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Spirit Cuirass`,
     rarity: `10★`,
     DFP: {
@@ -536,7 +536,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Spirit Garment`,
     rarity: `10★`,
     DFP: {
@@ -559,7 +559,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Star Cuirass`,
     rarity: `10★`,
     DFP: {
@@ -579,7 +579,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Stink Frame`,
     rarity: `10★`,
     DFP: {
@@ -602,7 +602,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Union Field`,
     rarity: `10★`,
     DFP: 0,
@@ -619,7 +619,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Love Heart`,
     rarity: `11★`,
     DFP: {
@@ -642,7 +642,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Parasite Wear: Nelgal`,
     rarity: `11★`,
     DFP: 145,
@@ -659,7 +659,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Parasite Wear: Vajulla`,
     rarity: `12★`,
     DFP: 155,
@@ -676,7 +676,7 @@ export const frames = [
     notes: null
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `Black Odoshi Domaru`,
     rarity: `10★`,
     DFP: {
@@ -699,7 +699,7 @@ export const frames = [
     notes: `+5% attack speed`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `Black Odoshi Red Nimaidou`,
     rarity: `10★`,
     DFP: {
@@ -722,7 +722,7 @@ export const frames = [
     notes: `+20% attack speed`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `D-Parts ver1.01`,
     rarity: `10★`,
     DFP: {
@@ -745,7 +745,7 @@ export const frames = [
     notes: `+35 ATP`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `D-Parts ver2.10`,
     rarity: `10★`,
     DFP: {
@@ -768,7 +768,7 @@ export const frames = [
     notes: `+10 ATP`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `Morning Prayer`,
     rarity: `10★`,
     DFP: {
@@ -791,7 +791,7 @@ export const frames = [
     notes: `Set Effect (See Page)`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `Red Coat`,
     rarity: `10★`,
     DFP: {
@@ -814,7 +814,7 @@ export const frames = [
     notes: `Set Effect (See Page)`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `Red Odoshi Domaru`,
     rarity: `10★`,
     DFP: {
@@ -837,7 +837,7 @@ export const frames = [
     notes: `+10% attack speed`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `Samurai Armor`,
     rarity: `10★`,
     DFP: 121,
@@ -854,7 +854,7 @@ export const frames = [
     notes: `+20% attack speed; Set Effect (See Page)`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `Thirteen`,
     rarity: `10★`,
     DFP: {
@@ -877,7 +877,7 @@ export const frames = [
     notes: `Set Effect (See Page)`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `Crimson Coat`,
     rarity: `11★`,
     DFP: {
@@ -900,7 +900,7 @@ export const frames = [
     notes: `Set Effect (See Page)`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `Sweetheart`,
     rarity: `11★`,
     DFP: {
@@ -923,7 +923,7 @@ export const frames = [
     notes: `Weapon ATP increases near males; DFP decreases near males; Set Effect (See Page)`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `Blue Odoshi Violet Nimaidou`,
     rarity: `12★`,
     DFP: {

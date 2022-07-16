@@ -380,7 +380,7 @@ export const sabers = [
     },
     classes: '111111111111',
     notes:
-      '30% ATP boost and +15 ATA if equipped with Red Coat; 50% ATP boost and +22 ATA if equipped with Crimson Coat'
+      '30% ATP boost and +15 ATA if equipped with Red Coat 50% ATP boost and +22 ATA if equipped with Crimson Coat'
   },
   {
     name: 'Elysion',
@@ -397,7 +397,7 @@ export const sabers = [
       amount: 680
     },
     classes: '110001001111',
-    notes: '__________'
+    notes: null
   },
   {
     name: 'Ancient Saber',
@@ -414,7 +414,7 @@ export const sabers = [
       amount: 740
     },
     classes: '111100001110',
-    notes: '__________'
+    notes: null
   },
   {
     name: 'Flamberge',
@@ -431,7 +431,7 @@ export const sabers = [
       amount: 740
     },
     classes: '111111110000',
-    notes: '__________'
+    notes: null
   },
   {
     name: "Lame d'Argent",
@@ -442,7 +442,7 @@ export const sabers = [
     },
     ATA: 40,
     grind: 35,
-    special: '__________',
+    special: null,
     requirement: {
       stat: 'ATP',
       amount: 800

@@ -48,7 +48,12 @@
 }
 
 .table__drop-source-name-container {
-  padding-right: 0.5rem;
+  height: fit-content;
+  align-self: center;
+  margin: 2px;
+  padding: 0.5rem;
+  background-color: var(--color-surface-1-disabled);
+  border-radius: var(--border-radius-1);
 }
 
 .table__drop-source-container {

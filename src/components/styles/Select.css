@@ -39,6 +39,7 @@
   left: 0;
   height: 0;
   overflow: hidden;
+  box-shadow: 0 5px 5px 0px #00000050;
   border-bottom-right-radius: 0.25rem;
   border-bottom-left-radius: 0.25rem;
   transition: height 200ms ease;
@@ -47,13 +48,21 @@
 
 .select-option {
   height: 1.5rem;
-  background-color: var(--color-surface-alt-2);
+  background-color: var(--color-surface-1);
   display: flex;
   align-items: center;
   transition: background-color 200ms;
   cursor: pointer;
 }
 
+.select-option.selected {
+  background-color: var(--color-surface-2);
+}
+
+.select-option.selected:hover {
+  background-color: var(--color-surface-2-hover);
+}
+
 .select-option:hover {
-  background-color: var(--color-surface-alt-2-hover);
+  background-color: var(--color-surface-1-hover);
 }

@@ -37,7 +37,7 @@ const setType = item => {
     if (bazookas[x].name.toLowerCase() === item.itemName.toLowerCase()) {
       found = true;
       item.type = {
-        object: 'bazooka',
+        object: 'Bazooka',
         index: x
       };
       return item;
@@ -48,7 +48,7 @@ const setType = item => {
       if (canes[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'cane',
+          object: 'Cane',
           index: x
         };
         return item;
@@ -59,7 +59,7 @@ const setType = item => {
       if (cards[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'card',
+          object: 'Card',
           index: x
         };
         return item;
@@ -70,7 +70,7 @@ const setType = item => {
       if (claws[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'claw',
+          object: 'Claw',
           index: x
         };
         return item;
@@ -81,7 +81,7 @@ const setType = item => {
       if (daggers[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'dagger',
+          object: 'Dagger',
           index: x
         };
         return item;
@@ -92,7 +92,7 @@ const setType = item => {
       if (doubleSabers[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'double-saber',
+          object: 'Double-saber',
           index: x
         };
         return item;
@@ -103,7 +103,7 @@ const setType = item => {
       if (fists[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'fist',
+          object: 'Fist',
           index: x
         };
         return item;
@@ -114,7 +114,7 @@ const setType = item => {
       if (handguns[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'handgun',
+          object: 'Handgun',
           index: x
         };
         return item;
@@ -125,7 +125,7 @@ const setType = item => {
       if (katanas[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'katana',
+          object: 'Katana',
           index: x
         };
         return item;
@@ -136,7 +136,7 @@ const setType = item => {
       if (launchers[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'launcher',
+          object: 'Launcher',
           index: x
         };
         return item;
@@ -147,7 +147,7 @@ const setType = item => {
       if (mechguns[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'mechgun',
+          object: 'Mechgun',
           index: x
         };
         return item;
@@ -158,7 +158,7 @@ const setType = item => {
       if (partisans[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'partisan',
+          object: 'Partisan',
           index: x
         };
         return item;
@@ -169,7 +169,7 @@ const setType = item => {
       if (rifles[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'rifle',
+          object: 'Rifle',
           index: x
         };
         return item;
@@ -180,7 +180,7 @@ const setType = item => {
       if (rods[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'rod',
+          object: 'Rod',
           index: x
         };
         return item;
@@ -191,7 +191,7 @@ const setType = item => {
       if (sabers[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'saber',
+          object: 'Saber',
           index: x
         };
         return item;
@@ -202,7 +202,7 @@ const setType = item => {
       if (shots[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'shot',
+          object: 'Shot',
           index: x
         };
         return item;
@@ -213,7 +213,7 @@ const setType = item => {
       if (slicers[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'slicer',
+          object: 'Slicer',
           index: x
         };
         return item;
@@ -224,7 +224,7 @@ const setType = item => {
       if (swords[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'sword',
+          object: 'Sword',
           index: x
         };
         return item;
@@ -235,7 +235,7 @@ const setType = item => {
       if (twinSwords[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'twin-sword',
+          object: 'Twin-sword',
           index: x
         };
         return item;
@@ -246,7 +246,7 @@ const setType = item => {
       if (wands[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'wand',
+          object: 'Wand',
           index: x
         };
         return item;
@@ -258,7 +258,7 @@ const setType = item => {
       if (frames[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'frame',
+          object: 'Frame',
           index: x
         };
         return item;
@@ -269,7 +269,7 @@ const setType = item => {
       if (armors[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'armor',
+          object: 'Armor',
           index: x
         };
         return item;
@@ -280,7 +280,7 @@ const setType = item => {
       if (barriers[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'barrier',
+          object: 'Barrier',
           index: x
         };
         return item;
@@ -291,7 +291,7 @@ const setType = item => {
       if (shields[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'shield',
+          object: 'Shield',
           index: x
         };
         return item;
@@ -302,7 +302,7 @@ const setType = item => {
       if (units[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'unit',
+          object: 'Unit',
           index: x
         };
         return item;
@@ -313,7 +313,7 @@ const setType = item => {
       if (tools[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'tool',
+          object: 'Tool',
           objectSubType: tools[x].type,
           index: x
         };
@@ -325,7 +325,7 @@ const setType = item => {
       if (misc[x].name.toLowerCase() === item.itemName.toLowerCase()) {
         found = true;
         item.type = {
-          object: 'misc',
+          object: 'Misc',
           objectSubType: misc[x].type,
           index: x
         };

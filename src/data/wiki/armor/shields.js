@@ -1,6 +1,6 @@
 export const shields = [
   {
-    role: `common`,
+    role: `Common`,
     name: `Celestial Shield`,
     rarity: `8★`,
     DFP: {

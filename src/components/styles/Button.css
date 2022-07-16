@@ -14,16 +14,19 @@
 }
 
 .button.highlighted {
-  background-color: var(--color-surface-1-highlighted);
+  background-color: var(--color-surface-orange);
+  border-color: var(--color-border-orange);
 }
 
 .button .button-label {
   color: var(--color-text-1-on-surface-1);
+  opacity: 0.5;
   font-weight: 400;
 }
 
 .button.highlighted .button-label {
   color: var(--color-text-1-dark-on-surface-1);
+  opacity: 1;
   font-weight: 500;
   transition: color 200ms ease;
 }

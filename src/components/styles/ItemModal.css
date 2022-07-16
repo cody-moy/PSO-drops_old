@@ -23,12 +23,12 @@
   /* padding: var(--spacing-s) var(--spacing-m);
   border-radius: var(--border-radius-3);
   background-color: var(--color-surface-1); */
-  transform: translate(-50%, -50%) scale(0.8);
+  transform: translate(-50%, -50%);
   opacity: 0;
-  transition: all 200ms ease;
+  transition: opacity 200ms ease;
 }
 
 .item-modal.visible {
   opacity: 1;
-  transform: translate(-50%, -50%) scale(1);
+  transform: translate(-50%, -50%);
 }

@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from 'react';
-import ItemCard from './ItemCard';
+import React from 'react';
+import ItemCard from './itemCard/ItemCard';
 
 import './styles/ItemModal.css';
 

@@ -12,9 +12,16 @@ h5,
 h6,
 p,
 span,
-label {
+ul,
+li,
+label,
+caption {
   color: #e7e7f5;
   margin: 0;
+}
+
+caption {
+  margin-bottom: 0.25rem;
 }
 
 label {
@@ -36,6 +43,16 @@ body {
   position: relative;
 }
 
+.main-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-content > div {
+  max-width: 1440px;
+}
+
 :root {
   --main-bg-color: #1f1f24;
 
@@ -43,7 +60,7 @@ body {
   --color-surface-dark-1: #1a1e2e;
   --color-surface-1-hover: #484f69;
   --color-surface-1-active: #252b41;
-  --color-surface-1-highlighted: #7498d8;
+  --color-surface-1-highlighted: #7495d8;
   --color-surface-1-disabled: #2d303b;
 
   --color-surface-2: #595f77;
@@ -64,6 +81,9 @@ body {
   --color-surface-alt-2-hover: #386070;
   --color-surface-alt-2-active: #214e5f;
   --color-surface-alt-2-highlighted: #52c1cf;
+
+  --color-surface-orange: #e76f10;
+  --color-border-orange: #874611;
 
   --color-text-1-on-surface-1: #dae2f3;
   --color-text-2-on-surface-1: #8299c9;

@@ -1,6 +1,6 @@
 export const barriers = [
   {
-    role: `common`,
+    role: `Common`,
     name: `Divinity Barrier`,
     rarity: `8★`,
     DFP: {
@@ -23,7 +23,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Bunny Ears`,
     rarity: `9★`,
     DFP: 2,
@@ -40,7 +40,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Cat Ears`,
     rarity: `9★`,
     DFP: 2,
@@ -57,7 +57,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Works Guard`,
     rarity: `9★`,
     DFP: {
@@ -80,7 +80,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Black Gear`,
     rarity: `9★`,
     DFP: {
@@ -103,7 +103,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Angel Ring`,
     rarity: `9★`,
     DFP: 40,
@@ -120,7 +120,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Gods Shield "Suzaku"`,
     rarity: `9★`,
     DFP: 50,
@@ -137,7 +137,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Gods Shield "Genbu"`,
     rarity: `9★`,
     DFP: 45,
@@ -154,7 +154,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Gods Shield "Byakko"`,
     rarity: `9★`,
     DFP: 45,
@@ -171,7 +171,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Gods Shield "Seiryu"`,
     rarity: `9★`,
     DFP: 50,
@@ -188,7 +188,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Stink Shield`,
     rarity: `9★`,
     DFP: {
@@ -211,7 +211,7 @@ export const barriers = [
     notes: `Becomes De Rol Le Shield if used with a De Rol Le Shell; Becomes Epsiguard if used with a Cladding of Epsilon`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Weapons Copper Shield`,
     rarity: `9★`,
     DFP: 24,
@@ -228,7 +228,7 @@ export const barriers = [
     notes: `Currently unobtainable`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Weapons Silver Shield`,
     rarity: `9★`,
     DFP: 35,
@@ -245,7 +245,7 @@ export const barriers = [
     notes: `Currently unobtainable`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Weapons Gold Shield`,
     rarity: `9★`,
     DFP: 41,
@@ -262,7 +262,7 @@ export const barriers = [
     notes: `Currently unobtainable`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Sacred Guard`,
     rarity: `10★`,
     DFP: {
@@ -285,7 +285,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Invisible Guard`,
     rarity: `10★`,
     DFP: {
@@ -308,7 +308,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `S-Parts ver1.16`,
     rarity: `10★`,
     DFP: {
@@ -331,7 +331,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Light Relief`,
     rarity: `10★`,
     DFP: {
@@ -354,7 +354,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Attribute Wall`,
     rarity: `10★`,
     DFP: {
@@ -377,7 +377,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Secret Gear`,
     rarity: `10★`,
     DFP: {
@@ -400,7 +400,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Shield of Delsaber`,
     rarity: `10★`,
     DFP: {
@@ -423,7 +423,7 @@ export const barriers = [
     notes: `Set Effect (See Page)`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Union Guard`,
     rarity: `10★`,
     DFP: 50,
@@ -440,7 +440,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Custom Barrier ver.OO`,
     rarity: `10★`,
     DFP: {
@@ -463,7 +463,7 @@ export const barriers = [
     notes: `Set Effect (See Page)`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `DB's Shield`,
     rarity: `10★`,
     DFP: {
@@ -486,7 +486,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Flowen's Shield`,
     rarity: `10★`,
     DFP: {
@@ -509,7 +509,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Proto Regene Gear`,
     rarity: `10★`,
     DFP: {
@@ -532,7 +532,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Regenerate Gear`,
     rarity: `10★`,
     DFP: {
@@ -555,7 +555,7 @@ export const barriers = [
     notes: `Restores 2% of max HP when an attack is blocked or evaded`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Regene Gear Adv.`,
     rarity: `10★`,
     DFP: {
@@ -578,7 +578,7 @@ export const barriers = [
     notes: `Restores 5% of max HP and TP when an attack is blocked or evaded`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Genpei`,
     rarity: `10★`,
     DFP: 158,
@@ -595,7 +595,7 @@ export const barriers = [
     notes: `Set Effect (See Page)`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Gratia`,
     rarity: `10★`,
     DFP: {
@@ -618,7 +618,7 @@ export const barriers = [
     notes: `Set Effect (See Page)`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Regenerate Gear B.P.`,
     rarity: `10★`,
     DFP: {
@@ -641,7 +641,7 @@ export const barriers = [
     notes: `Restores 2% of max HP and TP when an attack is blocked or evaded`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `De Rol Le Shield`,
     rarity: `10★`,
     DFP: {
@@ -664,7 +664,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Epsiguard`,
     rarity: `10★`,
     DFP: {
@@ -687,7 +687,7 @@ export const barriers = [
     notes: `Resists vary depending on Beat Time`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Honeycomb Reflector`,
     rarity: `10★`,
     DFP: {
@@ -710,7 +710,7 @@ export const barriers = [
     notes: `+50% frame DFP, +70 EVP when standing still -50% frame DFP, -70 EVP when attacking`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Tripolic Shield`,
     rarity: `10★`,
     DFP: {
@@ -733,7 +733,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Hunter's Shell`,
     rarity: `10★`,
     DFP: {
@@ -756,7 +756,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Tripolic Reflector`,
     rarity: `10★`,
     DFP: {
@@ -779,7 +779,7 @@ export const barriers = [
     notes: `Occasionally blocks damage from enemy techniques`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Standstill Shield`,
     rarity: `10★`,
     DFP: {
@@ -802,7 +802,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Black Gauntlets`,
     rarity: `10★`,
     DFP: {
@@ -825,7 +825,7 @@ export const barriers = [
     notes: `Megid Pierces. Currently unobtainable`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Three Seals`,
     rarity: `11★`,
     DFP: {
@@ -848,7 +848,7 @@ export const barriers = [
     notes: `+30% Razonde Damage Occasionally blocks an attack Gradually drains HP when walking`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `DF Shield`,
     rarity: `11★`,
     DFP: {
@@ -871,7 +871,7 @@ export const barriers = [
     notes: `Random inflicts status effects on the user`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Gods Shield "Kouryu"`,
     rarity: `11★`,
     DFP: 95,
@@ -888,7 +888,7 @@ export const barriers = [
     notes: `Built-in PB/Create`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Rupika`,
     rarity: `11★`,
     DFP: {
@@ -911,7 +911,7 @@ export const barriers = [
     notes: `+100% Shifta Range`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Striker Plus`,
     rarity: `11★`,
     DFP: {
@@ -934,7 +934,7 @@ export const barriers = [
     notes: `Set Effect (See Page)`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Secure Feet`,
     rarity: `11★`,
     DFP: {
@@ -957,7 +957,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Safety Heart`,
     rarity: `11★`,
     DFP: {
@@ -980,7 +980,7 @@ export const barriers = [
     notes: `Set Effect (See Page)`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Rico's Earring`,
     rarity: `11★`,
     DFP: {
@@ -1003,7 +1003,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Rico's Glasses`,
     rarity: `11★`,
     DFP: 1,
@@ -1020,7 +1020,7 @@ export const barriers = [
     notes: `Grants Trap Vision`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `Ragol Ring`,
     rarity: `12★`,
     DFP: 105,
@@ -1037,7 +1037,7 @@ export const barriers = [
     notes: `Revives the user upon death and is deleted`
   },
   {
-    role: `generic`,
+    role: `Generic`,
     name: `From the Depths`,
     rarity: `12★`,
     DFP: 160,
@@ -1054,7 +1054,7 @@ export const barriers = [
     notes: `Randomly inflicts confuse on the user`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `Hunter Wall`,
     rarity: `9★`,
     DFP: {
@@ -1077,7 +1077,7 @@ export const barriers = [
     notes: `+15 ATP`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `Ranger Wall`,
     rarity: `9★`,
     DFP: {
@@ -1100,7 +1100,7 @@ export const barriers = [
     notes: `+20 ATA`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `Force Wall`,
     rarity: `9★`,
     DFP: {
@@ -1123,7 +1123,7 @@ export const barriers = [
     notes: `+20 MST`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `S-Parts ver2.01`,
     rarity: `10★`,
     DFP: {
@@ -1146,7 +1146,7 @@ export const barriers = [
     notes: `+15 ATA`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `Combat Gear`,
     rarity: `10★`,
     DFP: 0,
@@ -1163,7 +1163,7 @@ export const barriers = [
     notes: `+35 ATP`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `Kasami Bracer`,
     rarity: `10★`,
     DFP: {
@@ -1186,7 +1186,7 @@ export const barriers = [
     notes: `+35 ATP`
   },
   {
-    role: `offense`,
+    role: `Offense`,
     name: `Yata Mirror`,
     rarity: `10★`,
     DFP: {
@@ -1209,7 +1209,7 @@ export const barriers = [
     notes: `+35 ATP and +30% Foie Damage`
   },
   {
-    role: `technique merge`,
+    role: `Technique Merge`,
     name: `Foie Merge`,
     rarity: `9★`,
     DFP: {
@@ -1232,7 +1232,7 @@ export const barriers = [
     notes: `+30% Foie Damage`
   },
   {
-    role: `technique merge`,
+    role: `Technique Merge`,
     name: `Zonde Merge`,
     rarity: `9★`,
     DFP: {
@@ -1255,7 +1255,7 @@ export const barriers = [
     notes: `+30% Zonde Damage`
   },
   {
-    role: `technique merge`,
+    role: `Technique Merge`,
     name: `Barta Merge`,
     rarity: `9★`,
     DFP: {
@@ -1278,7 +1278,7 @@ export const barriers = [
     notes: `+30% Barta Damage`
   },
   {
-    role: `technique merge`,
+    role: `Technique Merge`,
     name: `Gifoie Merge`,
     rarity: `9★`,
     DFP: {
@@ -1301,7 +1301,7 @@ export const barriers = [
     notes: `+30% Gifoie Damage`
   },
   {
-    role: `technique merge`,
+    role: `Technique Merge`,
     name: `Gizonde Merge`,
     rarity: `9★`,
     DFP: {
@@ -1324,7 +1324,7 @@ export const barriers = [
     notes: `+30% Gizonde Damage`
   },
   {
-    role: `technique merge`,
+    role: `Technique Merge`,
     name: `Gibarta Merge`,
     rarity: `9★`,
     DFP: {
@@ -1347,7 +1347,7 @@ export const barriers = [
     notes: `+30% Gibarta Damage`
   },
   {
-    role: `technique merge`,
+    role: `Technique Merge`,
     name: `Rafoie Merge`,
     rarity: `9★`,
     DFP: {
@@ -1370,7 +1370,7 @@ export const barriers = [
     notes: `+30% Rafoie Damage`
   },
   {
-    role: `technique merge`,
+    role: `Technique Merge`,
     name: `Razonde Merge`,
     rarity: `9★`,
     DFP: {
@@ -1393,7 +1393,7 @@ export const barriers = [
     notes: `+30% Razonde Damage`
   },
   {
-    role: `technique merge`,
+    role: `Technique Merge`,
     name: `Rabarta Merge`,
     rarity: `9★`,
     DFP: {
@@ -1416,7 +1416,7 @@ export const barriers = [
     notes: `+30% Rabarta Damage`
   },
   {
-    role: `technique merge`,
+    role: `Technique Merge`,
     name: `Red Merge`,
     rarity: `9★`,
     DFP: {
@@ -1439,7 +1439,7 @@ export const barriers = [
     notes: `+20% Foie, Gifoie and Rafoie Damage`
   },
   {
-    role: `technique merge`,
+    role: `Technique Merge`,
     name: `Yellow Merge`,
     rarity: `9★`,
     DFP: {
@@ -1462,7 +1462,7 @@ export const barriers = [
     notes: `+20% Zonde, Gizonde and Razonde Damage`
   },
   {
-    role: `technique merge`,
+    role: `Technique Merge`,
     name: `Blue Merge`,
     rarity: `9★`,
     DFP: {
@@ -1485,7 +1485,7 @@ export const barriers = [
     notes: `+20% Barta, Gibarta and Rabarta Damage`
   },
   {
-    role: `technique merge`,
+    role: `Technique Merge`,
     name: `Shifta Merge`,
     rarity: `9★`,
     DFP: {
@@ -1508,7 +1508,7 @@ export const barriers = [
     notes: `+100% Shifta Range`
   },
   {
-    role: `technique merge`,
+    role: `Technique Merge`,
     name: `Deband Merge`,
     rarity: `9★`,
     DFP: {
@@ -1531,7 +1531,7 @@ export const barriers = [
     notes: `+100% Deband Range`
   },
   {
-    role: `technique merge`,
+    role: `Technique Merge`,
     name: `Resta Merge`,
     rarity: `9★`,
     DFP: {
@@ -1554,7 +1554,7 @@ export const barriers = [
     notes: `+100% Resta Range`
   },
   {
-    role: `technique merge`,
+    role: `Technique Merge`,
     name: `Anti Merge`,
     rarity: `9★`,
     DFP: {
@@ -1577,7 +1577,7 @@ export const barriers = [
     notes: `+100% Anti Range`
   },
   {
-    role: `technique barrier`,
+    role: `Technique Barrier`,
     name: `Red Barrier`,
     rarity: `9★`,
     DFP: {
@@ -1600,7 +1600,7 @@ export const barriers = [
     notes: `Creates fire merges`
   },
   {
-    role: `technique barrier`,
+    role: `Technique Barrier`,
     name: `Yellow Barrier`,
     rarity: `9★`,
     DFP: {
@@ -1623,7 +1623,7 @@ export const barriers = [
     notes: `Creates thunder merges`
   },
   {
-    role: `technique barrier`,
+    role: `Technique Barrier`,
     name: `Blue Barrier`,
     rarity: `9★`,
     DFP: {
@@ -1646,7 +1646,7 @@ export const barriers = [
     notes: `Creates ice merges`
   },
   {
-    role: `technique barrier`,
+    role: `Technique Barrier`,
     name: `Assist Barrier`,
     rarity: `9★`,
     DFP: {
@@ -1669,7 +1669,7 @@ export const barriers = [
     notes: `Creates support merges`
   },
   {
-    role: `technique barrier`,
+    role: `Technique Barrier`,
     name: `Recovery Barrier`,
     rarity: `9★`,
     DFP: {
@@ -1692,7 +1692,7 @@ export const barriers = [
     notes: `Creates healing merges`
   },
   {
-    role: `ring`,
+    role: `Ring`,
     name: `Blue Ring`,
     rarity: `9★`,
     DFP: {
@@ -1715,7 +1715,7 @@ export const barriers = [
     notes: `+50 MST for each extra player with a Blue Ring`
   },
   {
-    role: `ring`,
+    role: `Ring`,
     name: `Green Ring`,
     rarity: `9★`,
     DFP: {
@@ -1738,7 +1738,7 @@ export const barriers = [
     notes: `+10 ATA for each extra player with a Green Ring`
   },
   {
-    role: `ring`,
+    role: `Ring`,
     name: `Yellow Ring`,
     rarity: `9★`,
     DFP: {
@@ -1761,7 +1761,7 @@ export const barriers = [
     notes: `+25 LCK for each extra player with a Yellow Ring`
   },
   {
-    role: `ring`,
+    role: `Ring`,
     name: `Purple Ring`,
     rarity: `9★`,
     DFP: {
@@ -1784,7 +1784,7 @@ export const barriers = [
     notes: `+50 DFP for each extra player with a Purple Ring`
   },
   {
-    role: `ring`,
+    role: `Ring`,
     name: `White Ring`,
     rarity: `9★`,
     DFP: {
@@ -1807,7 +1807,7 @@ export const barriers = [
     notes: `+25 EVP for each extra player with a White Ring`
   },
   {
-    role: `ring`,
+    role: `Ring`,
     name: `Black Ring`,
     rarity: `9★`,
     DFP: {
@@ -1830,7 +1830,7 @@ export const barriers = [
     notes: `+50 ATP for each extra player with a Black Ring`
   },
   {
-    role: `ring`,
+    role: `Ring`,
     name: `Anti-Light Ring`,
     rarity: `10★`,
     DFP: 90,
@@ -1847,7 +1847,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `ring`,
+    role: `Ring`,
     name: `Anti-Dark Ring`,
     rarity: `10★`,
     DFP: 20,
@@ -1864,7 +1864,7 @@ export const barriers = [
     notes: null
   },
   {
-    role: `ring`,
+    role: `Ring`,
     name: `Red Ring`,
     rarity: `11★`,
     DFP: {

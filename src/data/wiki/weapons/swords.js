@@ -111,13 +111,13 @@ export const swords = [
     },
     ATA: 30,
     grind: 31,
-    special: 'Fill (Drain rate reduced by ½)',
+    special: 'Fill*',
     requirement: {
       stat: 'ATP',
       amount: 470
     },
     classes: '111100000000',
-    notes: '+20 HP'
+    notes: '+20 HP; *Drain rate reduced by ½'
   },
   {
     name: 'Dragon Slayer',

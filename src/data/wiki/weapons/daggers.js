@@ -8,13 +8,13 @@ export const daggers = [
     },
     ATA: 30,
     grind: 30,
-    special: `Seize (Activation rate reduced by ½)`,
+    special: `Seize*`,
     requirement: {
       stat: `ATP`,
       amount: 385
     },
     classes: `111100000000`,
-    notes: `+10 DFP`
+    notes: `+10 DFP; *Activation rate reduced by ½`
   },
   {
     name: `Bloody Art`,
@@ -25,13 +25,13 @@ export const daggers = [
     },
     ATA: 32,
     grind: 42,
-    special: `Devil's (Activation rate reduced by ½)`,
+    special: `Devil's*`,
     requirement: {
       stat: `ATP`,
       amount: 412
     },
     classes: `111100000000`,
-    notes: `+10 MST`
+    notes: `+10 MST; *Activation rate reduced by ½`
   },
   {
     name: `Wok of Akiko's Shop`,
@@ -127,13 +127,13 @@ export const daggers = [
     },
     ATA: 29,
     grind: 99,
-    special: `Blizzard (Activation rate reduced by ½)`,
+    special: `Blizzard*`,
     requirement: {
       stat: `ATP`,
       amount: 490
     },
     classes: `111111111111`,
-    notes: `+30 DFP`
+    notes: `+30 DFP; *Activation rate reduced by ½`
   },
   {
     name: `P-Arms' Blade`,

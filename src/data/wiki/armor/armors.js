@@ -1,6 +1,6 @@
 export const armors = [
   {
-    role: `common`,
+    role: `Common`,
     name: `Celestial Armor`,
     rarity: `8★`,
     DFP: {

@@ -1,0 +1,77 @@
+.item-card-container {
+  max-width: 450px;
+  background-color: var(--color-surface-1);
+  padding: 0.75rem;
+  border: 2px solid var(--color-surface-2);
+  border-radius: var(--border-radius-2);
+}
+
+.item-card__header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.item-card__name {
+  max-width: 330px;
+  letter-spacing: -0.1rem;
+  font-size: 2.5rem;
+  line-height: 2.1rem;
+  margin-bottom: 1rem;
+}
+
+.item-card__type {
+  margin-left: 1rem;
+  white-space: nowrap;
+}
+
+.class-table,
+.stats-table {
+  border-collapse: collapse;
+  margin: 1rem auto;
+}
+
+.stats-table th {
+  background-color: var(--color-surface-1-hover);
+  border: 1px solid var(--color-surface-dark-alt-1) !important;
+}
+
+.stats-table td {
+  background-color: var(--color-surface-1-active);
+  border: 1px solid var(--color-surface-dark-alt-1) !important;
+}
+
+.stats-table td.dim {
+  color: #6e758f;
+  font-weight: 600;
+}
+
+.class-table td,
+.stats-table th,
+.stats-table td {
+  font-size: 12px;
+  padding: 5px 8px;
+  text-align: center;
+  border: 1px solid var(--color-surface-dark-2);
+  color: var(--color-text-1-on-surface-1);
+  white-space: nowrap;
+}
+
+.class-table td.equippable {
+  background-color: #15652c;
+  color: #dcffe6;
+  font-weight: 500;
+}
+
+.class-table td.not-equippable {
+  background-color: #581c1c;
+  color: #a56262;
+  opacity: 0.5;
+}
+
+.item-card__notes {
+  background-color: var(--color-surface-dark-1);
+  padding: 0.5rem;
+  border-radius: var(--border-radius-1);
+  font-size: 0.9rem;
+}

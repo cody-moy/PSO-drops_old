@@ -8,13 +8,13 @@ export const shots = [
     },
     ATA: 34,
     grind: 25,
-    special: `Fill (Drain rate reduced by ⅔)`,
+    special: `Fill*`,
     requirement: {
       stat: `ATA`,
       amount: 122
     },
     classes: `000011110000`,
-    notes: `−30 EVP`
+    notes: `−30 EVP; *Drain rate reduced by ⅔`
   },
   {
     name: `Meteor Smash`,
@@ -25,13 +25,13 @@ export const shots = [
     },
     ATA: 36,
     grind: 25,
-    special: `Soul (Drain rate reduced by ⅔)`,
+    special: `Soul*`,
     requirement: {
       stat: `ATA`,
       amount: 125
     },
     classes: `000011110000`,
-    notes: `−30 EVP`
+    notes: `−30 EVP; *Drain rate reduced by ⅔`
   },
   {
     name: `Final Impact`,
@@ -42,13 +42,13 @@ export const shots = [
     },
     ATA: 36,
     grind: 30,
-    special: `Lord's (Drain rate reduced by ⅔)`,
+    special: `Lord's*`,
     requirement: {
       stat: `ATA`,
       amount: 125
     },
     classes: `000011110000`,
-    notes: `−30 EVP, +10 LCK`
+    notes: `−30 EVP, +10 LCK; *Drain rate reduced by ⅔`
   },
   {
     name: `Inferno Bazooka`,
