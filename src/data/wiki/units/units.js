@@ -1,6 +1,6 @@
 export const units = [
   {
-    name: `Digger/HP`,
+    name: `Digger / HP`,
     rarity: `2★`,
     augmentation: {
       stat: `HP`,
@@ -10,7 +10,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `General/HP`,
+    name: `General / HP`,
     rarity: `4★`,
     augmentation: {
       stat: `HP`,
@@ -20,7 +20,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Dragon/HP`,
+    name: `Dragon / HP`,
     rarity: `6★`,
     augmentation: {
       stat: `HP`,
@@ -30,7 +30,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `God/HP`,
+    name: `God / HP`,
     rarity: `11★`,
     augmentation: {
       stat: `HP`,
@@ -40,7 +40,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Heavenly/HP`,
+    name: `Heavenly / HP`,
     rarity: `11★`,
     augmentation: {
       stat: `HP`,
@@ -50,7 +50,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Magician/TP`,
+    name: `Magician / TP`,
     rarity: `2★`,
     augmentation: {
       stat: `TP`,
@@ -60,7 +60,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `General/TP`,
+    name: `General / TP`,
     rarity: `4★`,
     augmentation: {
       stat: `TP`,
@@ -70,7 +70,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Angel/TP`,
+    name: `Angel / TP`,
     rarity: `6★`,
     augmentation: {
       stat: `TP`,
@@ -80,7 +80,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `God/TP`,
+    name: `God / TP`,
     rarity: `11★`,
     augmentation: {
       stat: `TP`,
@@ -90,7 +90,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Heavenly/TP`,
+    name: `Heavenly / TP`,
     rarity: `11★`,
     augmentation: {
       stat: `TP`,
@@ -100,7 +100,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Knight/Power`,
+    name: `Knight / Power`,
     rarity: `2★`,
     augmentation: {
       stat: `ATP`,
@@ -110,7 +110,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `General/Power`,
+    name: `General / Power`,
     rarity: `3★`,
     augmentation: {
       stat: `ATP`,
@@ -120,7 +120,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Ogre/Power`,
+    name: `Ogre / Power`,
     rarity: `5★`,
     augmentation: {
       stat: `ATP`,
@@ -130,7 +130,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `God/Power`,
+    name: `God / Power`,
     rarity: `11★`,
     augmentation: {
       stat: `ATP`,
@@ -140,7 +140,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Heavenly/Power`,
+    name: `Heavenly / Power`,
     rarity: `11★`,
     augmentation: {
       stat: `ATP`,
@@ -150,7 +150,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Warrior/Body`,
+    name: `Warrior / Body`,
     rarity: `2★`,
     augmentation: {
       stat: `DFP`,
@@ -160,7 +160,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `General/Body`,
+    name: `General / Body`,
     rarity: `3★`,
     augmentation: {
       stat: `DFP`,
@@ -170,7 +170,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Metal/Body`,
+    name: `Metal / Body`,
     rarity: `5★`,
     augmentation: {
       stat: `DFP`,
@@ -180,7 +180,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `God/Body`,
+    name: `God / Body`,
     rarity: `11★`,
     augmentation: {
       stat: `DFP`,
@@ -190,7 +190,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Heavenly/Body`,
+    name: `Heavenly / Body`,
     rarity: `11★`,
     augmentation: {
       stat: `DFP`,
@@ -200,7 +200,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Priest/Mind`,
+    name: `Priest / Mind`,
     rarity: `2★`,
     augmentation: {
       stat: `MST`,
@@ -210,7 +210,7 @@ export const units = [
     classes: `110011001111`
   },
   {
-    name: `General/Mind`,
+    name: `General / Mind`,
     rarity: `3★`,
     augmentation: {
       stat: `MST`,
@@ -220,7 +220,7 @@ export const units = [
     classes: `110011001111`
   },
   {
-    name: `Angel/Mind`,
+    name: `Angel / Mind`,
     rarity: `5★`,
     augmentation: {
       stat: `MST`,
@@ -230,7 +230,7 @@ export const units = [
     classes: `110011001111`
   },
   {
-    name: `God/Mind`,
+    name: `God / Mind`,
     rarity: `11★`,
     augmentation: {
       stat: `MST`,
@@ -240,7 +240,7 @@ export const units = [
     classes: `110011001111`
   },
   {
-    name: `Heavenly/Mind`,
+    name: `Heavenly / Mind`,
     rarity: `11★`,
     augmentation: {
       stat: `MST`,
@@ -250,7 +250,7 @@ export const units = [
     classes: `110011001111`
   },
   {
-    name: `Marksman/Arm`,
+    name: `Marksman / Arm`,
     rarity: `2★`,
     augmentation: {
       stat: `ATA`,
@@ -260,7 +260,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `General/Arm`,
+    name: `General / Arm`,
     rarity: `3★`,
     augmentation: {
       stat: `ATA`,
@@ -270,7 +270,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Elf/Arm`,
+    name: `Elf / Arm`,
     rarity: `5★`,
     augmentation: {
       stat: `ATA`,
@@ -280,7 +280,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `God/Arm`,
+    name: `God / Arm`,
     rarity: `11★`,
     augmentation: {
       stat: `ATA`,
@@ -290,7 +290,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Heavenly/Arms`,
+    name: `Heavenly / Arms`,
     rarity: `11★`,
     augmentation: {
       stat: `ATA`,
@@ -300,7 +300,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Thief/Legs`,
+    name: `Thief / Legs`,
     rarity: `2★`,
     augmentation: {
       stat: `EVP`,
@@ -310,7 +310,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `General/Legs`,
+    name: `General / Legs`,
     rarity: `3★`,
     augmentation: {
       stat: `EVP`,
@@ -320,7 +320,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Elf/Legs`,
+    name: `Elf / Legs`,
     rarity: `5★`,
     augmentation: {
       stat: `EVP`,
@@ -330,7 +330,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `God/Legs`,
+    name: `God / Legs`,
     rarity: `11★`,
     augmentation: {
       stat: `EVP`,
@@ -340,7 +340,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Heavenly/Legs`,
+    name: `Heavenly / Legs`,
     rarity: `11★`,
     augmentation: {
       stat: `EVP`,
@@ -350,7 +350,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Angel/Luck`,
+    name: `Angel / Luck`,
     rarity: `8★`,
     augmentation: {
       stat: `LCK`,
@@ -360,7 +360,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `God/Luck`,
+    name: `God / Luck`,
     rarity: `11★`,
     augmentation: {
       stat: `LCK`,
@@ -370,7 +370,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Heavenly/Luck`,
+    name: `Heavenly / Luck`,
     rarity: `11★`,
     augmentation: {
       stat: `LCK`,
@@ -380,7 +380,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Master/Ability`,
+    name: `Master / Ability`,
     rarity: `8★`,
     augmentation: {
       stat: `All (ATA increase is 10% of value)`,
@@ -390,7 +390,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Hero/Ability`,
+    name: `Hero / Ability`,
     rarity: `10★`,
     augmentation: {
       stat: `All (ATA increase is 10% of value)`,
@@ -400,7 +400,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `God/Ability`,
+    name: `God / Ability`,
     rarity: `11★`,
     augmentation: {
       stat: `All (ATA increase is 10% of value)`,
@@ -410,7 +410,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Heavenly/Ability`,
+    name: `Heavenly / Ability`,
     rarity: `11★`,
     augmentation: {
       stat: `All (ATA increase is 10% of value)`,
@@ -420,7 +420,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Centurion/Ability`,
+    name: `Centurion / Ability`,
     rarity: `11★`,
     augmentation: {
       stat: `All (ATA increase is 10% of value)`,
@@ -430,7 +430,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Resist/Fire`,
+    name: `Resist / Fire`,
     rarity: `2★`,
     augmentation: {
       stat: `EFR`,
@@ -440,7 +440,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Resist/Flame`,
+    name: `Resist / Flame`,
     rarity: `3★`,
     augmentation: {
       stat: `EFR`,
@@ -450,7 +450,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Resist/Burning`,
+    name: `Resist / Burning`,
     rarity: `5★`,
     augmentation: {
       stat: `EFR`,
@@ -460,7 +460,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Resist/Cold`,
+    name: `Resist / Cold`,
     rarity: `2★`,
     augmentation: {
       stat: `EIC`,
@@ -470,7 +470,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Resist/Freeze`,
+    name: `Resist / Freeze`,
     rarity: `3★`,
     augmentation: {
       stat: `EIC`,
@@ -480,7 +480,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Resist/Blizzard`,
+    name: `Resist / Blizzard`,
     rarity: `5★`,
     augmentation: {
       stat: `EIC`,
@@ -490,7 +490,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Resist/Shock`,
+    name: `Resist / Shock`,
     rarity: `2★`,
     augmentation: {
       stat: `ETH`,
@@ -500,7 +500,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Resist/Thunder`,
+    name: `Resist / Thunder`,
     rarity: `3★`,
     augmentation: {
       stat: `ETH`,
@@ -510,7 +510,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Resist/Storm`,
+    name: `Resist / Storm`,
     rarity: `5★`,
     augmentation: {
       stat: `ETH`,
@@ -520,7 +520,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Resist/Dark`,
+    name: `Resist / Dark`,
     rarity: `3★`,
     augmentation: {
       stat: `EDK`,
@@ -530,7 +530,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Resist/Evil`,
+    name: `Resist / Evil`,
     rarity: `4★`,
     augmentation: {
       stat: `EDK`,
@@ -540,7 +540,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Resist/Devil`,
+    name: `Resist / Devil`,
     rarity: `5★`,
     augmentation: {
       stat: `EDK`,
@@ -550,7 +550,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Resist/Light`,
+    name: `Resist / Light`,
     rarity: `3★`,
     augmentation: {
       stat: `ELT`,
@@ -560,7 +560,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Resist/Saint`,
+    name: `Resist / Saint`,
     rarity: `4★`,
     augmentation: {
       stat: `ELT`,
@@ -570,7 +570,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Resist/Holy`,
+    name: `Resist / Holy`,
     rarity: `6★`,
     augmentation: {
       stat: `ELT`,
@@ -580,7 +580,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `All/Resist`,
+    name: `All / Resist`,
     rarity: `7★`,
     augmentation: {
       stat: `All`,
@@ -590,7 +590,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Super/Resist`,
+    name: `Super / Resist`,
     rarity: `8★`,
     augmentation: {
       stat: `All`,
@@ -600,7 +600,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Perfect/Resist`,
+    name: `Perfect / Resist`,
     rarity: `11★`,
     augmentation: {
       stat: `All`,
@@ -610,7 +610,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Heavenly/Resist`,
+    name: `Heavenly / Resist`,
     rarity: `11★`,
     augmentation: {
       stat: `All`,
@@ -620,7 +620,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `HP/Restorate`,
+    name: `HP / Restorate`,
     rarity: `4★`,
     augmentation: {
       stat: `HP`,
@@ -630,7 +630,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `HP/Generate`,
+    name: `HP / Generate`,
     rarity: `6★`,
     augmentation: {
       stat: `HP`,
@@ -640,7 +640,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `HP/Revival`,
+    name: `HP / Revival`,
     rarity: `9★`,
     augmentation: {
       stat: `HP`,
@@ -650,7 +650,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `HP/Resurrection`,
+    name: `HP / Resurrection`,
     rarity: `11★`,
     augmentation: {
       stat: `HP`,
@@ -660,7 +660,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `TP/Restorate`,
+    name: `TP / Restorate`,
     rarity: `4★`,
     augmentation: {
       stat: `TP`,
@@ -670,7 +670,7 @@ export const units = [
     classes: `110011001111`
   },
   {
-    name: `TP/Generate`,
+    name: `TP / Generate`,
     rarity: `6★`,
     augmentation: {
       stat: `TP`,
@@ -680,7 +680,7 @@ export const units = [
     classes: `110011001111`
   },
   {
-    name: `TP/Revival`,
+    name: `TP / Revival`,
     rarity: `9★`,
     augmentation: {
       stat: `TP`,
@@ -690,7 +690,7 @@ export const units = [
     classes: `110011001111`
   },
   {
-    name: `TP/Resurrection`,
+    name: `TP / Resurrection`,
     rarity: `11★`,
     augmentation: {
       stat: `TP`,
@@ -700,7 +700,7 @@ export const units = [
     classes: `110011001111`
   },
   {
-    name: `PB/Amplifier`,
+    name: `PB / Amplifier`,
     rarity: `4★`,
     augmentation: {
       stat: `PB`,
@@ -710,7 +710,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `PB/Generate`,
+    name: `PB / Generate`,
     rarity: `6★`,
     augmentation: {
       stat: `PB`,
@@ -720,7 +720,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `PB/Create`,
+    name: `PB / Create`,
     rarity: `9★`,
     augmentation: {
       stat: `PB`,
@@ -730,7 +730,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `PB/Increase`,
+    name: `PB / Increase`,
     rarity: `11★`,
     augmentation: {
       stat: `PB`,
@@ -740,7 +740,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `General/Battle`,
+    name: `General / Battle`,
     rarity: `6★`,
     augmentation: {
       stat: `Attack speed`,
@@ -750,7 +750,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Devil/Battle`,
+    name: `Devil / Battle`,
     rarity: `9★`,
     augmentation: {
       stat: `Attack speed`,
@@ -760,7 +760,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `God/Battle`,
+    name: `God / Battle`,
     rarity: `11★`,
     augmentation: {
       stat: `Attack speed`,
@@ -770,7 +770,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Heavenly/Battle`,
+    name: `Heavenly / Battle`,
     rarity: `11★`,
     augmentation: {
       stat: `Attack speed`,
@@ -780,7 +780,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Wizard/Technique`,
+    name: `Wizard / Technique`,
     rarity: `6★`,
     augmentation: {
       stat: `Technique level`,
@@ -790,7 +790,7 @@ export const units = [
     classes: `110011001111`
   },
   {
-    name: `Devil/Technique`,
+    name: `Devil / Technique`,
     rarity: `9★`,
     augmentation: {
       stat: `Technique level`,
@@ -800,7 +800,7 @@ export const units = [
     classes: `110011001111`
   },
   {
-    name: `God/Technique`,
+    name: `God / Technique`,
     rarity: `11★`,
     augmentation: {
       stat: `Technique level`,
@@ -810,7 +810,7 @@ export const units = [
     classes: `110011001111`
   },
   {
-    name: `Heavenly/Technique`,
+    name: `Heavenly / Technique`,
     rarity: `11★`,
     augmentation: {
       stat: `Technique level`,
@@ -820,7 +820,7 @@ export const units = [
     classes: `110011001111`
   },
   {
-    name: `Cure/Confuse`,
+    name: `Cure / Confuse`,
     rarity: `9★`,
     augmentation: {
       stat: `Immunity`,
@@ -830,7 +830,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Cure/Freeze`,
+    name: `Cure / Freeze`,
     rarity: `9★`,
     augmentation: {
       stat: `Immunity`,
@@ -840,7 +840,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Cure/Paralysis`,
+    name: `Cure / Paralysis`,
     rarity: `9★`,
     augmentation: {
       stat: `Immunity`,
@@ -850,7 +850,7 @@ export const units = [
     classes: `110011001111`
   },
   {
-    name: `Cure/Poison`,
+    name: `Cure / Poison`,
     rarity: `9★`,
     augmentation: {
       stat: `Immunity`,
@@ -860,7 +860,7 @@ export const units = [
     classes: `110011001111`
   },
   {
-    name: `Cure/Shock`,
+    name: `Cure / Shock`,
     rarity: `9★`,
     augmentation: {
       stat: `Immunity`,
@@ -870,7 +870,7 @@ export const units = [
     classes: `111111111111`
   },
   {
-    name: `Cure/Slow`,
+    name: `Cure / Slow`,
     rarity: `9★`,
     augmentation: {
       stat: `Immunity`,

@@ -1,0 +1,34 @@
+.global-dimmer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: #00000000;
+  transition: all 200ms ease;
+  backdrop-filter: blur(0px);
+  pointer-events: none;
+}
+
+.global-dimmer.visible {
+  background-color: #000000b0;
+  backdrop-filter: blur(2px);
+  pointer-events: unset;
+}
+
+.item-modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  padding: var(--spacing-s) var(--spacing-m);
+  border-radius: var(--border-radius-3);
+  background-color: var(--color-surface-1);
+  transform: translate(-50%, -50%) scale(0.8);
+  opacity: 0;
+  transition: all 200ms ease;
+}
+
+.item-modal.visible {
+  opacity: 1;
+  transform: translate(-50%, -50%) scale(1);
+}

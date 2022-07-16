@@ -1,15 +1,28 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState, useRef, useCallback } from 'react';
 
 import './styles/Select.css';
 
 function Select({ label, options, value, setValue, borderFreq }) {
   const [expanded, setExpanded] = useState(false);
+  const ref = useRef();
 
   const optionHeight = 24;
   const optionPadding = 4;
 
+  useEffect(() => {
+    if (expanded)
+      setTimeout(() => {
+        window.addEventListener('click', handleClick);
+      }, 10);
+    else window.removeEventListener('click', handleClick);
+  }, [expanded]);
+
+  const handleClick = useCallback(() => {
+    setExpanded(false);
+  }, []);
+
   return (
-    <div className="select-container">
+    <div className="select-container" ref={ref}>
       <p className="select-label">{label}</p>
       <div className={`select-wrapper ${expanded ? 'expanded' : ''}`}>
         <div
@@ -30,6 +43,7 @@ function Select({ label, options, value, setValue, borderFreq }) {
           {options.map((o, i) => {
             return (
               <Option
+                key={i}
                 value={o}
                 setValue={setValue}
                 setExpanded={setExpanded}

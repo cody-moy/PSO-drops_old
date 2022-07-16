@@ -4,11 +4,11 @@ import monsterDrops from '../data/MONSTER_DROPS';
 import boxDrops from '../data/BOX_DROPS';
 import Character from './Character';
 import Button from './Button';
-import Checkbox from './Checkbox';
+import getSecIDIcon from '../Utils/getSecIDIcon';
 
 import './styles/Table.css';
 
-function Table(props) {
+function Table({ setItem }) {
   const [difficulty, setDifficulty] = useState('ultimate');
   const [episodeFilter, setEpisodeFilter] = useState([true, true, true]);
   const [episodes, setEpisodes] = useState([]);
@@ -17,13 +17,7 @@ function Table(props) {
     setEpisodes(monsterDrops[difficulty].episodes);
   }, [difficulty]);
 
-  useEffect(() => {
-    console.log('episodeFilter:', episodeFilter);
-  }, [episodeFilter]);
-
   const changeEpFilter = (episode, value) => {
-    console.log('episode:', episode);
-    console.log('value:', value);
     if (episode === 'all') {
       setEpisodeFilter([true, true, true]);
       return;
@@ -38,12 +32,27 @@ function Table(props) {
       <div className="table-filter-container">
         <div className="table-filter" id="difficulty">
           <p>Difficulty</p>
-          <Button func={() => setDifficulty('ultimate')} label="Ultimate" />
-          <Button func={() => setDifficulty('vhard')} label="Very hard" />
-          <Button func={() => setDifficulty('hard')} label="Hard" />
-          <Button func={() => setDifficulty('normal')} label="Normal" />
+          <Button
+            func={() => setDifficulty('ultimate')}
+            label="Ultimate"
+            highlighted={difficulty === 'ultimate'}
+          />
+          <Button
+            func={() => setDifficulty('vhard')}
+            label="Very hard"
+            highlighted={difficulty === 'vhard'}
+          />
+          <Button
+            func={() => setDifficulty('hard')}
+            label="Hard"
+            highlighted={difficulty === 'hard'}
+          />
+          <Button
+            func={() => setDifficulty('normal')}
+            label="Normal"
+            highlighted={difficulty === 'normal'}
+          />
         </div>
-
         <div className="table-filter" id="episode">
           <p>Episode</p>
           <Button
@@ -81,21 +90,30 @@ function Table(props) {
       <h2>Drop table for {difficulty}</h2>
       {episodes.length > 0 && (
         <div className="episode-wrapper">
-          {episodes.map(episode => {
+          {episodes.map((episode, i) => {
             return (
-              <div className="table__episode-container" id={episode.name}>
+              <div
+                key={i}
+                className="table__episode-container"
+                id={episode.name}
+              >
                 <>
                   <h3 className="table__episode-name">
                     {episode.name.toUpperCase()}
                   </h3>
-                  {episode.areas.map(area => {
+                  {episode.areas.map((area, i) => {
                     return (
-                      <div className="table__area-container" id={area.name}>
+                      <div
+                        key={i}
+                        className="table__area-container"
+                        id={area.name}
+                      >
                         <>
                           <h4 className="table__area-name">{area.name}</h4>
-                          {area.drops.map(dropSource => {
+                          {area.drops.map((dropSource, i) => {
                             return (
                               <div
+                                key={i}
                                 className="table__drop-source-container"
                                 id={dropSource.source}
                               >
@@ -103,12 +121,21 @@ function Table(props) {
                                   <div className="table__drop-source-name-container">
                                     <p>{dropSource.source}</p>
                                   </div>
-                                  {dropSource.items.map(item => {
+                                  {dropSource.items.map((item, i) => {
                                     return (
-                                      <div className="table__item-container">
-                                        <p className="table__item-secID">
-                                          {item.secID}
-                                        </p>
+                                      <div
+                                        key={i}
+                                        className={`table__item-container ${
+                                          item.itemName ? '' : 'no-drop'
+                                        }`}
+                                        onClick={() => setItem(item.itemName)}
+                                      >
+                                        <div className="table__item-secID">
+                                          <img
+                                            src={getSecIDIcon(item.secID)}
+                                            alt={`${item.secID}-icon`}
+                                          />
+                                        </div>
                                         <p
                                           className={`table__item-name ${
                                             item.itemName ? '' : 'no-drop'
@@ -116,12 +143,16 @@ function Table(props) {
                                         >
                                           {item.itemName || 'N/A'}
                                         </p>
-                                        <p>
-                                          Drop rate:{' '}
-                                          <span className="table__drop-rate">
-                                            1/{item.dropRate}
-                                          </span>
-                                        </p>
+                                        {item.itemName && (
+                                          <div className="table__drop-rate_wrapper">
+                                            <p className="table__drop-rate">
+                                              Drop rate:{' '}
+                                            </p>
+                                            <p className="table__drop-rate_rate">
+                                              1/{item.dropRate}
+                                            </p>
+                                          </div>
+                                        )}
                                       </div>
                                     );
                                   })}

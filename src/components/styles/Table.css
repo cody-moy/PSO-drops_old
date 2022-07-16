@@ -56,13 +56,35 @@
 }
 
 .table__item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2px;
+  padding: 5px;
+  text-align: center;
+  background-color: var(--color-surface-1);
   border: 1px solid var(--color-surface-2);
+  border-radius: var(--border-radius-1);
+  transition: background-color 200ms ease;
+  cursor: pointer;
+}
+
+.table__item-container.no-drop {
+  background-color: var(--color-surface-1-disabled);
+  pointer-events: none;
+}
+
+.table__item-container:hover:not(.table__item-container.no-drop) {
+  background-color: var(--color-surface-1-hover);
 }
 
 .table__item-secID {
   font-weight: 600;
   text-align: center;
-  margin: 0 0 1rem 0;
+}
+
+.table__item-secID img {
+  width: 25px;
 }
 
 .table__item-secID,
@@ -70,6 +92,28 @@
   font-size: 0.9rem;
 }
 
+.table__item-name {
+  flex-grow: 1;
+  margin: 0.5rem 0;
+}
+
 .table__item-name.no-drop {
   opacity: 0.5;
+}
+
+.table__drop-rate_wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.table__drop-rate {
+  color: var(--color-text-2-on-surface-1);
+  font-size: 0.8rem;
+}
+
+.table__drop-rate_rate {
+  color: var(--color-text-3-on-surface-1);
+  font-weight: 600;
 }

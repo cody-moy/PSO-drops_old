@@ -32,19 +32,26 @@ body {
   background-color: #1f1f24;
 }
 
+.app {
+  position: relative;
+}
+
 :root {
   --main-bg-color: #1f1f24;
+
   --color-surface-1: #34394d;
   --color-surface-dark-1: #1a1e2e;
   --color-surface-1-hover: #484f69;
   --color-surface-1-active: #252b41;
-  --color-surface-1-highlighted: #bbd7f7;
+  --color-surface-1-highlighted: #7498d8;
+  --color-surface-1-disabled: #2d303b;
 
   --color-surface-2: #595f77;
   --color-surface-dark-2: #1e253d;
   --color-surface-2-hover: #707794;
   --color-surface-2-active: #4e5880;
   --color-surface-2-highlighted: #6491e6;
+  --color-surface-2-disabled: #4c515f;
 
   --color-surface-alt-1: #1c2b31;
   --color-surface-dark-alt-1: #0a161b;
@@ -58,15 +65,25 @@ body {
   --color-surface-alt-2-active: #214e5f;
   --color-surface-alt-2-highlighted: #52c1cf;
 
-  --color-text-1: #dedef8;
-  --color-text-2: #9d9dc2;
+  --color-text-1-on-surface-1: #dae2f3;
+  --color-text-2-on-surface-1: #8299c9;
+  --color-text-3-on-surface-1: #8fdeef;
 
-  --color-text-dark-1: #0e0e18;
-  --color-text-dark-2: #26263d;
+  --color-text-1-dark-on-surface-1: #10192e;
+  --color-text-2-dark-on-surface-1: #202b45;
+  --color-text-3-dark-on-surface-1: #2d4766;
 
-  --color-text-alt-1: #bce2f5;
-  --color-text-alt-2: #67a3c4;
+  --spacing-xxxs: 4px;
+  --spacing-xxs: 8px;
+  --spacing-xs: 12px;
+  --spacing-s: 16px;
+  --spacing-m: 24px;
+  --spacing-l: 32px;
+  --spacing-xl: 40px;
+  --spacing-xxl: 48px;
+  --spacing-xxxl: 56px;
 
-  --color-text-dark-alt-1: #0a141a;
-  --color-text-dark-alt-2: #19252c;
+  --border-radius-1: 3px;
+  --border-radius-2: 5px;
+  --border-radius-3: 10px;
 }
