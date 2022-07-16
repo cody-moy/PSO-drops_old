@@ -1,21 +1,9 @@
 import React, { useEffect, useState } from 'react';
+import ItemCard from './ItemCard';
 
 import './styles/ItemModal.css';
 
 function ItemModal({ visible, close, item, setItem }) {
-  const [searching, setSearching] = useState(true);
-
-  useEffect(() => {
-    if (visible) {
-      setSearching(true);
-      findItem();
-    }
-  }, [visible]);
-
-  const findItem = () => {
-    console.log('searching for item...');
-  };
-
   const handleClose = () => {
     setTimeout(() => {
       setItem(null);
@@ -30,7 +18,7 @@ function ItemModal({ visible, close, item, setItem }) {
         onClick={handleClose}
       />
       <div className={`item-modal ${visible ? 'visible' : ''}`}>
-        <span>{item}</span>
+        {visible && <ItemCard item={item} />}
       </div>
     </>
   );

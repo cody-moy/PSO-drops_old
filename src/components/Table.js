@@ -90,10 +90,10 @@ function Table({ setItem }) {
       <h2>Drop table for {difficulty}</h2>
       {episodes.length > 0 && (
         <div className="episode-wrapper">
-          {episodes.map((episode, i) => {
+          {episodes.map((episode, ei) => {
             return (
               <div
-                key={i}
+                key={ei}
                 className="table__episode-container"
                 id={episode.name}
               >
@@ -101,19 +101,19 @@ function Table({ setItem }) {
                   <h3 className="table__episode-name">
                     {episode.name.toUpperCase()}
                   </h3>
-                  {episode.areas.map((area, i) => {
+                  {episode.areas.map((area, ai) => {
                     return (
                       <div
-                        key={i}
+                        key={ai}
                         className="table__area-container"
                         id={area.name}
                       >
                         <>
                           <h4 className="table__area-name">{area.name}</h4>
-                          {area.drops.map((dropSource, i) => {
+                          {area.drops.map((dropSource, di) => {
                             return (
                               <div
-                                key={i}
+                                key={di}
                                 className="table__drop-source-container"
                                 id={dropSource.source}
                               >
@@ -121,14 +121,14 @@ function Table({ setItem }) {
                                   <div className="table__drop-source-name-container">
                                     <p>{dropSource.source}</p>
                                   </div>
-                                  {dropSource.items.map((item, i) => {
+                                  {dropSource.items.map((item, ii) => {
                                     return (
                                       <div
-                                        key={i}
+                                        key={ii}
                                         className={`table__item-container ${
                                           item.itemName ? '' : 'no-drop'
                                         }`}
-                                        onClick={() => setItem(item.itemName)}
+                                        onClick={() => setItem(item)}
                                       >
                                         <div className="table__item-secID">
                                           <img

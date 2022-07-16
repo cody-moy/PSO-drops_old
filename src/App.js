@@ -2,19 +2,10 @@ import { useEffect, useState } from 'react';
 import './App.css';
 import Table from './components/Table';
 import Character from './components/Character';
-import ItemCard from './components/ItemCard';
 import ItemModal from './components/ItemModal';
+import setType from './Utils/setItemType';
 
-// import Greenill from './assets/Greenill_icon.png';
-// import Viridia from './assets/Viridia_icon.png';
-// import Bluefull from './assets/Bluefull_icon.png';
-// import Oran from './assets/Oran_icon.png';
-// import Purplenum from './assets/Purplenum_icon.png';
-// import Skyly from './assets/Skyly_icon.png';
-// import Pinkal from './assets/Pinkal_icon.png';
-// import Whitill from './assets/Whitill_icon.png';
-// import Yellowboze from './assets/Yellowboze_icon.png';
-// import Redria from './assets/Redria_icon.png';
+import monsterDrops from './data/MONSTER_DROPS';
 
 function App() {
   const [character, setCharacter] = useState({
@@ -34,6 +25,53 @@ function App() {
     setShowModal(Boolean(item));
   }, [item]);
 
+  const addTypeToMonsterDrops = () => {
+    let temp = monsterDrops;
+
+    console.log('begin processing...');
+
+    let difficulties = ['ultimate', 'vhard', 'hard', 'normal'];
+
+    for (let diff = 0; diff < 4; diff++) {
+      for (
+        let episode = 0;
+        episode < temp[difficulties[diff]].episodes.length;
+        episode++
+      ) {
+        for (
+          let area = 0;
+          area < temp[difficulties[diff]].episodes[episode].areas.length;
+          area++
+        ) {
+          for (
+            let source = 0;
+            source <
+            temp[difficulties[diff]].episodes[episode].areas[area].drops.length;
+            source++
+          ) {
+            for (let secId = 0; secId < 10; secId++) {
+              if (
+                temp[difficulties[diff]].episodes[episode].areas[area].drops[
+                  source
+                ].items[secId].itemName
+              ) {
+                temp[difficulties[diff]].episodes[episode].areas[area].drops[
+                  source
+                ].items[secId] = setType(
+                  temp[difficulties[diff]].episodes[episode].areas[area].drops[
+                    source
+                  ].items[secId]
+                );
+              }
+            }
+          }
+        }
+      }
+    }
+
+    localStorage.setItem('ultimate', JSON.stringify(temp));
+  };
+
   return (
     <div className="App">
       <h1>Ephinea PSO:BB drop database</h1>
@@ -43,7 +81,9 @@ function App() {
         characterMode={characterMode}
         setCharacterMode={setCharacterMode}
       />
-      <ItemCard />
+      <button style={{ margin: '4rem 1rem' }} onClick={addTypeToMonsterDrops}>
+        Test search
+      </button>
       <div className="table-container">
         <Table setItem={setItem} />
       </div>

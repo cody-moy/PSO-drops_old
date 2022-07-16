@@ -1,5 +1,28 @@
 export const frames = [
   {
+    role: `common`,
+    name: `Ultimate Frame`,
+    rarity: `8★`,
+    DFP: {
+      min: 110,
+      max: 114
+    },
+    EVP: {
+      min: 60,
+      max: 62
+    },
+    resistances: {
+      EFR: 0,
+      EIC: 0,
+      ETH: 0,
+      EDK: 18,
+      ELT: 18
+    },
+    levelRequirement: 80,
+    classes: `111111111111`,
+    notes: null
+  },
+  {
     role: `generic`,
     name: `Dress Plate`,
     rarity: `9★`,

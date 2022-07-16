@@ -45,14 +45,26 @@
 .table__item-container,
 .table__drop-source-name-container {
   width: calc(100% / 11);
-  margin: 5px 0;
-  padding: 0.25rem;
+}
+
+.table__drop-source-name-container {
+  padding-right: 0.5rem;
 }
 
 .table__drop-source-container {
   width: 100%;
   display: flex;
   justify-content: space-between;
+}
+
+.table__drop-source-name-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.table__drop-source-name-container p {
+  text-align: end;
 }
 
 .table__item-container {

@@ -20,9 +20,9 @@
   position: fixed;
   top: 50%;
   left: 50%;
-  padding: var(--spacing-s) var(--spacing-m);
+  /* padding: var(--spacing-s) var(--spacing-m);
   border-radius: var(--border-radius-3);
-  background-color: var(--color-surface-1);
+  background-color: var(--color-surface-1); */
   transform: translate(-50%, -50%) scale(0.8);
   opacity: 0;
   transition: all 200ms ease;

@@ -1333,7 +1333,7 @@ const table_u_m = {
               ]
             },
             {
-              source: 'Dal Ral Le',
+              source: 'Dal Ral Lie',
               items: [
                 {
                   secID: 'Viridia',
