@@ -1,7 +1,7 @@
 export const cards = [
   {
     name: `Kan'ei Tsuho`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: 1,
     ATA: 1,
     grind: 0,
@@ -12,7 +12,7 @@ export const cards = [
   },
   {
     name: `Amore Rose`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 5,
       max: 7
@@ -29,7 +29,7 @@ export const cards = [
   },
   {
     name: `Kunai`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 95,
       max: 175
@@ -46,7 +46,7 @@ export const cards = [
   },
   {
     name: `Syringe`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 95,
       max: 175
@@ -63,7 +63,7 @@ export const cards = [
   },
   {
     name: `Talis`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 120,
       max: 180
@@ -80,7 +80,7 @@ export const cards = [
   },
   {
     name: `Mahu`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 120,
       max: 200
@@ -97,7 +97,7 @@ export const cards = [
   },
   {
     name: `Guardianna`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 200,
       max: 280
@@ -114,7 +114,7 @@ export const cards = [
   },
   {
     name: `Hitogata`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 150,
       max: 230
@@ -131,7 +131,7 @@ export const cards = [
   },
   {
     name: `Gal Wind`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 270,
       max: 310
@@ -148,7 +148,7 @@ export const cards = [
   },
   {
     name: `Dancing Hitogata`,
-    rarity: `12★`,
+    rarity: 12,
     ATP: {
       min: 350,
       max: 354
@@ -165,7 +165,7 @@ export const cards = [
   },
   {
     name: `Viridia Card`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 200,
       max: 250
@@ -182,7 +182,7 @@ export const cards = [
   },
   {
     name: `Greenill Card`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 200,
       max: 250
@@ -199,7 +199,7 @@ export const cards = [
   },
   {
     name: `Skyly Card`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 200,
       max: 250
@@ -216,7 +216,7 @@ export const cards = [
   },
   {
     name: `Bluefull Card`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 200,
       max: 250
@@ -233,7 +233,7 @@ export const cards = [
   },
   {
     name: `Purplenum Card`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 200,
       max: 250
@@ -250,7 +250,7 @@ export const cards = [
   },
   {
     name: `Pinkal Card`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 200,
       max: 250
@@ -267,7 +267,7 @@ export const cards = [
   },
   {
     name: `Redria Card`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 200,
       max: 250
@@ -284,7 +284,7 @@ export const cards = [
   },
   {
     name: `Oran Card`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 200,
       max: 250
@@ -301,7 +301,7 @@ export const cards = [
   },
   {
     name: `Yellowboze Card`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 200,
       max: 250
@@ -318,7 +318,7 @@ export const cards = [
   },
   {
     name: `Whitill Card`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 200,
       max: 250

@@ -2,7 +2,7 @@ export const shields = [
   {
     role: `Common`,
     name: `Celestial Shield`,
-    rarity: `8★`,
+    rarity: 8,
     DFP: {
       min: 52,
       max: 57

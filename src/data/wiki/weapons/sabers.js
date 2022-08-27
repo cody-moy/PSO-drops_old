@@ -1,7 +1,7 @@
 export const sabers = [
   {
     name: 'Battledore',
-    rarity: '9★',
+    rarity: '9',
     ATP: 1,
     ATA: 1,
     grind: 0,
@@ -12,7 +12,7 @@ export const sabers = [
   },
   {
     name: 'Great Bouquet',
-    rarity: '9★',
+    rarity: '9',
     ATP: 1,
     ATA: 1,
     grind: 0,
@@ -23,7 +23,7 @@ export const sabers = [
   },
   {
     name: 'Flower Bouquet',
-    rarity: '9★',
+    rarity: '9',
     ATP: 1,
     ATA: 1,
     grind: 0,
@@ -34,7 +34,7 @@ export const sabers = [
   },
   {
     name: 'Racket',
-    rarity: '9★',
+    rarity: '9',
     ATP: 1,
     ATA: 1,
     grind: 0,
@@ -45,7 +45,7 @@ export const sabers = [
   },
   {
     name: '5th Anniv. Blade',
-    rarity: '9★',
+    rarity: '9',
     ATP: {
       min: 152,
       max: 282
@@ -62,7 +62,7 @@ export const sabers = [
   },
   {
     name: 'Jitte',
-    rarity: '9★',
+    rarity: '9',
     ATP: {
       min: 123,
       max: 135
@@ -79,7 +79,7 @@ export const sabers = [
   },
   {
     name: "DB's Saber",
-    rarity: '9★',
+    rarity: '9',
     ATP: {
       min: 200,
       max: 250
@@ -96,7 +96,7 @@ export const sabers = [
   },
   {
     name: 'Kaladbolg',
-    rarity: '9★',
+    rarity: '9',
     ATP: {
       min: 260,
       max: 320
@@ -113,7 +113,7 @@ export const sabers = [
   },
   {
     name: 'Durandal',
-    rarity: '9★',
+    rarity: '9',
     ATP: {
       min: 300,
       max: 376
@@ -130,7 +130,7 @@ export const sabers = [
   },
   {
     name: "Akiko's Wok",
-    rarity: '9★',
+    rarity: '9',
     ATP: {
       min: 210,
       max: 250
@@ -147,7 +147,7 @@ export const sabers = [
   },
   {
     name: "DB's Saber (3062)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 112,
       max: 124
@@ -164,7 +164,7 @@ export const sabers = [
   },
   {
     name: "DB's Saber (3064)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 289,
       max: 301
@@ -181,7 +181,7 @@ export const sabers = [
   },
   {
     name: "DB's Saber (3067)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 100,
       max: 143
@@ -198,7 +198,7 @@ export const sabers = [
   },
   {
     name: "DB's Saber (3069 Torato)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 130,
       max: 149
@@ -215,7 +215,7 @@ export const sabers = [
   },
   {
     name: "DB's Saber (3069 Chris)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 189,
       max: 202
@@ -232,7 +232,7 @@ export const sabers = [
   },
   {
     name: "DB's Saber (3070)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 93,
       max: 109
@@ -249,7 +249,7 @@ export const sabers = [
   },
   {
     name: "DB's Saber (3073)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 212,
       max: 231
@@ -266,7 +266,7 @@ export const sabers = [
   },
   {
     name: "DB's Saber (3075)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 300,
       max: 340
@@ -283,7 +283,7 @@ export const sabers = [
   },
   {
     name: "DB's Saber (3077)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 140,
       max: 168
@@ -300,7 +300,7 @@ export const sabers = [
   },
   {
     name: "Delsaber's Buster",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 340,
       max: 350
@@ -317,7 +317,7 @@ export const sabers = [
   },
   {
     name: 'Sting Tip',
-    rarity: '10★',
+    rarity: '10',
     ATP: 170,
     ATA: 35,
     grind: 30,
@@ -331,7 +331,7 @@ export const sabers = [
   },
   {
     name: 'Commander Blade',
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 560,
       max: 585
@@ -348,7 +348,7 @@ export const sabers = [
   },
   {
     name: 'Kusanagi',
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 560,
       max: 575
@@ -366,7 +366,7 @@ export const sabers = [
   },
   {
     name: 'Red Saber',
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 450,
       max: 489
@@ -384,7 +384,7 @@ export const sabers = [
   },
   {
     name: 'Elysion',
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 360,
       max: 368
@@ -401,7 +401,7 @@ export const sabers = [
   },
   {
     name: 'Ancient Saber',
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 531,
       max: 544
@@ -418,7 +418,7 @@ export const sabers = [
   },
   {
     name: 'Flamberge',
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 575,
       max: 590
@@ -435,7 +435,7 @@ export const sabers = [
   },
   {
     name: "Lame d'Argent",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 430,
       max: 465
@@ -452,7 +452,7 @@ export const sabers = [
   },
   {
     name: 'Lavis Cannon',
-    rarity: '11★',
+    rarity: '11',
     ATP: {
       min: 730,
       max: 750
@@ -470,7 +470,7 @@ export const sabers = [
   },
   {
     name: 'Evil Curst',
-    rarity: '11★',
+    rarity: '11',
     ATP: {
       min: 444,
       max: 666
@@ -487,7 +487,7 @@ export const sabers = [
   },
   {
     name: 'Excalibur',
-    rarity: '12★',
+    rarity: '12',
     ATP: {
       min: 900,
       max: 950
@@ -505,7 +505,7 @@ export const sabers = [
   },
   {
     name: 'Galatine',
-    rarity: '12★',
+    rarity: '12',
     ATP: '???',
     ATA: 77,
     grind: 9,

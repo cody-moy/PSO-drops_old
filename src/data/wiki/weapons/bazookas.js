@@ -1,7 +1,7 @@
 export const bazookas = [
   {
     name: `Meteor Rouge`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 265,
       max: 315
@@ -18,7 +18,7 @@ export const bazookas = [
   },
   {
     name: `Ano Bazooka`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 350,
       max: 370
@@ -35,7 +35,7 @@ export const bazookas = [
   },
   {
     name: `Gi Gue Bazooka`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 520,
       max: 620
@@ -52,7 +52,7 @@ export const bazookas = [
   },
   {
     name: `Cannon Rouge`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 600,
       max: 750
@@ -69,7 +69,7 @@ export const bazookas = [
   },
   {
     name: `NUG2000-Bazooka`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 400,
       max: 660

@@ -1,7 +1,7 @@
 export const canes = [
   {
     name: `Lollipop`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 150,
       max: 200
@@ -18,7 +18,7 @@ export const canes = [
   },
   {
     name: `Flower Cane`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 168,
       max: 180
@@ -35,7 +35,7 @@ export const canes = [
   },
   {
     name: `Club of Laconium`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 140,
       max: 150
@@ -52,7 +52,7 @@ export const canes = [
   },
   {
     name: `Mace of Adaman`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: 170,
     ATA: 38,
     grind: 9,
@@ -66,7 +66,7 @@ export const canes = [
   },
   {
     name: `Club of Zumiuran`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 178,
       max: 180
@@ -83,7 +83,7 @@ export const canes = [
   },
   {
     name: `Windmill`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 300,
       max: 310
@@ -100,7 +100,7 @@ export const canes = [
   },
   {
     name: `Clio`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 660,
       max: 690
@@ -117,7 +117,7 @@ export const canes = [
   },
   {
     name: `Summit Moon`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 270,
       max: 280
@@ -134,7 +134,7 @@ export const canes = [
   },
   {
     name: `Decalog`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 150,
       max: 200

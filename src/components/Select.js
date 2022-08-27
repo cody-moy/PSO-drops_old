@@ -6,8 +6,8 @@ function Select({ label, options, value, setValue, borderFreq }) {
   const [expanded, setExpanded] = useState(false);
   const ref = useRef();
 
-  const optionHeight = 24;
-  const optionPadding = 4;
+  const optionHeight = 32;
+  const optionPadding = 2;
 
   useEffect(() => {
     if (expanded)
@@ -74,7 +74,7 @@ const Option = ({
       className={`select-option ${selectedValue === value ? 'selected' : ''}`}
       style={{
         height: `${height}px`,
-        padding: `${padding}px`,
+        padding: `${padding}px 10px`,
         borderBottom: border ? '1px solid var(--color-surface-alt-1)' : null
       }}
       onClick={() => {

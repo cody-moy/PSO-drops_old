@@ -1,7 +1,7 @@
 export const rifles = [
   {
     name: `Drill Launcher`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 180,
       max: 200
@@ -18,7 +18,7 @@ export const rifles = [
   },
   {
     name: `Visk-235W`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 220,
       max: 250
@@ -35,7 +35,7 @@ export const rifles = [
   },
   {
     name: `Wals-MK2`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 260,
       max: 280
@@ -52,7 +52,7 @@ export const rifles = [
   },
   {
     name: `Justy-23ST`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 290,
       max: 320
@@ -69,7 +69,7 @@ export const rifles = [
   },
   {
     name: `Le Cogneur`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 310,
       max: 330
@@ -86,7 +86,7 @@ export const rifles = [
   },
   {
     name: `Rianov 303SNR`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: 300,
     ATA: 60,
     grind: 60,
@@ -100,7 +100,7 @@ export const rifles = [
   },
   {
     name: `Tanegashima`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 320,
       max: 410
@@ -117,7 +117,7 @@ export const rifles = [
   },
   {
     name: `Spread Needle`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 1,
       max: 110
@@ -134,7 +134,7 @@ export const rifles = [
   },
   {
     name: `Bringer's Rifle`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 330,
       max: 370
@@ -151,7 +151,7 @@ export const rifles = [
   },
   {
     name: `Egg Blaster`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 300,
       max: 330
@@ -168,7 +168,7 @@ export const rifles = [
   },
   {
     name: `Rianov 303SNR-1`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 350,
       max: 400
@@ -185,7 +185,7 @@ export const rifles = [
   },
   {
     name: `Rianov 303SNR-2`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 150,
       max: 400
@@ -202,7 +202,7 @@ export const rifles = [
   },
   {
     name: `Rianov 303SNR-3`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: 500,
     ATA: 65,
     grind: 15,
@@ -216,7 +216,7 @@ export const rifles = [
   },
   {
     name: `Rianov 303SNR-4`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 350,
       max: 450
@@ -233,7 +233,7 @@ export const rifles = [
   },
   {
     name: `Frozen Shooter`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 240,
       max: 250
@@ -250,7 +250,7 @@ export const rifles = [
   },
   {
     name: `Anti Android Rifle`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 330,
       max: 350
@@ -267,7 +267,7 @@ export const rifles = [
   },
   {
     name: `Yasminkov 3000R`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 370,
       max: 400
@@ -284,7 +284,7 @@ export const rifles = [
   },
   {
     name: `Ano Rifle`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 350,
       max: 380
@@ -301,7 +301,7 @@ export const rifles = [
   },
   {
     name: `Yasminkov 7000V`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 370,
       max: 450
@@ -318,7 +318,7 @@ export const rifles = [
   },
   {
     name: `Holy Ray`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 290,
       max: 300
@@ -335,7 +335,7 @@ export const rifles = [
   },
   {
     name: `Angel Harp`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 300,
       max: 320
@@ -352,7 +352,7 @@ export const rifles = [
   },
   {
     name: `Snow Queen`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 330,
       max: 350
@@ -369,7 +369,7 @@ export const rifles = [
   },
   {
     name: `Rianov 303SNR-5`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: 550,
     ATA: 70,
     grind: 0,

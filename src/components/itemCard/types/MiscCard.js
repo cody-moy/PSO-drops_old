@@ -2,9 +2,8 @@ import React from 'react';
 import buildClassTable from '../../../Utils/buildClassTable';
 import parseRarity from '../../../Utils/parseRarity';
 
-function ArmorCard({ item, itemType }) {
+function MiscCard({ item, itemType }) {
   const {
-    role,
     name,
     rarity,
     DFP,
@@ -69,4 +68,4 @@ function ArmorCard({ item, itemType }) {
   );
 }
 
-export default ArmorCard;
+export default MiscCard;

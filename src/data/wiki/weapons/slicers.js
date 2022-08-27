@@ -1,7 +1,7 @@
 export const slicers = [
   {
     name: `Slicer of Assassin`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 120,
       max: 125
@@ -18,7 +18,7 @@ export const slicers = [
   },
   {
     name: `Diska of Liberator`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 120,
       max: 146
@@ -35,7 +35,7 @@ export const slicers = [
   },
   {
     name: `Diska of Braveman`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 150,
       max: 167
@@ -52,7 +52,7 @@ export const slicers = [
   },
   {
     name: `Rappy's Fan`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 140,
       max: 146
@@ -69,7 +69,7 @@ export const slicers = [
   },
   {
     name: `Flight Fan`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 185,
       max: 200
@@ -86,7 +86,7 @@ export const slicers = [
   },
   {
     name: `Izmaela`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: 250,
     ATA: 25,
     grind: 0,
@@ -100,7 +100,7 @@ export const slicers = [
   },
   {
     name: `Slicer of Fanatic`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 340,
       max: 360
@@ -117,7 +117,7 @@ export const slicers = [
   },
   {
     name: `Red Slicer`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 190,
       max: 200
@@ -134,7 +134,7 @@ export const slicers = [
   },
   {
     name: `Flight Cutter`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 250,
       max: 260
@@ -151,7 +151,7 @@ export const slicers = [
   },
   {
     name: `Rainbow Baton`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 300,
       max: 320

@@ -1,5 +1,8 @@
 .character-info-wrapper {
   width: fit-content;
+  position: absolute;
+  top: 100%;
+  left: 0;
   padding: 1rem;
   background-color: #34394d;
   border-radius: 0.25rem;

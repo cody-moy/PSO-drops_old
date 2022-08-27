@@ -1,7 +1,7 @@
 export const daggers = [
   {
     name: `Blade Dance`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 110,
       max: 180
@@ -18,7 +18,7 @@ export const daggers = [
   },
   {
     name: `Bloody Art`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 120,
       max: 175
@@ -35,7 +35,7 @@ export const daggers = [
   },
   {
     name: `Wok of Akiko's Shop`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 170,
       max: 160
@@ -52,7 +52,7 @@ export const daggers = [
   },
   {
     name: `Cross Scar`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 135,
       max: 220
@@ -69,7 +69,7 @@ export const daggers = [
   },
   {
     name: `S-Beat's Blade`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 210,
       max: 220
@@ -86,7 +86,7 @@ export const daggers = [
   },
   {
     name: `S-Berill's Hands #0`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 158,
       max: 197
@@ -103,7 +103,7 @@ export const daggers = [
   },
   {
     name: `Twin Chakram`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 245,
       max: 250
@@ -120,7 +120,7 @@ export const daggers = [
   },
   {
     name: `Zero Divide`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 200,
       max: 300
@@ -137,7 +137,7 @@ export const daggers = [
   },
   {
     name: `P-Arms' Blade`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 250,
       max: 270
@@ -154,7 +154,7 @@ export const daggers = [
   },
   {
     name: `Red Dagger`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 245,
       max: 280
@@ -171,7 +171,7 @@ export const daggers = [
   },
   {
     name: `S-Red's Blade`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 340,
       max: 350
@@ -188,7 +188,7 @@ export const daggers = [
   },
   {
     name: `Flapjack Flapper`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 350,
       max: 400
@@ -205,7 +205,7 @@ export const daggers = [
   },
   {
     name: `S-Berill's Hands #1`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 320,
       max: 321
@@ -222,7 +222,7 @@ export const daggers = [
   },
   {
     name: `Two Kamui`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 600,
       max: 650
@@ -239,7 +239,7 @@ export const daggers = [
   },
   {
     name: `Lavis Blade`,
-    rarity: `12★`,
+    rarity: 12,
     ATP: {
       min: 380,
       max: 450
@@ -256,7 +256,7 @@ export const daggers = [
   },
   {
     name: `Daylight Scar`,
-    rarity: `12★`,
+    rarity: 12,
     ATP: {
       min: 500,
       max: 500

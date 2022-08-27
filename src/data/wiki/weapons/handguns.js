@@ -1,7 +1,7 @@
 export const handguns = [
   {
     name: `Tension Blaster`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 280,
       max: 310
@@ -18,7 +18,7 @@ export const handguns = [
   },
   {
     name: `Varista`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 155,
       max: 210
@@ -35,7 +35,7 @@ export const handguns = [
   },
   {
     name: `Custom Ray ver.00`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 165,
       max: 195
@@ -52,7 +52,7 @@ export const handguns = [
   },
   {
     name: `Bravace`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 190,
       max: 230
@@ -69,7 +69,7 @@ export const handguns = [
   },
   {
     name: `Suppressed Gun`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 260,
       max: 270
@@ -86,7 +86,7 @@ export const handguns = [
   },
   {
     name: `Red Handgun`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: 300,
     ATA: 46,
     grind: 50,
@@ -100,7 +100,7 @@ export const handguns = [
   },
   {
     name: `Ruby Bullet`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: 350,
     ATA: 60,
     grind: 0,
@@ -114,7 +114,7 @@ export const handguns = [
   },
   {
     name: `Yasminkov 2000H`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: 340,
     ATA: 45,
     grind: 10,
@@ -128,7 +128,7 @@ export const handguns = [
   },
   {
     name: `Handgun: Guld`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 370,
       max: 400
@@ -145,7 +145,7 @@ export const handguns = [
   },
   {
     name: `Handgun: Milla`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 350,
       max: 360
@@ -162,7 +162,7 @@ export const handguns = [
   },
   {
     name: `Ophelie Seize`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 390,
       max: 420
@@ -179,7 +179,7 @@ export const handguns = [
   },
   {
     name: `Master Raven`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 350,
       max: 380
@@ -196,7 +196,7 @@ export const handguns = [
   },
   {
     name: `Last Swan`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 80,
       max: 90
@@ -213,7 +213,7 @@ export const handguns = [
   },
   {
     name: `Heaven Striker`,
-    rarity: `12★`,
+    rarity: 12,
     ATP: {
       min: 550,
       max: 600
@@ -230,7 +230,7 @@ export const handguns = [
   },
   {
     name: `Heaven Punisher`,
-    rarity: `12★`,
+    rarity: 12,
     ATP: {
       min: 300,
       max: 330

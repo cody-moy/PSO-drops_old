@@ -1,7 +1,7 @@
 export const fists = [
   {
     name: `Brave Knuckle`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 380,
       max: 460
@@ -18,7 +18,7 @@ export const fists = [
   },
   {
     name: `Sonic Knuckle`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 260,
       max: 310
@@ -35,7 +35,7 @@ export const fists = [
   },
   {
     name: `Angry Fist`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 460,
       max: 560
@@ -52,7 +52,7 @@ export const fists = [
   },
   {
     name: `God Hand`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 585,
       max: 705
@@ -69,7 +69,7 @@ export const fists = [
   },
   {
     name: `Sacred Duster`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 660,
       max: 730

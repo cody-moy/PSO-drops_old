@@ -23,9 +23,18 @@
   text-align: center;
 }
 
+.table__episode-name-wrapper {
+  height: 30px;
+  position: sticky;
+  top: 50px;
+  padding: 5px 0;
+  text-align: center;
+  background-color: var(--main-bg-color);
+  z-index: 6;
+}
+
 .table__episode-name {
   text-align: center;
-  margin: 2rem 0;
 }
 
 .table-area-container {
@@ -34,42 +43,120 @@
 
 .table__area-name {
   text-align: center;
-  margin: 1rem 0;
+  margin-bottom: 0.5rem;
 }
 
-.table__row {
+.secID-container {
+  position: sticky;
+  flex-direction: column;
+  top: 80px;
+  padding: 10px 0;
+  background-color: var(--main-bg-color);
+  z-index: 5;
+}
+
+.table__row,
+.secID-container {
   width: 100%;
   display: flex;
 }
 
+.table__source-label-container,
+.table__secID-container,
 .table__item-container,
 .table__drop-source-name-container {
   width: calc(100% / 11);
 }
 
+.table__secID-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2px;
+  padding: 5px;
+  text-align: center;
+  /* background-color: var(--color-surface-alt-1); */
+  border: 1px solid var(--color-surface-2);
+  border-radius: var(--border-radius-1);
+}
+
+.table__secID-container img {
+  width: 25px;
+}
+
+.table__secID-container#Viridia {
+  background-color: #00a56230;
+  border: 1px solid #00a56270;
+}
+
+.table__secID-container#Greenill {
+  background-color: #76fe4330;
+  border: 1px solid #76fe4370;
+}
+
+.table__secID-container#Skyly {
+  background-color: #59f9f930;
+  border: 1px solid #59f9f970;
+}
+
+.table__secID-container#Bluefull {
+  background-color: #4488ff30;
+  border: 1px solid #4488ff70;
+}
+
+.table__secID-container#Purplenum {
+  background-color: #cc00ff30;
+  border: 1px solid #cc00ff70;
+}
+
+.table__secID-container#Pinkal {
+  background-color: #ff87cb30;
+  border: 1px solid #ff87cb70;
+}
+
+.table__secID-container#Redria {
+  background-color: #f70f0f30;
+  border: 1px solid #f70f0f70;
+}
+
+.table__secID-container#Oran {
+  background-color: #f7830f30;
+  border: 1px solid #f7830f70;
+}
+
+.table__secID-container#Yellowboze {
+  background-color: #f7f71530;
+  border: 1px solid #f7f71570;
+}
+
+.table__secID-container#Whitill {
+  background-color: #ffffff30;
+  border: 1px solid #ffffff70;
+}
+
+.table__secID-container p {
+  margin-top: 4px;
+}
+
+.table__source-label-container,
 .table__drop-source-name-container {
   height: fit-content;
   align-self: center;
   margin: 2px;
   padding: 0.5rem;
-  background-color: var(--color-surface-1-disabled);
   border-radius: var(--border-radius-1);
 }
 
-.table__drop-source-container {
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-}
-
-.table__drop-source-name-container {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
+.table__source-label-container p {
+  text-align: center;
 }
 
 .table__drop-source-name-container p {
   text-align: end;
+}
+
+.table__drop-source-name-container p#rare-monster {
+  color: #ffff00;
 }
 
 .table__item-container {
@@ -98,10 +185,6 @@
 .table__item-secID {
   font-weight: 600;
   text-align: center;
-}
-
-.table__item-secID img {
-  width: 25px;
 }
 
 .table__item-secID,

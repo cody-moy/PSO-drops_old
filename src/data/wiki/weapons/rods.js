@@ -1,7 +1,7 @@
 export const rods = [
   {
     name: `Broom`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 90,
       max: 230
@@ -18,7 +18,7 @@ export const rods = [
   },
   {
     name: `Rabbit Wand`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 120,
       max: 230
@@ -35,7 +35,7 @@ export const rods = [
   },
   {
     name: `Battle Verge`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 130,
       max: 185
@@ -52,7 +52,7 @@ export const rods = [
   },
   {
     name: `Brave Hammer`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 170,
       max: 220
@@ -69,7 +69,7 @@ export const rods = [
   },
   {
     name: `Alive Aqhu`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 210,
       max: 230
@@ -86,7 +86,7 @@ export const rods = [
   },
   {
     name: `Hildebear's Cane`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 220,
       max: 230
@@ -103,7 +103,7 @@ export const rods = [
   },
   {
     name: `Valkyrie`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: 600,
     ATA: 66,
     grind: 33,
@@ -117,7 +117,7 @@ export const rods = [
   },
   {
     name: `Fatsia`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 219,
       max: 280
@@ -134,7 +134,7 @@ export const rods = [
   },
   {
     name: `Plantain Leaf`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 219,
       max: 280
@@ -151,7 +151,7 @@ export const rods = [
   },
   {
     name: `Branch of Pakupaku`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 240,
       max: 267
@@ -168,7 +168,7 @@ export const rods = [
   },
   {
     name: `Hildeblue's Cane`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 290,
       max: 300
@@ -185,7 +185,7 @@ export const rods = [
   },
   {
     name: `Caduceus`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: 360,
     ATA: 54,
     grind: 0,
@@ -199,7 +199,7 @@ export const rods = [
   },
   {
     name: `Demonic Fork`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 325,
       max: 340
@@ -216,7 +216,7 @@ export const rods = [
   },
   {
     name: `Sorcerer's Cane`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: 360,
     ATA: 53,
     grind: 0,
@@ -230,7 +230,7 @@ export const rods = [
   },
   {
     name: `Glide Divine`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 185,
       max: 400
@@ -247,7 +247,7 @@ export const rods = [
   },
   {
     name: `Siren Glass Hammer`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 390,
       max: 450
@@ -264,7 +264,7 @@ export const rods = [
   },
   {
     name: `Striker of Chao`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 300,
       max: 325
@@ -281,7 +281,7 @@ export const rods = [
   },
   {
     name: `Mercurius Rod`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 390,
       max: 400
@@ -298,7 +298,7 @@ export const rods = [
   },
   {
     name: `Dark Bridge`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 185,
       max: 400
@@ -315,7 +315,7 @@ export const rods = [
   },
   {
     name: `Psycho Wand`,
-    rarity: `12★`,
+    rarity: 12,
     ATP: {
       min: 395,
       max: 400

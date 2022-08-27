@@ -1,7 +1,7 @@
 export const katanas = [
   {
     name: `Akiko's Frying Pan`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 230,
       max: 250
@@ -18,7 +18,7 @@ export const katanas = [
   },
   {
     name: `Murasame`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 420,
       max: 435
@@ -35,7 +35,7 @@ export const katanas = [
   },
   {
     name: `Harisen Battle Fan`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 310,
       max: 280
@@ -52,7 +52,7 @@ export const katanas = [
   },
   {
     name: `Toy Hammer`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 1,
       max: 400
@@ -69,7 +69,7 @@ export const katanas = [
   },
   {
     name: `Agito (1977)`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 450,
       max: 460
@@ -86,7 +86,7 @@ export const katanas = [
   },
   {
     name: `Agito (1980)`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 455,
       max: 460
@@ -103,7 +103,7 @@ export const katanas = [
   },
   {
     name: `Agito (1983)`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 200,
       max: 500
@@ -120,7 +120,7 @@ export const katanas = [
   },
   {
     name: `Agito (1991)`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 400,
       max: 410
@@ -137,7 +137,7 @@ export const katanas = [
   },
   {
     name: `Agito (2001)`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 400,
       max: 430
@@ -154,7 +154,7 @@ export const katanas = [
   },
   {
     name: `Shichishito`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 500,
       max: 560
@@ -171,7 +171,7 @@ export const katanas = [
   },
   {
     name: `Raikiri`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 550,
       max: 560
@@ -188,7 +188,7 @@ export const katanas = [
   },
   {
     name: `Sange`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 500,
       max: 550
@@ -205,7 +205,7 @@ export const katanas = [
   },
   {
     name: `Yamigarasu`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 580,
       max: 650
@@ -222,7 +222,7 @@ export const katanas = [
   },
   {
     name: `Kamui`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: 650,
     ATA: 55,
     grind: 0,
@@ -236,7 +236,7 @@ export const katanas = [
   },
   {
     name: `Guren`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 790,
       max: 840
@@ -253,7 +253,7 @@ export const katanas = [
   },
   {
     name: `Shouren`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 820,
       max: 870
@@ -270,7 +270,7 @@ export const katanas = [
   },
   {
     name: `Agito (1975)`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 460,
       max: 480
@@ -287,7 +287,7 @@ export const katanas = [
   },
   {
     name: `Yasha`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 500,
       max: 550
@@ -304,7 +304,7 @@ export const katanas = [
   },
   {
     name: `Orotiagito`,
-    rarity: `12★`,
+    rarity: 12,
     ATP: {
       min: 750,
       max: 800

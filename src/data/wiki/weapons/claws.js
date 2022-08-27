@@ -1,7 +1,7 @@
 export const claws = [
   {
     name: `Photon Claw`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 230,
       max: 300
@@ -18,7 +18,7 @@ export const claws = [
   },
   {
     name: `Booma's Claw`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 300,
       max: 315
@@ -35,7 +35,7 @@ export const claws = [
   },
   {
     name: `Panther's Claw`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 180,
       max: 280
@@ -52,7 +52,7 @@ export const claws = [
   },
   {
     name: `Silence Claw`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 335,
       max: 345
@@ -69,7 +69,7 @@ export const claws = [
   },
   {
     name: `Gobooma's Claw`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 330,
       max: 345
@@ -86,7 +86,7 @@ export const claws = [
   },
   {
     name: `Nei's Claw (Replica)`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 386,
       max: 400
@@ -103,7 +103,7 @@ export const claws = [
   },
   {
     name: `Phoenix Claw`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 540,
       max: 570
@@ -120,7 +120,7 @@ export const claws = [
   },
   {
     name: `Gigobooma's Claw`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 450,
       max: 500
@@ -137,7 +137,7 @@ export const claws = [
   },
   {
     name: `Dragon's Claw`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 550,
       max: 580
@@ -154,7 +154,7 @@ export const claws = [
   },
   {
     name: `Morning Glory`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 450,
       max: 500
@@ -171,7 +171,7 @@ export const claws = [
   },
   {
     name: `Heart of Poumn`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 695,
       max: 715
@@ -188,7 +188,7 @@ export const claws = [
   },
   {
     name: `Rika's Claw`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 600,
       max: 680
@@ -205,7 +205,7 @@ export const claws = [
   },
   {
     name: `Nei's Claw`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: 756,
     ATA: 60,
     grind: 0,

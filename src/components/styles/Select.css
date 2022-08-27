@@ -11,7 +11,7 @@
 }
 
 .select-clickable-wrapper {
-  padding: 0.25rem;
+  padding: 8px;
   border-radius: 0.25rem;
   background-color: var(--color-surface-2);
   cursor: pointer;
@@ -53,6 +53,7 @@
   align-items: center;
   transition: background-color 200ms;
   cursor: pointer;
+  box-sizing: initial;
 }
 
 .select-option.selected {

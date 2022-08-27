@@ -9,6 +9,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Hildelt',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -106,6 +107,8 @@ const monsterDrops = {
               },
               {
                 source: 'Hildetorr',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -204,6 +207,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mothvert',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -299,6 +303,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mothvist',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -354,6 +359,7 @@ const monsterDrops = {
               },
               {
                 source: 'El Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -449,6 +455,8 @@ const monsterDrops = {
               },
               {
                 source: 'Pal Rappy',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -545,6 +553,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gulgus',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -640,6 +649,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gulgus-Gue',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -735,6 +745,7 @@ const monsterDrops = {
               },
               {
                 source: 'Bartle',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -830,6 +841,7 @@ const monsterDrops = {
               },
               {
                 source: 'Barble',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -926,6 +938,7 @@ const monsterDrops = {
               },
               {
                 source: 'Tollaw',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -1021,6 +1034,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sil Dragon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -1121,6 +1135,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Crimson Assassin',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -1216,6 +1231,7 @@ const monsterDrops = {
               },
               {
                 source: 'Ob Lily',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -1311,6 +1327,8 @@ const monsterDrops = {
               },
               {
                 source: 'Mil Lily',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -1406,6 +1424,7 @@ const monsterDrops = {
               },
               {
                 source: 'Nano Dragon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -1501,6 +1520,7 @@ const monsterDrops = {
               },
               {
                 source: 'Vulmer',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -1596,6 +1616,7 @@ const monsterDrops = {
               },
               {
                 source: 'Govulmer',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -1691,6 +1712,7 @@ const monsterDrops = {
               },
               {
                 source: 'Melqueek',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -1786,6 +1808,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pofuilly Slime',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -1881,6 +1904,8 @@ const monsterDrops = {
               },
               {
                 source: 'Pouilly Slime',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -1976,6 +2001,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pan Arms',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -2075,6 +2101,7 @@ const monsterDrops = {
               },
               {
                 source: 'Migium',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -2170,6 +2197,7 @@ const monsterDrops = {
               },
               {
                 source: 'Hidoom',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -2265,6 +2293,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dal Ral Le',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -2367,6 +2396,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Dubchich',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -2463,6 +2493,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gilchich',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -2560,6 +2591,7 @@ const monsterDrops = {
               },
               {
                 source: 'Baranz',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -2662,6 +2694,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Blue',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -2759,6 +2792,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Red',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -2858,6 +2892,7 @@ const monsterDrops = {
               },
               {
                 source: 'Canabin',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -2953,6 +2988,7 @@ const monsterDrops = {
               },
               {
                 source: 'Canune',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -3051,6 +3087,7 @@ const monsterDrops = {
               },
               {
                 source: 'Vol Opt ver. 2',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -3151,6 +3188,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Delsaber',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -3250,6 +3288,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gran Sorceror',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -3350,6 +3389,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dark Gunner',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -3445,6 +3485,7 @@ const monsterDrops = {
               },
               {
                 source: 'Death Gunner',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -3540,6 +3581,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dark Bringer',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -3639,6 +3681,7 @@ const monsterDrops = {
               },
               {
                 source: 'Indi Belra',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -3737,6 +3780,7 @@ const monsterDrops = {
               },
               {
                 source: 'Claw',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -3832,6 +3876,7 @@ const monsterDrops = {
               },
               {
                 source: 'Bulk',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -3927,6 +3972,7 @@ const monsterDrops = {
               },
               {
                 source: 'Bulclaw',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -4022,6 +4068,7 @@ const monsterDrops = {
               },
               {
                 source: 'Arlan',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -4117,6 +4164,7 @@ const monsterDrops = {
               },
               {
                 source: 'Merlan',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -4212,6 +4260,7 @@ const monsterDrops = {
               },
               {
                 source: 'Del-D',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -4307,6 +4356,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dark Falz',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -4412,6 +4462,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Hildelt',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -4507,6 +4558,8 @@ const monsterDrops = {
               },
               {
                 source: 'Hildetorr',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -4604,6 +4657,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mothvert',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -4699,6 +4753,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mothvist',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -4754,6 +4809,7 @@ const monsterDrops = {
               },
               {
                 source: 'El Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -4849,6 +4905,7 @@ const monsterDrops = {
               },
               {
                 source: 'Love Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -4946,6 +5003,7 @@ const monsterDrops = {
               },
               {
                 source: 'Crimson Assassin',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -5041,6 +5099,7 @@ const monsterDrops = {
               },
               {
                 source: 'Ob Lily',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -5136,6 +5195,8 @@ const monsterDrops = {
               },
               {
                 source: 'Mil Lily',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -5231,6 +5292,7 @@ const monsterDrops = {
               },
               {
                 source: 'Indi Belra',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -5331,6 +5393,7 @@ const monsterDrops = {
               },
               {
                 source: 'Arlan',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -5426,6 +5489,7 @@ const monsterDrops = {
               },
               {
                 source: 'Merlan',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -5521,6 +5585,7 @@ const monsterDrops = {
               },
               {
                 source: 'Del-D',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -5617,6 +5682,7 @@ const monsterDrops = {
               },
               {
                 source: 'Barba Ray',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -5714,6 +5780,7 @@ const monsterDrops = {
               },
               {
                 source: 'St. Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -5819,6 +5886,7 @@ const monsterDrops = {
               },
               {
                 source: 'Halo Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -5874,6 +5942,7 @@ const monsterDrops = {
               },
               {
                 source: 'Egg Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -5934,6 +6003,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Gulgus',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -6029,6 +6099,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gulgus-Gue',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -6124,6 +6195,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pan Arms',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -6219,6 +6291,7 @@ const monsterDrops = {
               },
               {
                 source: 'Migium',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -6316,6 +6389,7 @@ const monsterDrops = {
               },
               {
                 source: 'Hidoom',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -6413,6 +6487,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dubchich',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -6508,6 +6583,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gilchich',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -6604,6 +6680,7 @@ const monsterDrops = {
               },
               {
                 source: 'Baranz',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -6702,6 +6779,7 @@ const monsterDrops = {
               },
               {
                 source: 'Del Saber',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -6797,6 +6875,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gran Sorceror',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -6895,6 +6974,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gol Dragon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -6995,6 +7075,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Merillia',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -7090,6 +7171,7 @@ const monsterDrops = {
               },
               {
                 source: 'Meriltas',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -7186,6 +7268,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gee',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -7281,6 +7364,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gi Gue',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -7382,6 +7466,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mericarol',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -7477,6 +7562,7 @@ const monsterDrops = {
               },
               {
                 source: 'Merikle',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -7572,6 +7658,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mericus',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -7667,6 +7754,7 @@ const monsterDrops = {
               },
               {
                 source: 'Ul Gibbon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -7762,6 +7850,7 @@ const monsterDrops = {
               },
               {
                 source: 'Zol Gibbon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -7857,6 +7946,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gibbles',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -7952,6 +8042,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Berill',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -8050,6 +8141,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Spigell',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -8147,6 +8239,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gal Gryphon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -8241,6 +8334,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Dolmolm',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -8336,6 +8430,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dolmdarl',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -8431,6 +8526,7 @@ const monsterDrops = {
               },
               {
                 source: 'Morfos',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -8526,6 +8622,7 @@ const monsterDrops = {
               },
               {
                 source: 'Recon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -8621,6 +8718,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Zoa',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -8716,6 +8814,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Zele',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -8811,6 +8910,7 @@ const monsterDrops = {
               },
               {
                 source: 'Deldepth',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -8907,6 +9007,7 @@ const monsterDrops = {
               },
               {
                 source: 'Delbiter',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -9002,6 +9103,7 @@ const monsterDrops = {
               },
               {
                 source: 'Olga Flow',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -9112,6 +9214,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Ill Gill',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -9207,6 +9310,7 @@ const monsterDrops = {
               },
               {
                 source: 'Del Lily',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -9304,6 +9408,7 @@ const monsterDrops = {
               },
               {
                 source: 'Epsilon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -9394,6 +9499,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Boota',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -9489,6 +9595,7 @@ const monsterDrops = {
               },
               {
                 source: 'Ze Boota',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -9584,6 +9691,7 @@ const monsterDrops = {
               },
               {
                 source: 'Ba Boota',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -9679,6 +9787,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dorphon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -9774,6 +9883,8 @@ const monsterDrops = {
               },
               {
                 source: 'Dorphon Eclair',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -9871,6 +9982,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sand Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -9966,6 +10078,8 @@ const monsterDrops = {
               },
               {
                 source: 'Del Rappy',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -10061,6 +10175,7 @@ const monsterDrops = {
               },
               {
                 source: 'Satellite Lizard',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -10161,6 +10276,7 @@ const monsterDrops = {
               },
               {
                 source: 'Yowie',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -10261,6 +10377,7 @@ const monsterDrops = {
               },
               {
                 source: 'Zu',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -10356,6 +10473,8 @@ const monsterDrops = {
               },
               {
                 source: 'Pazuzu',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -10451,6 +10570,7 @@ const monsterDrops = {
               },
               {
                 source: 'Astark',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -10551,6 +10671,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Goran',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -10646,6 +10767,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pyro Goran',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -10741,6 +10863,7 @@ const monsterDrops = {
               },
               {
                 source: 'Goran Detonator',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -10839,6 +10962,7 @@ const monsterDrops = {
               },
               {
                 source: 'Merissa A',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -10934,6 +11058,8 @@ const monsterDrops = {
               },
               {
                 source: 'Merissa AA',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -11030,6 +11156,7 @@ const monsterDrops = {
               },
               {
                 source: 'Girtablulu',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -11125,7 +11252,8 @@ const monsterDrops = {
                 ]
               },
               {
-                source: 'Sailt Million',
+                source: 'Saint Milion',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -11222,6 +11350,7 @@ const monsterDrops = {
               },
               {
                 source: 'Shambertin',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -11327,6 +11456,8 @@ const monsterDrops = {
               },
               {
                 source: 'Kondrieu',
+                rare: true,
+                rareRate: 10,
                 items: [
                   {
                     secID: 'Viridia',
@@ -11436,6 +11567,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Hildebear',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -11538,6 +11670,8 @@ const monsterDrops = {
               },
               {
                 source: 'Hildeblue',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -11638,6 +11772,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mothmant',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -11693,6 +11828,7 @@ const monsterDrops = {
               },
               {
                 source: 'Monest',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -11748,6 +11884,7 @@ const monsterDrops = {
               },
               {
                 source: 'Rag Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -11853,6 +11990,8 @@ const monsterDrops = {
               },
               {
                 source: 'Al Rappy',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -11948,6 +12087,7 @@ const monsterDrops = {
               },
               {
                 source: 'Savage Wolf',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -12043,6 +12183,7 @@ const monsterDrops = {
               },
               {
                 source: 'Barbarous Wolf',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -12138,6 +12279,7 @@ const monsterDrops = {
               },
               {
                 source: 'Booma',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -12243,6 +12385,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gobooma',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -12347,6 +12490,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gigobooma',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -12446,6 +12590,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dragon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -12546,6 +12691,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Grass Assassin',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -12651,6 +12797,7 @@ const monsterDrops = {
               },
               {
                 source: 'Poison Lily',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -12747,6 +12894,8 @@ const monsterDrops = {
               },
               {
                 source: 'Nar Lily',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -12842,6 +12991,7 @@ const monsterDrops = {
               },
               {
                 source: 'Nano Dragon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -12938,6 +13088,7 @@ const monsterDrops = {
               },
               {
                 source: 'Evil Shark',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -13029,6 +13180,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pal Shark',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -13124,6 +13276,7 @@ const monsterDrops = {
               },
               {
                 source: 'Guil Shark',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -13220,6 +13373,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pofuilly Slime',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -13315,6 +13469,8 @@ const monsterDrops = {
               },
               {
                 source: 'Pouilly Slime',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -13410,6 +13566,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pan Arms',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -13509,6 +13666,7 @@ const monsterDrops = {
               },
               {
                 source: 'Migium',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -13604,6 +13762,7 @@ const monsterDrops = {
               },
               {
                 source: 'Hidoom',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -13699,6 +13858,7 @@ const monsterDrops = {
               },
               {
                 source: 'De Rol Le',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -13799,6 +13959,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Dubchic',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -13894,6 +14055,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gilchic',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -13989,6 +14151,7 @@ const monsterDrops = {
               },
               {
                 source: 'Garanz',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -14085,6 +14248,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Beat',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -14189,6 +14353,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Gold',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -14287,6 +14452,7 @@ const monsterDrops = {
               },
               {
                 source: 'Canadine',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -14382,6 +14548,7 @@ const monsterDrops = {
               },
               {
                 source: 'Canune',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -14477,6 +14644,7 @@ const monsterDrops = {
               },
               {
                 source: 'Vol Opt',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -14577,6 +14745,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Delsaber',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -14681,6 +14850,7 @@ const monsterDrops = {
               },
               {
                 source: 'Chaos Sorceror',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -14776,6 +14946,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dark Gunner',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -14871,6 +15042,7 @@ const monsterDrops = {
               },
               {
                 source: 'Death Gunner',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -14966,6 +15138,7 @@ const monsterDrops = {
               },
               {
                 source: 'Chaos Bringer',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -15062,6 +15235,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dark Belra',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -15154,6 +15328,7 @@ const monsterDrops = {
               },
               {
                 source: 'Claw',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -15249,6 +15424,7 @@ const monsterDrops = {
               },
               {
                 source: 'Bulk',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -15344,6 +15520,7 @@ const monsterDrops = {
               },
               {
                 source: 'Bulclaw',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -15439,6 +15616,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -15534,6 +15712,7 @@ const monsterDrops = {
               },
               {
                 source: 'La Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -15630,6 +15809,7 @@ const monsterDrops = {
               },
               {
                 source: 'So Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -15725,6 +15905,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dark Falz',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -15790,6 +15971,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Hildebear',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -15886,6 +16068,8 @@ const monsterDrops = {
               },
               {
                 source: 'Hildeblue',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -15981,6 +16165,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mothmant',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -16036,6 +16221,7 @@ const monsterDrops = {
               },
               {
                 source: 'Monest',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -16091,6 +16277,7 @@ const monsterDrops = {
               },
               {
                 source: 'Rag Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -16186,6 +16373,7 @@ const monsterDrops = {
               },
               {
                 source: 'Love Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -16281,6 +16469,7 @@ const monsterDrops = {
               },
               {
                 source: 'Grass Assassin',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -16376,6 +16565,7 @@ const monsterDrops = {
               },
               {
                 source: 'Poison Lily',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -16472,6 +16662,8 @@ const monsterDrops = {
               },
               {
                 source: 'Nar Lily',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -16567,6 +16759,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dark Belra',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -16662,6 +16855,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -16757,6 +16951,7 @@ const monsterDrops = {
               },
               {
                 source: 'La Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -16852,6 +17047,7 @@ const monsterDrops = {
               },
               {
                 source: 'So Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -16947,6 +17143,7 @@ const monsterDrops = {
               },
               {
                 source: 'Barba Ray',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -17042,6 +17239,7 @@ const monsterDrops = {
               },
               {
                 source: 'St. Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -17147,6 +17345,7 @@ const monsterDrops = {
               },
               {
                 source: 'Halo Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -17202,6 +17401,7 @@ const monsterDrops = {
               },
               {
                 source: 'Egg Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -17262,6 +17462,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Savage Wolf',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -17357,6 +17558,7 @@ const monsterDrops = {
               },
               {
                 source: 'Barbarous Wolf',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -17452,6 +17654,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pan Arms',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -17547,6 +17750,7 @@ const monsterDrops = {
               },
               {
                 source: 'Migium',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -17643,6 +17847,7 @@ const monsterDrops = {
               },
               {
                 source: 'Hidoom',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -17740,6 +17945,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dubchic',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -17836,6 +18042,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gilchic',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -17931,6 +18138,7 @@ const monsterDrops = {
               },
               {
                 source: 'Garanz',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -18026,6 +18234,7 @@ const monsterDrops = {
               },
               {
                 source: 'Del Saber',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -18122,6 +18331,7 @@ const monsterDrops = {
               },
               {
                 source: 'Chaos Sorceror',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -18217,6 +18427,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gol Dragon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -18317,6 +18528,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Merillia',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -18412,6 +18624,7 @@ const monsterDrops = {
               },
               {
                 source: 'Meriltas',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -18507,6 +18720,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gee',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -18602,6 +18816,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gi Gue',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -18697,6 +18912,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mericarol',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -18792,6 +19008,7 @@ const monsterDrops = {
               },
               {
                 source: 'Merikle',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -18887,6 +19104,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mericus',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -18982,6 +19200,7 @@ const monsterDrops = {
               },
               {
                 source: 'Ul Gibbon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -19077,6 +19296,7 @@ const monsterDrops = {
               },
               {
                 source: 'Zol Gibbon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -19172,6 +19392,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gibbles',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -19267,6 +19488,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Berill',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -19369,6 +19591,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Spigell',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -19460,6 +19683,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gal Gryphon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -19560,6 +19784,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Dolmolm',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -19655,6 +19880,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dolmdarl',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -19750,6 +19976,7 @@ const monsterDrops = {
               },
               {
                 source: 'Morfos',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -19845,6 +20072,7 @@ const monsterDrops = {
               },
               {
                 source: 'Recon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -19900,6 +20128,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Zoa',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -19995,6 +20224,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Zele',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -20090,6 +20320,7 @@ const monsterDrops = {
               },
               {
                 source: 'Deldepth',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -20185,6 +20416,7 @@ const monsterDrops = {
               },
               {
                 source: 'Delbiter',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -20280,6 +20512,7 @@ const monsterDrops = {
               },
               {
                 source: 'Olga Flow',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -20340,6 +20573,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Ill Gill',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -20435,6 +20669,7 @@ const monsterDrops = {
               },
               {
                 source: 'Del Lily',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -20530,6 +20765,7 @@ const monsterDrops = {
               },
               {
                 source: 'Epsilon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -20635,6 +20871,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Boota',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -20730,6 +20967,7 @@ const monsterDrops = {
               },
               {
                 source: 'Ze Boota',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -20825,6 +21063,7 @@ const monsterDrops = {
               },
               {
                 source: 'Ba Boota',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -20922,6 +21161,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dorphon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -21018,6 +21258,8 @@ const monsterDrops = {
               },
               {
                 source: 'Dorphon Eclair',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -21115,6 +21357,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sand Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -21217,6 +21460,8 @@ const monsterDrops = {
               },
               {
                 source: 'Del Rappy',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -21312,6 +21557,7 @@ const monsterDrops = {
               },
               {
                 source: 'Satellite Lizard',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -21407,6 +21653,7 @@ const monsterDrops = {
               },
               {
                 source: 'Yowie',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -21504,6 +21751,7 @@ const monsterDrops = {
               },
               {
                 source: 'Zu',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -21601,6 +21849,8 @@ const monsterDrops = {
               },
               {
                 source: 'Pazuzu',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -21696,6 +21946,7 @@ const monsterDrops = {
               },
               {
                 source: 'Astark',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -21796,6 +22047,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Goran',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -21891,6 +22143,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pyro Goran',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -21986,6 +22239,7 @@ const monsterDrops = {
               },
               {
                 source: 'Goran Detonator',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -22084,6 +22338,7 @@ const monsterDrops = {
               },
               {
                 source: 'Merissa A',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -22180,6 +22435,8 @@ const monsterDrops = {
               },
               {
                 source: 'Merissa AA',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -22276,6 +22533,7 @@ const monsterDrops = {
               },
               {
                 source: 'Girtablulu',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -22375,7 +22633,8 @@ const monsterDrops = {
                 ]
               },
               {
-                source: 'Sailt Million',
+                source: 'Saint Milion',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -22471,6 +22730,7 @@ const monsterDrops = {
               },
               {
                 source: 'Shambertin',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -22576,6 +22836,8 @@ const monsterDrops = {
               },
               {
                 source: 'Kondrieu',
+                rare: true,
+                rareRate: 10,
                 items: [
                   {
                     secID: 'Viridia',
@@ -22685,6 +22947,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Hildebear',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -22780,6 +23043,8 @@ const monsterDrops = {
               },
               {
                 source: 'Hildeblue',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -22875,6 +23140,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mothmant',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -22930,6 +23196,7 @@ const monsterDrops = {
               },
               {
                 source: 'Monest',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -22985,6 +23252,7 @@ const monsterDrops = {
               },
               {
                 source: 'Rag Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -23090,6 +23358,8 @@ const monsterDrops = {
               },
               {
                 source: 'Al Rappy',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -23185,6 +23455,7 @@ const monsterDrops = {
               },
               {
                 source: 'Savage Wolf',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -23280,6 +23551,7 @@ const monsterDrops = {
               },
               {
                 source: 'Barbarous Wolf',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -23371,6 +23643,7 @@ const monsterDrops = {
               },
               {
                 source: 'Booma',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -23476,6 +23749,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gobooma',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -23581,6 +23855,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gigobooma',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -23676,6 +23951,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dragon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -23776,6 +24052,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Grass Assassin',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -23881,6 +24158,7 @@ const monsterDrops = {
               },
               {
                 source: 'Poison Lily',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -23976,6 +24254,8 @@ const monsterDrops = {
               },
               {
                 source: 'Nar Lily',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -24067,6 +24347,7 @@ const monsterDrops = {
               },
               {
                 source: 'Nano Dragon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -24162,6 +24443,7 @@ const monsterDrops = {
               },
               {
                 source: 'Evil Shark',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -24257,6 +24539,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pal Shark',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -24352,6 +24635,7 @@ const monsterDrops = {
               },
               {
                 source: 'Guil Shark',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -24447,6 +24731,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pofuilly Slime',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -24539,6 +24824,8 @@ const monsterDrops = {
               },
               {
                 source: 'Pouilly Slime',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -24634,6 +24921,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pan Arms',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -24730,6 +25018,7 @@ const monsterDrops = {
               },
               {
                 source: 'Migium',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -24825,6 +25114,7 @@ const monsterDrops = {
               },
               {
                 source: 'Hidoom',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -24920,6 +25210,7 @@ const monsterDrops = {
               },
               {
                 source: 'De Rol Le',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -25020,6 +25311,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Dubchic',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -25115,6 +25407,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gilchic',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -25210,6 +25503,7 @@ const monsterDrops = {
               },
               {
                 source: 'Garanz',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -25305,6 +25599,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Beat',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -25396,6 +25691,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Gold',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -25491,6 +25787,7 @@ const monsterDrops = {
               },
               {
                 source: 'Canadine',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -25586,6 +25883,7 @@ const monsterDrops = {
               },
               {
                 source: 'Canune',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -25682,6 +25980,7 @@ const monsterDrops = {
               },
               {
                 source: 'Vol Opt',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -25782,6 +26081,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Delsaber',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -25887,6 +26187,7 @@ const monsterDrops = {
               },
               {
                 source: 'Chaos Sorceror',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -25982,6 +26283,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dark Gunner',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -26077,6 +26379,7 @@ const monsterDrops = {
               },
               {
                 source: 'Death Gunner',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -26172,6 +26475,7 @@ const monsterDrops = {
               },
               {
                 source: 'Chaos Bringer',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -26267,6 +26571,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dark Belra',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -26362,6 +26667,7 @@ const monsterDrops = {
               },
               {
                 source: 'Claw',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -26457,6 +26763,7 @@ const monsterDrops = {
               },
               {
                 source: 'Bulk',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -26552,6 +26859,7 @@ const monsterDrops = {
               },
               {
                 source: 'Bulclaw',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -26647,6 +26955,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -26742,6 +27051,7 @@ const monsterDrops = {
               },
               {
                 source: 'La Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -26833,6 +27143,7 @@ const monsterDrops = {
               },
               {
                 source: 'So Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -26928,6 +27239,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dark Falz',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -26993,6 +27305,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Hildebear',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -27088,6 +27401,8 @@ const monsterDrops = {
               },
               {
                 source: 'Hildeblue',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -27183,6 +27498,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mothmant',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -27238,6 +27554,7 @@ const monsterDrops = {
               },
               {
                 source: 'Monest',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -27293,6 +27610,7 @@ const monsterDrops = {
               },
               {
                 source: 'Rag Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -27384,6 +27702,7 @@ const monsterDrops = {
               },
               {
                 source: 'Love Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -27479,6 +27798,7 @@ const monsterDrops = {
               },
               {
                 source: 'Grass Assassin',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -27574,6 +27894,7 @@ const monsterDrops = {
               },
               {
                 source: 'Poison Lily',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -27669,6 +27990,8 @@ const monsterDrops = {
               },
               {
                 source: 'Nar Lily',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -27764,6 +28087,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dark Belra',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -27859,6 +28183,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -27954,6 +28279,7 @@ const monsterDrops = {
               },
               {
                 source: 'La Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -28049,6 +28375,7 @@ const monsterDrops = {
               },
               {
                 source: 'So Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -28144,6 +28471,7 @@ const monsterDrops = {
               },
               {
                 source: 'Barba Ray',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -28239,6 +28567,7 @@ const monsterDrops = {
               },
               {
                 source: 'St. Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -28344,6 +28673,7 @@ const monsterDrops = {
               },
               {
                 source: 'Halo Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -28399,6 +28729,7 @@ const monsterDrops = {
               },
               {
                 source: 'Egg Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -28459,6 +28790,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Savage Wolf',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -28550,6 +28882,7 @@ const monsterDrops = {
               },
               {
                 source: 'Barbarous Wolf',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -28645,6 +28978,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pan Arms',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -28740,6 +29074,7 @@ const monsterDrops = {
               },
               {
                 source: 'Migium',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -28835,6 +29170,7 @@ const monsterDrops = {
               },
               {
                 source: 'Hidoom',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -28930,6 +29266,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dubchic',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -29025,6 +29362,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gilchic',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -29120,6 +29458,7 @@ const monsterDrops = {
               },
               {
                 source: 'Garanz',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -29216,6 +29555,7 @@ const monsterDrops = {
               },
               {
                 source: 'Del Saber',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -29311,6 +29651,7 @@ const monsterDrops = {
               },
               {
                 source: 'Chaos Sorceror',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -29406,6 +29747,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gol Dragon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -29506,6 +29848,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Merillia',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -29597,6 +29940,7 @@ const monsterDrops = {
               },
               {
                 source: 'Meriltas',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -29693,6 +30037,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gee',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -29789,6 +30134,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gi Gue',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -29880,6 +30226,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mericarol',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -29975,6 +30322,7 @@ const monsterDrops = {
               },
               {
                 source: 'Merikle',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -30070,6 +30418,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mericus',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -30165,6 +30514,7 @@ const monsterDrops = {
               },
               {
                 source: 'Ul Gibbon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -30260,6 +30610,7 @@ const monsterDrops = {
               },
               {
                 source: 'Zol Gibbon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -30355,6 +30706,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gibbles',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -30450,6 +30802,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Berill',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -30553,6 +30906,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Spigell',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -30648,6 +31002,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gal Gryphon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -30748,6 +31103,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Dolmolm',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -30843,6 +31199,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dolmdarl',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -30939,6 +31296,7 @@ const monsterDrops = {
               },
               {
                 source: 'Morfos',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -31034,6 +31392,7 @@ const monsterDrops = {
               },
               {
                 source: 'Recon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -31089,6 +31448,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Zoa',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -31180,6 +31540,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Zele',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -31275,6 +31636,7 @@ const monsterDrops = {
               },
               {
                 source: 'Deldepth',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -31370,6 +31732,7 @@ const monsterDrops = {
               },
               {
                 source: 'Delbiter',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -31465,6 +31828,7 @@ const monsterDrops = {
               },
               {
                 source: 'Olga Flow',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -31525,6 +31889,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Ill Gill',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -31620,6 +31985,7 @@ const monsterDrops = {
               },
               {
                 source: 'Del Lily',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -31711,6 +32077,7 @@ const monsterDrops = {
               },
               {
                 source: 'Epsilon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -31816,6 +32183,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Boota',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -31911,6 +32279,7 @@ const monsterDrops = {
               },
               {
                 source: 'Ze Boota',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -32002,6 +32371,7 @@ const monsterDrops = {
               },
               {
                 source: 'Ba Boota',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -32097,6 +32467,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dorphon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -32192,6 +32563,8 @@ const monsterDrops = {
               },
               {
                 source: 'Dorphon Eclair',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -32297,6 +32670,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sand Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -32402,6 +32776,8 @@ const monsterDrops = {
               },
               {
                 source: 'Del Rappy',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -32507,6 +32883,7 @@ const monsterDrops = {
               },
               {
                 source: 'Satellite Lizard',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -32602,6 +32979,7 @@ const monsterDrops = {
               },
               {
                 source: 'Yowie',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -32697,6 +33075,7 @@ const monsterDrops = {
               },
               {
                 source: 'Zu',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -32788,6 +33167,8 @@ const monsterDrops = {
               },
               {
                 source: 'Pazuzu',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -32893,6 +33274,7 @@ const monsterDrops = {
               },
               {
                 source: 'Astark',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -32985,6 +33367,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Goran',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -33080,6 +33463,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pyro Goran',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -33171,6 +33555,7 @@ const monsterDrops = {
               },
               {
                 source: 'Goran Detonator',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -33266,6 +33651,7 @@ const monsterDrops = {
               },
               {
                 source: 'Merissa A',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -33361,6 +33747,8 @@ const monsterDrops = {
               },
               {
                 source: 'Merissa AA',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -33466,6 +33854,7 @@ const monsterDrops = {
               },
               {
                 source: 'Girtablulu',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -33560,7 +33949,8 @@ const monsterDrops = {
                 ]
               },
               {
-                source: 'Sailt Million',
+                source: 'Saint Milion',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -33616,6 +34006,7 @@ const monsterDrops = {
               },
               {
                 source: 'Shambertin',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -33671,6 +34062,8 @@ const monsterDrops = {
               },
               {
                 source: 'Kondrieu',
+                rare: true,
+                rareRate: 10,
                 items: [
                   {
                     secID: 'Viridia',
@@ -33790,6 +34183,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Hildebear',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -33895,6 +34289,8 @@ const monsterDrops = {
               },
               {
                 source: 'Hildeblue',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -33991,6 +34387,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mothmant',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -34046,6 +34443,7 @@ const monsterDrops = {
               },
               {
                 source: 'Monest',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -34101,6 +34499,7 @@ const monsterDrops = {
               },
               {
                 source: 'Rag Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -34206,6 +34605,8 @@ const monsterDrops = {
               },
               {
                 source: 'Al Rappy',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -34311,6 +34712,7 @@ const monsterDrops = {
               },
               {
                 source: 'Savage Wolf',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -34370,6 +34772,7 @@ const monsterDrops = {
               },
               {
                 source: 'Barbarous Wolf',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -34475,6 +34878,7 @@ const monsterDrops = {
               },
               {
                 source: 'Booma',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -34580,6 +34984,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gobooma',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -34685,6 +35090,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gigobooma',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -34790,6 +35196,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dragon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -34900,6 +35307,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Grass Assassin',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -35005,6 +35413,7 @@ const monsterDrops = {
               },
               {
                 source: 'Poison Lily',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -35060,6 +35469,8 @@ const monsterDrops = {
               },
               {
                 source: 'Nar Lily',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -35155,6 +35566,7 @@ const monsterDrops = {
               },
               {
                 source: 'Nano Dragon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -35260,6 +35672,7 @@ const monsterDrops = {
               },
               {
                 source: 'Evil Shark',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -35327,6 +35740,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pal Shark',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -35390,6 +35804,7 @@ const monsterDrops = {
               },
               {
                 source: 'Guil Shark',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -35495,6 +35910,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pofuilly Slime',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -35600,6 +36016,8 @@ const monsterDrops = {
               },
               {
                 source: 'Pouilly Slime',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -35695,6 +36113,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pan Arms',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -35800,6 +36219,7 @@ const monsterDrops = {
               },
               {
                 source: 'Migium',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -35905,6 +36325,7 @@ const monsterDrops = {
               },
               {
                 source: 'Hidoom',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -36010,6 +36431,7 @@ const monsterDrops = {
               },
               {
                 source: 'De Rol Le',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -36120,6 +36542,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Dubchic',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -36215,6 +36638,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gilchic',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -36310,6 +36734,7 @@ const monsterDrops = {
               },
               {
                 source: 'Garanz',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -36414,6 +36839,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Beat',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -36519,6 +36945,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Gold',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -36624,6 +37051,7 @@ const monsterDrops = {
               },
               {
                 source: 'Canadine',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -36711,6 +37139,7 @@ const monsterDrops = {
               },
               {
                 source: 'Canune',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -36816,6 +37245,7 @@ const monsterDrops = {
               },
               {
                 source: 'Vol Opt',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -36926,6 +37356,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Delsaber',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -37031,6 +37462,7 @@ const monsterDrops = {
               },
               {
                 source: 'Chaos Sorceror',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -37136,6 +37568,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dark Gunner',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -37231,6 +37664,7 @@ const monsterDrops = {
               },
               {
                 source: 'Death Gunner',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -37326,6 +37760,7 @@ const monsterDrops = {
               },
               {
                 source: 'Chaos Bringer',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -37431,6 +37866,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dark Belra',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -37536,6 +37972,7 @@ const monsterDrops = {
               },
               {
                 source: 'Claw',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -37623,6 +38060,7 @@ const monsterDrops = {
               },
               {
                 source: 'Bulk',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -37718,6 +38156,7 @@ const monsterDrops = {
               },
               {
                 source: 'Bulclaw',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -37813,6 +38252,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -37872,6 +38312,7 @@ const monsterDrops = {
               },
               {
                 source: 'La Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -37977,6 +38418,7 @@ const monsterDrops = {
               },
               {
                 source: 'So Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -38082,6 +38524,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dark Falz',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -38147,6 +38590,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Hildebear',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -38252,6 +38696,8 @@ const monsterDrops = {
               },
               {
                 source: 'Hildeblue',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -38350,6 +38796,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mothmant',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -38415,6 +38862,7 @@ const monsterDrops = {
               },
               {
                 source: 'Monest',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -38470,6 +38918,7 @@ const monsterDrops = {
               },
               {
                 source: 'Rag Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -38555,6 +39004,7 @@ const monsterDrops = {
               },
               {
                 source: 'Love Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -38650,6 +39100,7 @@ const monsterDrops = {
               },
               {
                 source: 'Grass Assassin',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -38750,6 +39201,7 @@ const monsterDrops = {
               },
               {
                 source: 'Poison Lily',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -38840,6 +39292,8 @@ const monsterDrops = {
               },
               {
                 source: 'Nar Lily',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -38932,6 +39386,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dark Belra',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -39037,6 +39492,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -39137,6 +39593,7 @@ const monsterDrops = {
               },
               {
                 source: 'La Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -39232,6 +39689,7 @@ const monsterDrops = {
               },
               {
                 source: 'So Dimenian',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -39337,6 +39795,7 @@ const monsterDrops = {
               },
               {
                 source: 'Barba Ray',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -39442,6 +39901,7 @@ const monsterDrops = {
               },
               {
                 source: 'St. Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -39547,6 +40007,7 @@ const monsterDrops = {
               },
               {
                 source: 'Halo Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -39602,6 +40063,7 @@ const monsterDrops = {
               },
               {
                 source: 'Egg Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -39662,6 +40124,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Savage Wolf',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -39747,6 +40210,7 @@ const monsterDrops = {
               },
               {
                 source: 'Barbarous Wolf',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -39842,6 +40306,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pan Arms',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -39947,6 +40412,7 @@ const monsterDrops = {
               },
               {
                 source: 'Migium',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -40052,6 +40518,7 @@ const monsterDrops = {
               },
               {
                 source: 'Hidoom',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -40157,6 +40624,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dubchic',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -40257,6 +40725,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gilchic',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -40322,6 +40791,7 @@ const monsterDrops = {
               },
               {
                 source: 'Garanz',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -40424,6 +40894,7 @@ const monsterDrops = {
               },
               {
                 source: 'Del Saber',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -40529,6 +41000,7 @@ const monsterDrops = {
               },
               {
                 source: 'Chaos Sorceror',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -40634,6 +41106,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gol Dragon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -40744,6 +41217,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Merillia',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -40834,6 +41308,7 @@ const monsterDrops = {
               },
               {
                 source: 'Meriltas',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -40934,6 +41409,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gee',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -41033,6 +41509,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gi Gue',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -41138,6 +41615,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mericarol',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -41243,6 +41721,7 @@ const monsterDrops = {
               },
               {
                 source: 'Merikle',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -41348,6 +41827,7 @@ const monsterDrops = {
               },
               {
                 source: 'Mericus',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -41453,6 +41933,7 @@ const monsterDrops = {
               },
               {
                 source: 'Ul Gibbon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -41548,6 +42029,7 @@ const monsterDrops = {
               },
               {
                 source: 'Zol Gibbon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -41628,6 +42110,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gibbles',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -41733,6 +42216,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Berill',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -41817,6 +42301,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Spigell',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -41901,6 +42386,7 @@ const monsterDrops = {
               },
               {
                 source: 'Gal Gryphon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -42011,6 +42497,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Dolmolm',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -42101,6 +42588,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dolmdarl',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -42206,6 +42694,7 @@ const monsterDrops = {
               },
               {
                 source: 'Morfos',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -42311,6 +42800,7 @@ const monsterDrops = {
               },
               {
                 source: 'Recon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -42366,6 +42856,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Zoa',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -42470,6 +42961,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sinow Zele',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -42562,6 +43054,7 @@ const monsterDrops = {
               },
               {
                 source: 'Deldepth',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -42667,6 +43160,7 @@ const monsterDrops = {
               },
               {
                 source: 'Delbiter',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -42772,6 +43266,7 @@ const monsterDrops = {
               },
               {
                 source: 'Olga Flow',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -42832,6 +43327,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Ill Gill',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -42927,6 +43423,7 @@ const monsterDrops = {
               },
               {
                 source: 'Del Lily',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -43022,6 +43519,7 @@ const monsterDrops = {
               },
               {
                 source: 'Epsilon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -43127,6 +43625,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Boota',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -43182,6 +43681,7 @@ const monsterDrops = {
               },
               {
                 source: 'Ze Boota',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -43237,6 +43737,7 @@ const monsterDrops = {
               },
               {
                 source: 'Ba Boota',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -43292,6 +43793,7 @@ const monsterDrops = {
               },
               {
                 source: 'Dorphon',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -43397,6 +43899,8 @@ const monsterDrops = {
               },
               {
                 source: 'Dorphon Eclair',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -43502,6 +44006,7 @@ const monsterDrops = {
               },
               {
                 source: 'Sand Rappy',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -43607,6 +44112,8 @@ const monsterDrops = {
               },
               {
                 source: 'Del Rappy',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -43712,6 +44219,7 @@ const monsterDrops = {
               },
               {
                 source: 'Satellite Lizard',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -43767,6 +44275,7 @@ const monsterDrops = {
               },
               {
                 source: 'Yowie',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -43822,6 +44331,7 @@ const monsterDrops = {
               },
               {
                 source: 'Zu',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -43877,6 +44387,8 @@ const monsterDrops = {
               },
               {
                 source: 'Pazuzu',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -43982,6 +44494,7 @@ const monsterDrops = {
               },
               {
                 source: 'Astark',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -44042,6 +44555,7 @@ const monsterDrops = {
             drops: [
               {
                 source: 'Goran',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -44097,6 +44611,7 @@ const monsterDrops = {
               },
               {
                 source: 'Pyro Goran',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -44152,6 +44667,7 @@ const monsterDrops = {
               },
               {
                 source: 'Goran Detonator',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -44207,6 +44723,7 @@ const monsterDrops = {
               },
               {
                 source: 'Merissa A',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -44262,6 +44779,8 @@ const monsterDrops = {
               },
               {
                 source: 'Merissa AA',
+                rare: true,
+                rareRate: 512,
                 items: [
                   {
                     secID: 'Viridia',
@@ -44367,6 +44886,7 @@ const monsterDrops = {
               },
               {
                 source: 'Girtablulu',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -44421,7 +44941,8 @@ const monsterDrops = {
                 ]
               },
               {
-                source: 'Sailt Million',
+                source: 'Saint Milion',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -44477,6 +44998,7 @@ const monsterDrops = {
               },
               {
                 source: 'Shambertin',
+                rare: false,
                 items: [
                   {
                     secID: 'Viridia',
@@ -44532,6 +45054,8 @@ const monsterDrops = {
               },
               {
                 source: 'Kondrieu',
+                rare: true,
+                rareRate: 10,
                 items: [
                   {
                     secID: 'Viridia',

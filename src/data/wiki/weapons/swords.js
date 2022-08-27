@@ -1,7 +1,7 @@
 export const swords = [
   {
     name: "Akiko's Cleaver",
-    rarity: '9★',
+    rarity: '9',
     ATP: {
       min: 1,
       max: 200
@@ -18,7 +18,7 @@ export const swords = [
   },
   {
     name: 'Hammer',
-    rarity: '9★',
+    rarity: '9',
     ATP: {
       min: 120,
       max: 185
@@ -35,7 +35,7 @@ export const swords = [
   },
   {
     name: 'Daisy Chain',
-    rarity: '9★',
+    rarity: '9',
     ATP: {
       min: 350,
       max: 410
@@ -52,7 +52,7 @@ export const swords = [
   },
   {
     name: 'Crazy Tune',
-    rarity: '9★',
+    rarity: '9',
     ATP: {
       min: 200,
       max: 255
@@ -69,7 +69,7 @@ export const swords = [
   },
   {
     name: 'Huge Battle Fan',
-    rarity: '9★',
+    rarity: '9',
     ATP: {
       min: 10,
       max: 255
@@ -86,7 +86,7 @@ export const swords = [
   },
   {
     name: "Flowen's Sword",
-    rarity: '9★',
+    rarity: '9',
     ATP: {
       min: 230,
       max: 300
@@ -104,7 +104,7 @@ export const swords = [
   },
   {
     name: 'Last Survivor',
-    rarity: '9★',
+    rarity: '9',
     ATP: {
       min: 275,
       max: 321
@@ -121,7 +121,7 @@ export const swords = [
   },
   {
     name: 'Dragon Slayer',
-    rarity: '9★',
+    rarity: '9',
     ATP: {
       min: 345,
       max: 352
@@ -138,7 +138,7 @@ export const swords = [
   },
   {
     name: "Flowen's Sword (3060)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 135,
       max: 243
@@ -155,7 +155,7 @@ export const swords = [
   },
   {
     name: "Flowen's Sword (3064)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 164,
       max: 248
@@ -172,7 +172,7 @@ export const swords = [
   },
   {
     name: "Flowen's Sword (3067)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 200,
       max: 256
@@ -189,7 +189,7 @@ export const swords = [
   },
   {
     name: "Flowen's Sword (3073)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 197,
       max: 262
@@ -206,7 +206,7 @@ export const swords = [
   },
   {
     name: "Flowen's Sword (3077)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 121,
       max: 255
@@ -223,7 +223,7 @@ export const swords = [
   },
   {
     name: "Flowen's Sword (3079)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 290,
       max: 300
@@ -240,7 +240,7 @@ export const swords = [
   },
   {
     name: "Flowen's Sword (3082)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 211,
       max: 273
@@ -257,7 +257,7 @@ export const swords = [
   },
   {
     name: "Flowen's Sword (3083)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 261,
       max: 283
@@ -274,7 +274,7 @@ export const swords = [
   },
   {
     name: "Flowen's Sword (3084)",
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 300,
       max: 320
@@ -291,7 +291,7 @@ export const swords = [
   },
   {
     name: 'Victor Axe',
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 300,
       max: 420
@@ -308,7 +308,7 @@ export const swords = [
   },
   {
     name: 'Red Sword',
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 400,
       max: 611
@@ -325,7 +325,7 @@ export const swords = [
   },
   {
     name: 'Chain Sawd',
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 500,
       max: 525
@@ -342,7 +342,7 @@ export const swords = [
   },
   {
     name: 'Zanba',
-    rarity: '10★',
+    rarity: '10',
     ATP: {
       min: 310,
       max: 438
@@ -359,7 +359,7 @@ export const swords = [
   },
   {
     name: 'Sealed J-Sword',
-    rarity: '11★',
+    rarity: '11',
     ATP: {
       min: 420,
       max: 525
@@ -377,7 +377,7 @@ export const swords = [
   },
   {
     name: 'Laconium Axe',
-    rarity: '11★',
+    rarity: '11',
     ATP: {
       min: 700,
       max: 750
@@ -394,7 +394,7 @@ export const swords = [
   },
   {
     name: 'Dark Flow',
-    rarity: '11★',
+    rarity: '11',
     ATP: {
       min: 756,
       max: 900
@@ -412,7 +412,7 @@ export const swords = [
   },
   {
     name: 'Tsumikiri J-Sword',
-    rarity: '12★',
+    rarity: '12',
     ATP: {
       min: 700,
       max: 756

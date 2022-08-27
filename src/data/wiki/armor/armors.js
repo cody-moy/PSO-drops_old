@@ -2,7 +2,7 @@ export const armors = [
   {
     role: `Common`,
     name: `Celestial Armor`,
-    rarity: `8★`,
+    rarity: 8,
     DFP: {
       min: 120,
       max: 130

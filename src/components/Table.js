@@ -6,6 +6,17 @@ import Character from './Character';
 import Button from './Button';
 import getSecIDIcon from '../Utils/getSecIDIcon';
 
+import Greenill from '../assets/Greenill_icon.png';
+import Viridia from '../assets/Viridia_icon.png';
+import Bluefull from '../assets/Bluefull_icon.png';
+import Oran from '../assets/Oran_icon.png';
+import Purplenum from '../assets/Purplenum_icon.png';
+import Skyly from '../assets/Skyly_icon.png';
+import Pinkal from '../assets/Pinkal_icon.png';
+import Whitill from '../assets/Whitill_icon.png';
+import Yellowboze from '../assets/Yellowboze_icon.png';
+import Redria from '../assets/Redria_icon.png';
+
 import './styles/Table.css';
 
 function Table({ setItem }) {
@@ -98,9 +109,11 @@ function Table({ setItem }) {
                 id={episode.name}
               >
                 <>
-                  <h3 className="table__episode-name">
-                    {episode.name.toUpperCase()}
-                  </h3>
+                  <div className="table__episode-name-wrapper">
+                    <h3 className="table__episode-name">
+                      {episode.name.toUpperCase()}
+                    </h3>
+                  </div>
                   {episode.areas.map((area, ai) => {
                     return (
                       <div
@@ -109,7 +122,81 @@ function Table({ setItem }) {
                         id={area.name}
                       >
                         <>
-                          <h4 className="table__area-name">{area.name}</h4>
+                          <div className="secID-container">
+                            <h4 className="table__area-name">{area.name}</h4>
+                            <div style={{ display: 'flex', width: '100%' }}>
+                              <div className="table__source-label-container">
+                                {/* <p>Source</p> */}
+                              </div>
+                              <div
+                                className="table__secID-container"
+                                id="Viridia"
+                              >
+                                <img src={Viridia} alt="Viridia-icon" />
+                                <p>Viridia</p>
+                              </div>
+                              <div
+                                className="table__secID-container"
+                                id="Greenill"
+                              >
+                                <img src={Greenill} alt="Greenill-icon" />
+                                <p>Greenill</p>
+                              </div>
+                              <div
+                                className="table__secID-container"
+                                id="Skyly"
+                              >
+                                <img src={Skyly} alt="Skyly-icon" />
+                                <p>Skyly</p>
+                              </div>
+                              <div
+                                className="table__secID-container"
+                                id="Bluefull"
+                              >
+                                <img src={Bluefull} alt="Bluefull-icon" />
+                                <p>Bluefull</p>
+                              </div>
+                              <div
+                                className="table__secID-container"
+                                id="Purplenum"
+                              >
+                                <img src={Purplenum} alt="Purplenum-icon" />
+                                <p>Purplenum</p>
+                              </div>
+                              <div
+                                className="table__secID-container"
+                                id="Pinkal"
+                              >
+                                <img src={Pinkal} alt="Pinkal-icon" />
+                                <p>Pinkal</p>
+                              </div>
+                              <div
+                                className="table__secID-container"
+                                id="Redria"
+                              >
+                                <img src={Redria} alt="Redria-icon" />
+                                <p>Redria</p>
+                              </div>
+                              <div className="table__secID-container" id="Oran">
+                                <img src={Oran} alt="Oran-icon" />
+                                <p>Oran</p>
+                              </div>
+                              <div
+                                className="table__secID-container"
+                                id="Yellowboze"
+                              >
+                                <img src={Yellowboze} alt="Yellowboze-icon" />
+                                <p>Yellowboze</p>
+                              </div>
+                              <div
+                                className="table__secID-container"
+                                id="Whitill"
+                              >
+                                <img src={Whitill} alt="Whitill-icon" />
+                                <p>Whitill</p>
+                              </div>
+                            </div>
+                          </div>
                           {area.drops.map((dropSource, di) => {
                             return (
                               <div
@@ -119,7 +206,18 @@ function Table({ setItem }) {
                               >
                                 <div className="table__row">
                                   <div className="table__drop-source-name-container">
-                                    <p>{dropSource.source}</p>
+                                    <p
+                                      id={
+                                        dropSource.rare ? 'rare-monster' : null
+                                      }
+                                      title={
+                                        dropSource.rare
+                                          ? `Spawn rate: 1/${dropSource.rareRate}`
+                                          : null
+                                      }
+                                    >
+                                      {dropSource.source}
+                                    </p>
                                   </div>
                                   {dropSource.items.map((item, ii) => {
                                     return (
@@ -130,12 +228,6 @@ function Table({ setItem }) {
                                         }`}
                                         onClick={() => setItem(item)}
                                       >
-                                        <div className="table__item-secID">
-                                          <img
-                                            src={getSecIDIcon(item.secID)}
-                                            alt={`${item.secID}-icon`}
-                                          />
-                                        </div>
                                         <p
                                           className={`table__item-name ${
                                             item.itemName ? '' : 'no-drop'

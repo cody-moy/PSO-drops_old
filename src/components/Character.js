@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import TextInput from './TextInput';
 import { secIDs, classes } from '../data/miscData';
-
-import './styles/Character.css';
 import Select from './Select';
 import Checkbox from './Checkbox';
+
+import './styles/Character.css';
 
 function Character({
   character,
@@ -26,7 +26,7 @@ function Character({
   return (
     <div className="character-info-wrapper">
       <Checkbox
-        label="Filter with character"
+        label="Use character filter"
         labelSide="right"
         value={characterMode}
         style={{ margin: '0.5rem 0 1rem 0' }}

@@ -1,11 +1,10 @@
 import { useEffect, useState } from 'react';
-import './App.css';
 import Table from './components/Table';
-import Character from './components/Character';
 import ItemModal from './components/ItemModal';
 import setType from './Utils/setItemType';
+import Navbar from './components/Navbar';
 
-import monsterDrops from './data/MONSTER_DROPS';
+import './App.css';
 
 function App() {
   const [character, setCharacter] = useState({
@@ -27,14 +26,14 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Ephinea PSO:BB drop database</h1>
+      <Navbar
+        character={character}
+        setCharacter={setCharacter}
+        characterMode={characterMode}
+        setCharacterMode={setCharacterMode}
+      />
       <div className="main-content">
-        <Character
-          character={character}
-          setCharacter={setCharacter}
-          characterMode={characterMode}
-          setCharacterMode={setCharacterMode}
-        />
+        <h1>Ephinea PSO:BB drop database</h1>
         <div className="table-container">
           <Table setItem={setItem} />
         </div>

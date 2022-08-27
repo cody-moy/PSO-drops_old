@@ -2,6 +2,7 @@
   /* font-family: Montserrat, sans-serif; */
   font-family: Inter, sans-serif;
   user-select: none;
+  box-sizing: border-box;
 }
 
 h1,
@@ -36,7 +37,8 @@ input[type='checkbox'] {
 }
 
 body {
-  background-color: #1f1f24;
+  background-color: var(--main-bg-color);
+  margin: 0;
 }
 
 .app {
@@ -47,9 +49,14 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-top: 50px;
 }
 
-.main-content > div {
+.main-content h1 {
+  align-self: flex-start;
+}
+
+.main-content > div:not(.global-dimmer) {
   max-width: 1440px;
 }
 
@@ -70,11 +77,11 @@ body {
   --color-surface-2-highlighted: #6491e6;
   --color-surface-2-disabled: #4c515f;
 
-  --color-surface-alt-1: #1c2b31;
-  --color-surface-dark-alt-1: #0a161b;
-  --color-surface-alt-1-hover: #2b3e46;
-  --color-surface-alt-1-active: #172b33;
-  --color-surface-alt-1-highlighted: #83dee5;
+  --color-surface-alt-1: #3d506c;
+  --color-surface-dark-alt-1: #1c2636;
+  --color-surface-alt-1-hover: #496081;
+  --color-surface-alt-1-active: #2e3f5a;
+  --color-surface-alt-1-highlighted: #7aa2d1;
 
   --color-surface-alt-2: #284c5a;
   --color-surface-dark-alt-2: #193541;

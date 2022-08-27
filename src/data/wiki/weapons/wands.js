@@ -1,7 +1,7 @@
 export const wands = [
   {
     name: `Game Magazine`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: 1,
     ATA: 1,
     grind: 0,
@@ -12,7 +12,7 @@ export const wands = [
   },
   {
     name: `LOGiN`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: 5,
     ATA: 25,
     grind: 0,
@@ -26,7 +26,7 @@ export const wands = [
   },
   {
     name: `Marina's Bag`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 10,
       max: 180
@@ -43,7 +43,7 @@ export const wands = [
   },
   {
     name: `Fire Scepter: Agni`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 70,
       max: 95
@@ -60,7 +60,7 @@ export const wands = [
   },
   {
     name: `Ice Staff: Dagon`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 73,
       max: 105
@@ -77,7 +77,7 @@ export const wands = [
   },
   {
     name: `Storm Wand: Indra`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 105,
       max: 120
@@ -94,7 +94,7 @@ export const wands = [
   },
   {
     name: `Technical Crozier`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 130,
       max: 135
@@ -111,7 +111,7 @@ export const wands = [
   },
   {
     name: `The Sigh of a God`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 175,
       max: 180
@@ -128,7 +128,7 @@ export const wands = [
   },
   {
     name: `Earth Wand: Brownie`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 370,
       max: 670
@@ -145,7 +145,7 @@ export const wands = [
   },
   {
     name: `Solferino`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 250,
       max: 300
@@ -162,7 +162,7 @@ export const wands = [
   },
   {
     name: `Plantain Fan`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 95,
       max: 150
@@ -179,7 +179,7 @@ export const wands = [
   },
   {
     name: `Twinkle Star`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: 175,
     ATA: 40,
     grind: 9,
@@ -193,7 +193,7 @@ export const wands = [
   },
   {
     name: `Magical Piece`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: 240,
     ATA: 42,
     grind: 0,
@@ -207,7 +207,7 @@ export const wands = [
   },
   {
     name: `Prophets of Motav`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 90,
       max: 250

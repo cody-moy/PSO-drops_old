@@ -2,7 +2,7 @@ export const barriers = [
   {
     role: `Common`,
     name: `Divinity Barrier`,
-    rarity: `8★`,
+    rarity: 8,
     DFP: {
       min: 44,
       max: 49
@@ -25,7 +25,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Bunny Ears`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: 2,
     EVP: 25,
     resistances: {
@@ -42,7 +42,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Cat Ears`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: 2,
     EVP: 25,
     resistances: {
@@ -59,7 +59,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Works Guard`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 11,
       max: 16
@@ -82,7 +82,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Black Gear`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 23,
       max: 28
@@ -105,7 +105,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Angel Ring`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: 40,
     EVP: 60,
     resistances: {
@@ -122,7 +122,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Gods Shield "Suzaku"`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: 50,
     EVP: 100,
     resistances: {
@@ -139,7 +139,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Gods Shield "Genbu"`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: 45,
     EVP: 80,
     resistances: {
@@ -156,7 +156,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Gods Shield "Byakko"`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: 45,
     EVP: 80,
     resistances: {
@@ -173,7 +173,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Gods Shield "Seiryu"`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: 50,
     EVP: 100,
     resistances: {
@@ -190,7 +190,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Stink Shield`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 50,
       max: 125
@@ -213,7 +213,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Weapons Copper Shield`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: 24,
     EVP: 25,
     resistances: {
@@ -230,7 +230,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Weapons Silver Shield`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: 35,
     EVP: 50,
     resistances: {
@@ -247,7 +247,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Weapons Gold Shield`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: 41,
     EVP: 100,
     resistances: {
@@ -264,7 +264,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Sacred Guard`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 5,
       max: 13
@@ -287,7 +287,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Invisible Guard`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 15,
       max: 23
@@ -310,7 +310,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `S-Parts ver1.16`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 20,
       max: 28
@@ -333,7 +333,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Light Relief`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 20,
       max: 27
@@ -356,7 +356,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Attribute Wall`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 75,
       max: 85
@@ -379,7 +379,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Secret Gear`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 75,
       max: 85
@@ -402,7 +402,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Shield of Delsaber`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 65,
       max: 72
@@ -425,7 +425,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Union Guard`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: 50,
     EVP: 0,
     resistances: {
@@ -442,7 +442,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Custom Barrier ver.OO`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 65,
       max: 75
@@ -465,7 +465,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `DB's Shield`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 67,
       max: 77
@@ -488,7 +488,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Flowen's Shield`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 62,
       max: 72
@@ -511,7 +511,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Proto Regene Gear`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 40,
       max: 47
@@ -534,7 +534,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Regenerate Gear`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 40,
       max: 47
@@ -557,7 +557,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Regene Gear Adv.`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 45,
       max: 52
@@ -580,7 +580,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Genpei`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: 158,
     EVP: 237,
     resistances: {
@@ -597,7 +597,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Gratia`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 130,
       max: 150
@@ -620,7 +620,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Regenerate Gear B.P.`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 90,
       max: 97
@@ -643,7 +643,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `De Rol Le Shield`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 180,
       max: 255
@@ -666,7 +666,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Epsiguard`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 120,
       max: 195
@@ -689,7 +689,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Honeycomb Reflector`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 110,
       max: 120
@@ -712,7 +712,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Tripolic Shield`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 95,
       max: 145
@@ -735,7 +735,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Hunter's Shell`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 88,
       max: 138
@@ -758,7 +758,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Tripolic Reflector`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 95,
       max: 145
@@ -781,7 +781,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Standstill Shield`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 163,
       max: 213
@@ -804,7 +804,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Black Gauntlets`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 120,
       max: 170
@@ -827,7 +827,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Three Seals`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 33,
       max: 36
@@ -850,7 +850,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `DF Shield`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 60,
       max: 145
@@ -873,7 +873,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Gods Shield "Kouryu"`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: 95,
     EVP: 180,
     resistances: {
@@ -890,7 +890,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Rupika`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 120,
       max: 130
@@ -913,7 +913,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Striker Plus`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 80,
       max: 90
@@ -936,7 +936,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Secure Feet`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 83,
       max: 133
@@ -959,7 +959,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Safety Heart`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 106,
       max: 156
@@ -982,7 +982,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Rico's Earring`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 96,
       max: 181
@@ -1005,7 +1005,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Rico's Glasses`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: 1,
     EVP: 1,
     resistances: {
@@ -1022,7 +1022,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `Ragol Ring`,
-    rarity: `12★`,
+    rarity: 12,
     DFP: 105,
     EVP: 130,
     resistances: {
@@ -1039,7 +1039,7 @@ export const barriers = [
   {
     role: `Generic`,
     name: `From the Depths`,
-    rarity: `12★`,
+    rarity: 12,
     DFP: 160,
     EVP: 240,
     resistances: {
@@ -1056,7 +1056,7 @@ export const barriers = [
   {
     role: `Offense`,
     name: `Hunter Wall`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 70,
       max: 80
@@ -1079,7 +1079,7 @@ export const barriers = [
   {
     role: `Offense`,
     name: `Ranger Wall`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 70,
       max: 80
@@ -1102,7 +1102,7 @@ export const barriers = [
   {
     role: `Offense`,
     name: `Force Wall`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 65,
       max: 75
@@ -1125,7 +1125,7 @@ export const barriers = [
   {
     role: `Offense`,
     name: `S-Parts ver2.01`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 25,
       max: 32
@@ -1148,7 +1148,7 @@ export const barriers = [
   {
     role: `Offense`,
     name: `Combat Gear`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: 0,
     EVP: 0,
     resistances: {
@@ -1165,7 +1165,7 @@ export const barriers = [
   {
     role: `Offense`,
     name: `Kasami Bracer`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 96,
       max: 146
@@ -1188,7 +1188,7 @@ export const barriers = [
   {
     role: `Offense`,
     name: `Yata Mirror`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 40,
       max: 60
@@ -1211,7 +1211,7 @@ export const barriers = [
   {
     role: `Technique Merge`,
     name: `Foie Merge`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1234,7 +1234,7 @@ export const barriers = [
   {
     role: `Technique Merge`,
     name: `Zonde Merge`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1257,7 +1257,7 @@ export const barriers = [
   {
     role: `Technique Merge`,
     name: `Barta Merge`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1280,7 +1280,7 @@ export const barriers = [
   {
     role: `Technique Merge`,
     name: `Gifoie Merge`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1303,7 +1303,7 @@ export const barriers = [
   {
     role: `Technique Merge`,
     name: `Gizonde Merge`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1326,7 +1326,7 @@ export const barriers = [
   {
     role: `Technique Merge`,
     name: `Gibarta Merge`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1349,7 +1349,7 @@ export const barriers = [
   {
     role: `Technique Merge`,
     name: `Rafoie Merge`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1372,7 +1372,7 @@ export const barriers = [
   {
     role: `Technique Merge`,
     name: `Razonde Merge`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1395,7 +1395,7 @@ export const barriers = [
   {
     role: `Technique Merge`,
     name: `Rabarta Merge`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1418,7 +1418,7 @@ export const barriers = [
   {
     role: `Technique Merge`,
     name: `Red Merge`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1441,7 +1441,7 @@ export const barriers = [
   {
     role: `Technique Merge`,
     name: `Yellow Merge`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1464,7 +1464,7 @@ export const barriers = [
   {
     role: `Technique Merge`,
     name: `Blue Merge`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1487,7 +1487,7 @@ export const barriers = [
   {
     role: `Technique Merge`,
     name: `Shifta Merge`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1510,7 +1510,7 @@ export const barriers = [
   {
     role: `Technique Merge`,
     name: `Deband Merge`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1533,7 +1533,7 @@ export const barriers = [
   {
     role: `Technique Merge`,
     name: `Resta Merge`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1556,7 +1556,7 @@ export const barriers = [
   {
     role: `Technique Merge`,
     name: `Anti Merge`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1579,7 +1579,7 @@ export const barriers = [
   {
     role: `Technique Barrier`,
     name: `Red Barrier`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1602,7 +1602,7 @@ export const barriers = [
   {
     role: `Technique Barrier`,
     name: `Yellow Barrier`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1625,7 +1625,7 @@ export const barriers = [
   {
     role: `Technique Barrier`,
     name: `Blue Barrier`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1648,7 +1648,7 @@ export const barriers = [
   {
     role: `Technique Barrier`,
     name: `Assist Barrier`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1671,7 +1671,7 @@ export const barriers = [
   {
     role: `Technique Barrier`,
     name: `Recovery Barrier`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 2,
       max: 7
@@ -1694,7 +1694,7 @@ export const barriers = [
   {
     role: `Ring`,
     name: `Blue Ring`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 35,
       max: 40
@@ -1717,7 +1717,7 @@ export const barriers = [
   {
     role: `Ring`,
     name: `Green Ring`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 35,
       max: 40
@@ -1740,7 +1740,7 @@ export const barriers = [
   {
     role: `Ring`,
     name: `Yellow Ring`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 35,
       max: 40
@@ -1763,7 +1763,7 @@ export const barriers = [
   {
     role: `Ring`,
     name: `Purple Ring`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 35,
       max: 40
@@ -1786,7 +1786,7 @@ export const barriers = [
   {
     role: `Ring`,
     name: `White Ring`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 35,
       max: 40
@@ -1809,7 +1809,7 @@ export const barriers = [
   {
     role: `Ring`,
     name: `Black Ring`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 35,
       max: 40
@@ -1832,7 +1832,7 @@ export const barriers = [
   {
     role: `Ring`,
     name: `Anti-Light Ring`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: 90,
     EVP: 80,
     resistances: {
@@ -1849,7 +1849,7 @@ export const barriers = [
   {
     role: `Ring`,
     name: `Anti-Dark Ring`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: 20,
     EVP: 135,
     resistances: {
@@ -1866,7 +1866,7 @@ export const barriers = [
   {
     role: `Ring`,
     name: `Red Ring`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 150,
       max: 235

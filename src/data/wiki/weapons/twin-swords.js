@@ -1,7 +1,7 @@
 export const twinSwords = [
   {
     name: `Musashi`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 330,
       max: 350
@@ -18,7 +18,7 @@ export const twinSwords = [
   },
   {
     name: `Yamato`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 380,
       max: 390
@@ -35,7 +35,7 @@ export const twinSwords = [
   },
   {
     name: `G-Assassin's Sabers`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 350,
       max: 360
@@ -52,7 +52,7 @@ export const twinSwords = [
   },
   {
     name: `Asuka`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 560,
       max: 570
@@ -69,7 +69,7 @@ export const twinSwords = [
   },
   {
     name: `Sange & Yasha`,
-    rarity: `12★`,
+    rarity: 12,
     ATP: {
       min: 640,
       max: 650
@@ -86,7 +86,7 @@ export const twinSwords = [
   },
   {
     name: `Jizai`,
-    rarity: `12★`,
+    rarity: 12,
     ATP: {
       min: 800,
       max: 810

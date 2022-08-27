@@ -1,5 +1,5 @@
 .item-card-container {
-  max-width: 450px;
+  max-width: 475px;
   background-color: var(--color-surface-1);
   padding: 0.75rem;
   border: 2px solid var(--color-surface-2);
@@ -25,6 +25,41 @@
   white-space: nowrap;
 }
 
+.item-rarity {
+  display: flex;
+  align-items: center;
+}
+
+.rarity-stars {
+  margin: 0 5px;
+  transform: translateY(1px);
+}
+
+.rarity-stars svg {
+  width: 20px;
+  opacity: 0.85;
+}
+
+.rarity-stars svg#star-normal {
+  fill: #76d4e8;
+}
+
+.rarity-stars svg#star-rare {
+  fill: #eae365;
+}
+
+/* applies only to Unit cards */
+.unit-card-info-wrapper {
+  width: 100%;
+  margin: 15px 0 20px 0;
+  text-align: center;
+}
+
+/* without the ':not', tables in .unit-card-info-wrapper would get this margin twice */
+.stats-table:not(.unit-card-info-wrapper .stats-table) {
+  margin: 15px auto 20px auto;
+}
+
 .class-table,
 .stats-table {
   border-collapse: collapse;
@@ -39,6 +74,14 @@
 .stats-table td {
   background-color: var(--color-surface-1-active);
   border: 1px solid var(--color-surface-dark-alt-1) !important;
+}
+
+.stats-table td ul {
+  padding: 0 5px 0 18px;
+}
+
+.stats-table td li {
+  text-align: start;
 }
 
 .stats-table td.dim {
@@ -74,4 +117,8 @@
   padding: 0.5rem;
   border-radius: var(--border-radius-1);
   font-size: 0.9rem;
+}
+
+.item-card__notes li {
+  margin: 5px 0;
 }

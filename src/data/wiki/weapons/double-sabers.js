@@ -1,7 +1,7 @@
 export const doubleSabers = [
   {
     name: `Double Saber`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 150,
       max: 152
@@ -18,7 +18,7 @@ export const doubleSabers = [
   },
   {
     name: `Stag Cutlery`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 230,
       max: 235
@@ -35,7 +35,7 @@ export const doubleSabers = [
   },
   {
     name: `Twin Brand`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 235,
       max: 240
@@ -52,7 +52,7 @@ export const doubleSabers = [
   },
   {
     name: `Monkey King Bar`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 380,
       max: 390
@@ -69,7 +69,7 @@ export const doubleSabers = [
   },
   {
     name: `Girasole`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 500,
       max: 550
@@ -86,7 +86,7 @@ export const doubleSabers = [
   },
   {
     name: `Partisan of Lightning`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 370,
       max: 410
@@ -103,7 +103,7 @@ export const doubleSabers = [
   },
   {
     name: `Demolition Comet`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: 530,
     ATA: 38,
     grind: 25,
@@ -117,7 +117,7 @@ export const doubleSabers = [
   },
   {
     name: `Twin Blaze`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 300,
       max: 520
@@ -134,7 +134,7 @@ export const doubleSabers = [
   },
   {
     name: `Meteor Cudgel`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 300,
       max: 560
@@ -151,7 +151,7 @@ export const doubleSabers = [
   },
   {
     name: `Vivienne`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 575,
       max: 590
@@ -168,7 +168,7 @@ export const doubleSabers = [
   },
   {
     name: `Black King Bar`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 590,
       max: 600
@@ -185,7 +185,7 @@ export const doubleSabers = [
   },
   {
     name: `Double Cannon`,
-    rarity: `12★`,
+    rarity: 12,
     ATP: {
       min: 620,
       max: 650

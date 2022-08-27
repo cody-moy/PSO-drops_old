@@ -2,7 +2,7 @@ export const data = [
   {
     name: `__________`,
     rarity: `__________`,
-    augmentation: {
+    effect: {
       stat: `__________`,
       value: `1234567890`
     },

@@ -1,7 +1,7 @@
 export const launchers = [
   {
     name: `Photon Launcher`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 210,
       max: 220
@@ -18,7 +18,7 @@ export const launchers = [
   },
   {
     name: `Guilty Light`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 240,
       max: 250
@@ -35,7 +35,7 @@ export const launchers = [
   },
   {
     name: `Red Scorpio`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 280,
       max: 300
@@ -52,7 +52,7 @@ export const launchers = [
   },
   {
     name: `Phonon Maser`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 350,
       max: 360

@@ -2,7 +2,7 @@ export const frames = [
   {
     role: `Common`,
     name: `Ultimate Frame`,
-    rarity: `8★`,
+    rarity: 8,
     DFP: {
       min: 110,
       max: 114
@@ -25,7 +25,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Dress Plate`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: 30,
     EVP: 30,
     resistances: {
@@ -42,7 +42,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Force Field`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 40,
       max: 48
@@ -65,7 +65,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Hunter Field`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 60,
       max: 68
@@ -88,7 +88,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Kroe's Sweater`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: 1,
     EVP: 1,
     resistances: {
@@ -105,7 +105,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Ranger Field`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: {
       min: 50,
       max: 58
@@ -128,7 +128,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Sonic Team Armor`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: 500,
     EVP: 500,
     resistances: {
@@ -145,7 +145,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Alliance Uniform`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 88,
       max: 100
@@ -165,7 +165,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Attribute Plate`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 105,
       max: 113
@@ -188,7 +188,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Black Hound Cuirass`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 300,
       max: 330
@@ -208,7 +208,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Commander Uniform`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 180,
       max: 196
@@ -228,7 +228,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Custom Frame ver.OO`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 80,
       max: 90
@@ -251,7 +251,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `DB's Armor`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 85,
       max: 95
@@ -274,7 +274,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Flowen's Frame`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 82,
       max: 92
@@ -297,7 +297,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Graviton Plate`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 125,
       max: 133
@@ -317,7 +317,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Infantry Gear`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 118,
       max: 130
@@ -340,7 +340,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Infantry Mantle`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 92,
       max: 102
@@ -363,7 +363,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Lieutenant Gear`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 168,
       max: 186
@@ -386,7 +386,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Lieutenant Mantle`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 195,
       max: 216
@@ -409,7 +409,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Officer Uniform`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 114,
       max: 128
@@ -429,7 +429,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Parasite Wear: De Rol`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: 120,
     EVP: 100,
     resistances: {
@@ -446,7 +446,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Revival Cuirass`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 134,
       max: 139
@@ -469,7 +469,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Revival Garment`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 85,
       max: 90
@@ -492,7 +492,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Sense Plate`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 25,
       max: 32
@@ -515,7 +515,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Spirit Cuirass`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 122,
       max: 129
@@ -538,7 +538,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Spirit Garment`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 100,
       max: 107
@@ -561,7 +561,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Star Cuirass`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 250,
       max: 280
@@ -581,7 +581,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Stink Frame`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 40,
       max: 125
@@ -604,7 +604,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Union Field`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: 0,
     EVP: 50,
     resistances: {
@@ -621,7 +621,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Love Heart`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 196,
       max: 246
@@ -644,7 +644,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Parasite Wear: Nelgal`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: 145,
     EVP: 85,
     resistances: {
@@ -661,7 +661,7 @@ export const frames = [
   {
     role: `Generic`,
     name: `Parasite Wear: Vajulla`,
-    rarity: `12★`,
+    rarity: 12,
     DFP: 155,
     EVP: 100,
     resistances: {
@@ -678,7 +678,7 @@ export const frames = [
   {
     role: `Offense`,
     name: `Black Odoshi Domaru`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 124,
       max: 134
@@ -701,7 +701,7 @@ export const frames = [
   {
     role: `Offense`,
     name: `Black Odoshi Red Nimaidou`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 128,
       max: 138
@@ -724,7 +724,7 @@ export const frames = [
   {
     role: `Offense`,
     name: `D-Parts ver1.01`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 115,
       max: 125
@@ -747,7 +747,7 @@ export const frames = [
   {
     role: `Offense`,
     name: `D-Parts ver2.10`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 125,
       max: 135
@@ -770,7 +770,7 @@ export const frames = [
   {
     role: `Offense`,
     name: `Morning Prayer`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 120,
       max: 130
@@ -793,7 +793,7 @@ export const frames = [
   {
     role: `Offense`,
     name: `Red Coat`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 152,
       max: 162
@@ -816,7 +816,7 @@ export const frames = [
   {
     role: `Offense`,
     name: `Red Odoshi Domaru`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 112,
       max: 122
@@ -839,7 +839,7 @@ export const frames = [
   {
     role: `Offense`,
     name: `Samurai Armor`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: 121,
     EVP: 102,
     resistances: {
@@ -856,7 +856,7 @@ export const frames = [
   {
     role: `Offense`,
     name: `Thirteen`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 113,
       max: 121
@@ -879,7 +879,7 @@ export const frames = [
   {
     role: `Offense`,
     name: `Crimson Coat`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 158,
       max: 170
@@ -902,7 +902,7 @@ export const frames = [
   {
     role: `Offense`,
     name: `Sweetheart`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 176,
       max: 226
@@ -925,7 +925,7 @@ export const frames = [
   {
     role: `Offense`,
     name: `Blue Odoshi Violet Nimaidou`,
-    rarity: `12★`,
+    rarity: 12,
     DFP: {
       min: 156,
       max: 166
@@ -948,7 +948,7 @@ export const frames = [
   {
     role: `technique`,
     name: `Dirty Lifejacket`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: 5,
     EVP: 5,
     resistances: {
@@ -965,7 +965,7 @@ export const frames = [
   {
     role: `technique`,
     name: `Ignition Cloak`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 168,
       max: 176
@@ -988,7 +988,7 @@ export const frames = [
   {
     role: `technique`,
     name: `Tempest Cloak`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 168,
       max: 176
@@ -1011,7 +1011,7 @@ export const frames = [
   {
     role: `technique`,
     name: `Congeal Cloak`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 168,
       max: 176
@@ -1034,7 +1034,7 @@ export const frames = [
   {
     role: `technique`,
     name: `Select Cloak`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 172,
       max: 180
@@ -1057,7 +1057,7 @@ export const frames = [
   {
     role: `technique`,
     name: `Cursed Cloak`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: {
       min: 172,
       max: 180
@@ -1080,7 +1080,7 @@ export const frames = [
   {
     role: `technique`,
     name: `Mother Garb`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 165,
       max: 180
@@ -1103,7 +1103,7 @@ export const frames = [
   {
     role: `technique`,
     name: `Mother Garb+`,
-    rarity: `12★`,
+    rarity: 12,
     DFP: {
       min: 175,
       max: 190
@@ -1126,7 +1126,7 @@ export const frames = [
   {
     role: `aesthetic`,
     name: `Wedding Dress`,
-    rarity: `9★`,
+    rarity: 9,
     DFP: 30,
     EVP: 30,
     resistances: {
@@ -1143,7 +1143,7 @@ export const frames = [
   {
     role: `aesthetic`,
     name: `Chu Chu Fever`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: 5,
     EVP: 5,
     resistances: {
@@ -1160,7 +1160,7 @@ export const frames = [
   {
     role: `aesthetic`,
     name: `Stealth Suit`,
-    rarity: `10★`,
+    rarity: 10,
     DFP: 1,
     EVP: {
       min: 300,
@@ -1180,7 +1180,7 @@ export const frames = [
   {
     role: `aesthetic`,
     name: `Aura Field`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 235,
       max: 285
@@ -1203,7 +1203,7 @@ export const frames = [
   {
     role: `aesthetic`,
     name: `Brightness Circle`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 190,
       max: 240
@@ -1226,7 +1226,7 @@ export const frames = [
   {
     role: `aesthetic`,
     name: `DF Field`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 203,
       max: 253
@@ -1249,7 +1249,7 @@ export const frames = [
   {
     role: `aesthetic`,
     name: `Electro Frame`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 196,
       max: 246
@@ -1272,7 +1272,7 @@ export const frames = [
   {
     role: `aesthetic`,
     name: `Flame Garment`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 180,
       max: 230
@@ -1295,7 +1295,7 @@ export const frames = [
   {
     role: `aesthetic`,
     name: `Guard Wave`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 173,
       max: 223
@@ -1318,7 +1318,7 @@ export const frames = [
   {
     role: `aesthetic`,
     name: `Luminous Field`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 206,
       max: 256
@@ -1341,7 +1341,7 @@ export const frames = [
   {
     role: `aesthetic`,
     name: `Sacred Cloth`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 100,
       max: 150
@@ -1364,7 +1364,7 @@ export const frames = [
   {
     role: `aesthetic`,
     name: `Smoking Plate`,
-    rarity: `11★`,
+    rarity: 11,
     DFP: {
       min: 223,
       max: 273
@@ -1387,7 +1387,7 @@ export const frames = [
   {
     role: `aesthetic`,
     name: `Virus Armor: Lafuteria`,
-    rarity: `12★`,
+    rarity: 12,
     DFP: {
       min: 240,
       max: 290

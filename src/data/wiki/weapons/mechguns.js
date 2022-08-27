@@ -1,7 +1,7 @@
 export const mechguns = [
   {
     name: `Samba Maracas`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 5,
       max: 10
@@ -18,7 +18,7 @@ export const mechguns = [
   },
   {
     name: `Rocket Punch`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 50,
       max: 300
@@ -35,7 +35,7 @@ export const mechguns = [
   },
   {
     name: `M&A60 Vise`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 15,
       max: 25
@@ -52,7 +52,7 @@ export const mechguns = [
   },
   {
     name: `H&S25 Justice`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 15,
       max: 30
@@ -69,7 +69,7 @@ export const mechguns = [
   },
   {
     name: `L&K14 Combat`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 15,
       max: 30
@@ -86,7 +86,7 @@ export const mechguns = [
   },
   {
     name: `Twin Psychogun`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 35,
       max: 40
@@ -104,7 +104,7 @@ export const mechguns = [
 
   {
     name: `Red Mechgun`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: 50,
     ATA: 25,
     grind: 30,
@@ -119,7 +119,7 @@ export const mechguns = [
 
   {
     name: `Yasminkov 9000M`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 40,
       max: 80
@@ -136,7 +136,7 @@ export const mechguns = [
   },
   {
     name: `Rage de Foudre`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 175,
       max: 185
@@ -153,7 +153,7 @@ export const mechguns = [
   },
   {
     name: `Rage de Glace`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 175,
       max: 185
@@ -170,7 +170,7 @@ export const mechguns = [
   },
   {
     name: `Rage d'Ame`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 175,
       max: 185
@@ -187,7 +187,7 @@ export const mechguns = [
   },
   {
     name: `Rage de Feu`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 175,
       max: 185
@@ -204,7 +204,7 @@ export const mechguns = [
   },
   {
     name: `Guld Milla`,
-    rarity: `12★`,
+    rarity: 12,
     ATP: {
       min: 180,
       max: 200
@@ -221,7 +221,7 @@ export const mechguns = [
   },
   {
     name: `Mille Marteaux`,
-    rarity: `12★`,
+    rarity: 12,
     ATP: {
       min: 200,
       max: 220
@@ -238,7 +238,7 @@ export const mechguns = [
   },
   {
     name: `Dual Bird`,
-    rarity: `12★`,
+    rarity: 12,
     ATP: {
       min: 200,
       max: 210

@@ -1,7 +1,7 @@
 export const partisans = [
   {
     name: `Butterfly Net`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: 1,
     ATA: 1,
     grind: 0,
@@ -15,7 +15,7 @@ export const partisans = [
   },
   {
     name: `Synthesizer`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: 1,
     ATA: 1,
     grind: 0,
@@ -29,7 +29,7 @@ export const partisans = [
   },
   {
     name: `Tree Clippers`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 1,
       max: 200
@@ -46,7 +46,7 @@ export const partisans = [
   },
   {
     name: `Soul Eater`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 180,
       max: 185
@@ -63,7 +63,7 @@ export const partisans = [
   },
   {
     name: `Nice Shot`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 180,
       max: 200
@@ -80,7 +80,7 @@ export const partisans = [
   },
   {
     name: `Bamboo Spear`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 2,
       max: 255
@@ -97,7 +97,7 @@ export const partisans = [
   },
   {
     name: `Chameleon Scythe`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 80,
       max: 180
@@ -114,7 +114,7 @@ export const partisans = [
   },
   {
     name: `Getsugasan`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 190,
       max: 230
@@ -131,7 +131,7 @@ export const partisans = [
   },
   {
     name: `Brionac`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 150,
       max: 182
@@ -148,7 +148,7 @@ export const partisans = [
   },
   {
     name: `Vjaya`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 160,
       max: 220
@@ -165,24 +165,24 @@ export const partisans = [
   },
   {
     name: `Gae Bolg`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 215,
       max: 220
     },
     ATA: 36,
     grind: 30,
-    special: `Freeze (Activation rate reduced by ½)`,
+    special: `Freeze*`,
     requirement: {
       stat: `ATP`,
       amount: 500
     },
     classes: `111100000000`,
-    notes: null
+    notes: `*Activation rate reduced by ½`
   },
   {
     name: `Tyrell's Parasol`,
-    rarity: `9★`,
+    rarity: 9,
     ATP: {
       min: 250,
       max: 300
@@ -199,7 +199,7 @@ export const partisans = [
   },
   {
     name: `Madam's Umbrella`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 210,
       max: 280
@@ -216,7 +216,7 @@ export const partisans = [
   },
   {
     name: `Maguwa`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 230,
       max: 250
@@ -233,7 +233,7 @@ export const partisans = [
   },
   {
     name: `Plantain Huge Fan`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 265,
       max: 300
@@ -250,7 +250,7 @@ export const partisans = [
   },
   {
     name: `Red Partisan`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 290,
       max: 295
@@ -267,7 +267,7 @@ export const partisans = [
   },
   {
     name: `Berdysh`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 270,
       max: 290
@@ -284,7 +284,7 @@ export const partisans = [
   },
   {
     name: `Snake Spire`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 290,
       max: 310
@@ -301,7 +301,7 @@ export const partisans = [
   },
   {
     name: `Imperial Pick`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 280,
       max: 300
@@ -318,24 +318,24 @@ export const partisans = [
   },
   {
     name: `Asteron Belt`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 380,
       max: 400
     },
     ATA: 55,
     grind: 9,
-    special: `Hell (Activation rate reduced by ½)`,
+    special: `Hell*`,
     requirement: {
       stat: `ATP`,
       amount: 800
     },
     classes: `101010101000`,
-    notes: null
+    notes: `*Activation rate reduced by ½`
   },
   {
     name: `Yunchang`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 300,
       max: 350
@@ -352,7 +352,7 @@ export const partisans = [
   },
   {
     name: `Soul Banish`,
-    rarity: `10★`,
+    rarity: 10,
     ATP: {
       min: 350,
       max: 370
@@ -369,7 +369,7 @@ export const partisans = [
   },
   {
     name: `Madam's Parasol`,
-    rarity: `11★`,
+    rarity: 11,
     ATP: {
       min: 215,
       max: 220

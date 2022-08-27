@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import getItemFromWiki from '../../Utils/getItemFromWiki';
 import WeaponCard from './types/WeaponCard';
+import ArmorCard from './types/ArmorCard';
+import UnitCard from './types/UnitCard';
 
 import './ItemCard.css';
-import ArmorCard from './types/ArmorCard';
 
 function ItemCard({ item }) {
   const [itemToDisplay, setItemToDisplay] = useState();
@@ -37,17 +38,23 @@ function ItemCard({ item }) {
   }, []);
 
   return (
-    <div className="item-card-container">
-      {itemToDisplay && weapons.includes(item.type.object) && (
-        <WeaponCard item={itemToDisplay} itemType={item.type.object} />
+    <>
+      {item && (
+        <div className="item-card-container">
+          {itemToDisplay && weapons.includes(item.type.object) && (
+            <WeaponCard item={itemToDisplay} itemType={item.type.object} />
+          )}
+          {itemToDisplay && armor.includes(item.type.object) && (
+            <ArmorCard item={itemToDisplay} itemType={item.type.object} />
+          )}
+          {itemToDisplay && item.type.object === 'Unit' && (
+            <UnitCard item={itemToDisplay} />
+          )}
+          {itemToDisplay && item.type.object === 'Tool'}
+          {itemToDisplay && item.type.object === 'Misc'}
+        </div>
       )}
-      {itemToDisplay && armor.includes(item.type.object) && (
-        <ArmorCard item={itemToDisplay} itemType={item.type.object} />
-      )}
-      {itemToDisplay && item.type.object === 'Unit'}
-      {itemToDisplay && item.type.object === 'Tool'}
-      {itemToDisplay && item.type.object === 'Misc'}
-    </div>
+    </>
   );
 }
 
