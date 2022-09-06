@@ -234,7 +234,7 @@ export const mechguns = [
       amount: 190
     },
     classes: `000011110000`,
-    notes: `Increased range (+15); +10 MST; Odd Beats: Auto-aim; Even Beats: Divine Punishment`
+    notes: `Increased range (+15); +10 MST; Special is based on the hundreds digit of beat time. Odd: Auto-aim, Even: Divine Punishment`
   },
   {
     name: `Dual Bird`,

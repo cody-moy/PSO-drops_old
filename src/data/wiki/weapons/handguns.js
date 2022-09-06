@@ -243,6 +243,6 @@ export const handguns = [
       amount: 210
     },
     classes: `000011110000`,
-    notes: `Turns into Mille Marteaux if used with Ophelie Seize; Odd beats: Auto-aim, Even beats: Divine Punishment`
+    notes: `Turns into Mille Marteaux if used with Ophelie Seize; Special is based on the hundreds digit of beat time. Odd: Auto-aim, Even: Divine Punishment`
   }
 ];

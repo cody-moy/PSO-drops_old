@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import Character from './Character';
+import BeatTime from './misc/BeatTime';
 
 import './styles/Navbar.css';
 
@@ -24,6 +25,7 @@ function Navbar({ character, setCharacter, characterMode, setCharacterMode }) {
           />
         )}
       </div>
+      <BeatTime />
     </div>
   );
 }

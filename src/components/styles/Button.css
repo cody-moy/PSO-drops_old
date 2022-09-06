@@ -6,7 +6,6 @@
   border-radius: 0.25rem;
   border: 2px solid var(--color-surface-2-hover);
   cursor: pointer;
-  transition: background-color 200ms ease;
 }
 
 .button:hover {
@@ -28,5 +27,4 @@
   color: var(--color-text-1-dark-on-surface-1);
   opacity: 1;
   font-weight: 500;
-  transition: color 200ms ease;
 }

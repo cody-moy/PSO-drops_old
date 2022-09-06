@@ -15,6 +15,7 @@ function App() {
   const [characterMode, setCharacterMode] = useState(false);
   const [item, setItem] = useState();
   const [showModal, setShowModal] = useState(false);
+  const [showDropRatePercent, setShowDropRatePercent] = useState(false);
 
   useEffect(() => {
     document.title = 'PSO database';
@@ -35,7 +36,7 @@ function App() {
       <div className="main-content">
         <h1>Ephinea PSO:BB drop database</h1>
         <div className="table-container">
-          <Table setItem={setItem} />
+          <Table setItem={setItem} showDropRatePercent={showDropRatePercent} />
         </div>
         <ItemModal
           visible={showModal}

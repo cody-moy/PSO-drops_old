@@ -2,7 +2,7 @@
 const buildClassTable = string => {
   return (
     <table className="class-table">
-      <caption>Class compatibility</caption>
+      <caption>Equippable by</caption>
       <tbody>
         <tr>
           <td

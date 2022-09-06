@@ -12,7 +12,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Meteor Smash',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -21,7 +22,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Wals-MK2',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -30,7 +32,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Last Survivor',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -39,11 +42,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Vjaya',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -52,7 +57,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -61,11 +67,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Ice Staff: Dagon',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -74,7 +82,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -83,7 +92,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Bloody Art',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -101,7 +111,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               }
@@ -115,27 +126,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Meteor Smash',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Vjaya',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Custom Ray',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -144,23 +161,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Wals-MK2',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bloody Art',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -169,23 +191,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Last Survivor',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Wals-MK2',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -194,27 +221,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Vjaya',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Brave Hammer',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -223,23 +256,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bloody Art',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -248,11 +286,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Ice Staff: Dagon',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -261,19 +301,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -282,27 +326,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Bloody Art',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Last Survivor',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -311,19 +361,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Kaladbolg',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -332,23 +386,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               }
@@ -362,7 +421,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Meteor Smash',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -371,7 +431,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Wals-MK2',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -380,7 +441,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Last Survivor',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -389,7 +451,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Vjaya',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -398,11 +461,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -411,11 +476,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Ice Staff: Dagon',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -424,11 +491,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -437,7 +506,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Bloody Art',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -455,7 +525,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               }
@@ -469,7 +540,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Meteor Smash',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -478,11 +550,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Wals-MK2',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -491,7 +565,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Last Survivor',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -500,7 +575,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Vjaya',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -509,7 +585,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -518,15 +595,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Ice Staff: Dagon',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -535,11 +615,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -548,11 +630,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Bloody Art',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -561,11 +645,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -574,7 +660,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               }
@@ -588,23 +675,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Final Impact',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Vjaya',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -613,23 +705,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Justy-23ST',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Bloody Art',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -638,23 +735,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Dragon Slayer',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Wals-MK2',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -663,23 +765,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Gae Bolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Brave Hammer',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -688,23 +795,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'L&K14 Combat',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Bloody Art',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -713,11 +825,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Storm Wand: Indra',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -726,19 +840,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -747,23 +865,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Cross Scar',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Last Survivor',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -772,19 +895,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Durandal',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -793,23 +920,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               }
@@ -823,7 +955,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Final Impact',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -832,7 +965,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Justy-23ST',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -841,7 +975,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Dragon Slayer',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -850,7 +985,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Gae Bolg',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -859,11 +995,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'L&K14 Combat',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -872,23 +1010,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Storm Wand: Indra',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   }
                 ]
               },
@@ -897,7 +1040,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -906,7 +1050,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Cross Scar',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -915,11 +1060,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -928,15 +1075,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -950,27 +1100,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Final Impact',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Vjaya',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -979,27 +1135,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Justy-23ST',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bloody Art',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -1008,31 +1170,38 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Dragon Slayer',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Wals-MK2',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1041,27 +1210,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Gae Bolg',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Brave Hammer',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -1070,31 +1245,38 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'L&K14 Combat',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bloody Art',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1103,19 +1285,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Storm Wand: Indra',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -1124,27 +1310,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1153,27 +1345,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Cross Scar',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Last Survivor',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -1182,27 +1380,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1211,31 +1415,38 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -1249,7 +1460,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Final Impact',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -1258,11 +1470,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Justy-23ST',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1271,11 +1485,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Dragon Slayer',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1284,7 +1500,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Gae Bolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -1293,7 +1510,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'L&K14 Combat',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -1302,15 +1520,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Storm Wand: Indra',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -1319,11 +1540,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1332,7 +1555,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Cross Scar',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -1341,11 +1565,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1354,7 +1580,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               }
@@ -1368,15 +1595,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Final Impact',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1385,7 +1615,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Justy-23ST',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -1394,11 +1625,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Dragon Slayer',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1407,11 +1640,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Gae Bolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1420,7 +1655,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'L&K14 Combat',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -1429,19 +1665,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Storm Wand: Indra',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -1450,15 +1690,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1467,11 +1710,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Cross Scar',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1480,11 +1725,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1493,7 +1740,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               }
@@ -1507,23 +1755,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Final Impact',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Gae Bolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -1532,27 +1785,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Justy-23ST',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Cross Scar',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1561,23 +1820,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Dragon Slayer',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Justy-23ST',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -1586,23 +1850,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Gae Bolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Alive Aqhu',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -1611,23 +1880,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'L&K14 Combat',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Cross Scar',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -1636,15 +1910,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Storm Wand: Indra',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -1653,23 +1930,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1678,23 +1960,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Cross Scar',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Dragon Slayer',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -1703,19 +1990,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Durandal',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1724,23 +2015,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'L&K14 Combat',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               }
@@ -1759,11 +2055,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Meteor Smash',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -1772,7 +2070,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Wals-MK2',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -1781,7 +2080,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Last Survivor',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -1790,11 +2090,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Vjaya',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1803,11 +2105,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1816,11 +2120,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Ice Staff: Dagon',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -1829,7 +2135,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -1838,11 +2145,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Bloody Art',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1851,7 +2160,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1860,7 +2170,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               }
@@ -1874,19 +2185,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Meteor Smash',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Vjaya',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -1895,23 +2210,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Wals-MK2',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bloody Art',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -1920,23 +2240,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Last Survivor',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Wals-MK2',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -1945,23 +2270,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Vjaya',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Brave Hammer',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -1970,23 +2300,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bloody Art',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -1995,15 +2330,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Ice Staff: Dagon',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Vjaya',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -2012,23 +2350,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -2037,23 +2380,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Bloody Art',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Last Survivor',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -2062,19 +2410,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Kaladbolg',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -2083,23 +2435,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               }
@@ -2113,11 +2470,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Meteor Smash',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -2126,7 +2485,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Wals-MK2',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -2135,7 +2495,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Last Survivor',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -2144,7 +2505,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Vjaya',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -2153,7 +2515,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -2162,11 +2525,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Ice Staff: Dagon',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -2175,7 +2540,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -2184,11 +2550,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Bloody Art',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -2197,11 +2565,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -2210,15 +2580,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -2232,11 +2605,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Meteor Smash',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -2245,7 +2620,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Wals-MK2',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -2254,7 +2630,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Last Survivor',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -2263,7 +2640,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Vjaya',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -2272,7 +2650,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -2281,11 +2660,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Ice Staff: Dagon',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -2294,7 +2675,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -2303,7 +2685,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Bloody Art',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -2321,7 +2704,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               }
@@ -2335,15 +2719,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Final Impact',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Vjaya',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -2352,23 +2739,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Justy-23ST',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Bloody Art',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -2377,27 +2769,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Dragon Slayer',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Wals-MK2',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -2406,23 +2804,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Gae Bolg',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Brave Hammer',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -2431,23 +2834,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'L&K14 Combat',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Bloody Art',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -2456,19 +2864,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Storm Wand: Indra',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Vjaya',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -2477,23 +2889,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -2502,23 +2919,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Cross Scar',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Last Survivor',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -2527,23 +2949,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Durandal',
-                    dropRate: 1024
+                    dropRate: 1024,
+                    dropRatePercent: 0.1
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 1024
+                    dropRate: 1024,
+                    dropRatePercent: 0.1
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 1024
+                    dropRate: 1024,
+                    dropRatePercent: 0.1
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -2552,27 +2979,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -2586,19 +3019,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Final Impact',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -2607,11 +3044,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Justy-23ST',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -2620,11 +3059,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Dragon Slayer',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -2633,15 +3074,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Gae Bolg',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -2650,15 +3094,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'L&K14 Combat',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -2667,19 +3114,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Storm Wand: Indra',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -2688,15 +3139,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -2705,15 +3159,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Cross Scar',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -2722,11 +3179,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -2735,11 +3194,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               }
@@ -2753,15 +3214,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Final Impact',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Vjaya',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -2770,27 +3234,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Justy-23ST',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bloody Art',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -2799,23 +3269,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Dragon Slayer',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Wals-MK2',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -2824,23 +3299,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Gae Bolg',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Brave Hammer',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -2849,23 +3329,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'L&K14 Combat',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bloody Art',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -2874,15 +3359,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Storm Wand: Indra',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Vjaya',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -2891,19 +3379,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -2912,23 +3404,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Cross Scar',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Last Survivor',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -2937,15 +3434,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Durandal',
-                    dropRate: 819.2
+                    dropRate: 819.2,
+                    dropRatePercent: 0.12
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 819.2
+                    dropRate: 819.2,
+                    dropRatePercent: 0.12
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 819.2
+                    dropRate: 819.2,
+                    dropRatePercent: 0.12
                   }
                 ]
               },
@@ -2954,23 +3454,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               }
@@ -2984,15 +3489,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Final Impact',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -3001,15 +3509,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Justy-23ST',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -3018,11 +3529,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Dragon Slayer',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -3031,7 +3544,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Gae Bolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -3040,7 +3554,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'L&K14 Combat',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -3049,19 +3564,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Storm Wand: Indra',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -3070,15 +3589,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -3087,7 +3609,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Cross Scar',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -3096,11 +3619,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -3109,7 +3634,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               }
@@ -3123,15 +3649,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Final Impact',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -3140,7 +3669,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Justy-23ST',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -3149,11 +3679,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Dragon Slayer',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -3162,11 +3694,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Gae Bolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -3175,7 +3709,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'L&K14 Combat',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -3184,15 +3719,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Storm Wand: Indra',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -3201,11 +3739,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -3214,7 +3754,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Cross Scar',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -3223,11 +3764,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -3236,7 +3779,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               }
@@ -3250,19 +3794,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Final Impact',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Gae Bolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -3271,23 +3819,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Justy-23ST',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Cross Scar',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -3296,23 +3849,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Dragon Slayer',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Justy-23ST',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -3321,23 +3879,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Gae Bolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Alive Aqhu',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -3346,27 +3909,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'L&K14 Combat',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Cross Scar',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 170.29
+                    dropRate: 170.29,
+                    dropRatePercent: 0.59
                   }
                 ]
               },
@@ -3375,15 +3944,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Storm Wand: Indra',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Gae Bolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 630.15
+                    dropRate: 630.15,
+                    dropRatePercent: 0.16
                   }
                 ]
               },
@@ -3392,23 +3964,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 170.29
+                    dropRate: 170.29,
+                    dropRatePercent: 0.59
                   }
                 ]
               },
@@ -3417,23 +3994,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Cross Scar',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Dragon Slayer',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -3442,19 +4024,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Durandal',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   },
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 170.29
+                    dropRate: 170.29,
+                    dropRatePercent: 0.59
                   }
                 ]
               },
@@ -3463,23 +4049,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Braveman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'L&K14 Combat',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Durandal',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Bravace',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Club of Zumiuran',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               }
@@ -3498,11 +4089,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3511,11 +4104,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3524,11 +4119,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3537,11 +4134,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3550,11 +4149,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3563,11 +4164,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3576,11 +4179,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3589,11 +4194,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3602,11 +4209,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3615,11 +4224,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -3633,11 +4244,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3646,11 +4259,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3659,11 +4274,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3672,11 +4289,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3685,11 +4304,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3698,11 +4319,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3711,11 +4334,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3724,11 +4349,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3737,11 +4364,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3750,11 +4379,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -3768,11 +4399,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3781,11 +4414,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3794,11 +4429,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3807,11 +4444,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3820,11 +4459,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3833,11 +4474,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3846,11 +4489,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3859,11 +4504,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3872,11 +4519,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3885,11 +4534,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -3903,11 +4554,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3916,11 +4569,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3929,11 +4584,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3942,11 +4599,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3955,11 +4614,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3968,11 +4629,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3981,11 +4644,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -3994,11 +4659,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4007,11 +4674,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4020,11 +4689,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -4038,11 +4709,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4051,11 +4724,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4064,11 +4739,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4077,11 +4754,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4090,11 +4769,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4103,11 +4784,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4116,11 +4799,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4129,11 +4814,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4142,11 +4829,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4155,11 +4844,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -4173,11 +4864,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4186,11 +4879,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4199,11 +4894,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4212,11 +4909,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4225,11 +4924,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4238,11 +4939,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4251,11 +4954,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4264,11 +4969,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4277,11 +4984,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4290,11 +4999,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -4308,11 +5019,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4321,11 +5034,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4334,11 +5049,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4347,11 +5064,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4360,11 +5079,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4373,11 +5094,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4386,11 +5109,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4399,11 +5124,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4412,11 +5139,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4425,11 +5154,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -4443,11 +5174,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4456,11 +5189,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4469,11 +5204,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4482,11 +5219,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4495,11 +5234,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4508,11 +5249,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4521,11 +5264,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4534,11 +5279,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4547,11 +5294,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4560,11 +5309,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -4578,11 +5329,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4591,11 +5344,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4604,11 +5359,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4617,11 +5374,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4630,11 +5389,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4643,11 +5404,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4656,11 +5419,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4669,11 +5434,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4682,11 +5449,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Thirteen',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -4695,11 +5464,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Coat',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -4722,7 +5493,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -4749,7 +5521,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -4758,11 +5531,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -4789,11 +5564,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -4802,7 +5579,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -4825,27 +5603,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Crush Bullet',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Berdys',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -4854,27 +5638,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Visk-235W',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Edge',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -4883,23 +5673,28 @@ const boxDrops = {
                 items: [
                   {
                     name: "Flowen's Sword",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Beam',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -4908,23 +5703,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Brionac',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Pillar',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -4933,23 +5733,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'M&A60 Vise',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Edge',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -4958,23 +5763,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Fire Scepter: Agni',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -4983,27 +5793,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Sawcer',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Launcher',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5012,23 +5828,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blade Dance',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Claymore',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -5037,19 +5858,23 @@ const boxDrops = {
                 items: [
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'M&A60 Vise',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -5058,27 +5883,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Slicer of Assassin',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Gatling',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -5092,7 +5923,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5101,11 +5933,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5114,7 +5948,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5123,11 +5958,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5136,7 +5973,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5145,7 +5983,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5154,7 +5993,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5163,7 +6003,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5172,11 +6013,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Fire Scepter: Agni',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -5185,7 +6028,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -5199,7 +6043,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5208,7 +6053,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5235,7 +6081,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5244,11 +6091,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5257,7 +6106,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5275,11 +6125,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blade Dance',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Crush Bullet',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -5288,11 +6140,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -5306,23 +6160,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Crush Bullet',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Gungnir',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -5331,23 +6190,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Visk-235W',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Ripper',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -5356,27 +6220,33 @@ const boxDrops = {
                 items: [
                   {
                     name: "Flowen's Sword",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Laser',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5385,27 +6255,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Brionac',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Striker',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5414,23 +6290,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'M&A60 Vise',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Ripper',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -5439,27 +6320,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Fire Scepter: Agni',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -5468,23 +6355,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Arms',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -5493,31 +6385,38 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blade Dance',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Calibur',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5526,19 +6425,23 @@ const boxDrops = {
                 items: [
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5547,27 +6450,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Slicer of Assassin',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Vulcan',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -5581,7 +6490,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   }
                 ]
               },
@@ -5590,7 +6500,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   }
                 ]
               },
@@ -5599,7 +6510,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   }
                 ]
               },
@@ -5608,11 +6520,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5621,11 +6535,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5634,15 +6550,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5651,7 +6570,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   }
                 ]
               },
@@ -5660,11 +6580,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5673,11 +6595,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: "Flowen's Sword",
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -5686,11 +6610,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -5704,23 +6630,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Meteor Smash',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Brionac',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -5729,27 +6660,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Wals-MK2',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Blade Dance',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5758,27 +6695,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Last Survivor',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Visk-235W',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5787,27 +6730,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Vjaya',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Battle Verge',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5816,31 +6765,38 @@ const boxDrops = {
                 items: [
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Blade Dance',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5849,31 +6805,38 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Ice Staff: Dagon',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5882,27 +6845,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Slicer of Assassin',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Crush Bullet',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5911,27 +6880,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Bloody Art',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "Flowen's Sword",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -5940,23 +6915,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Kaladbolg',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Battle Verge',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -5965,27 +6945,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'M&A60 Vise',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -5999,11 +6985,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6012,11 +7000,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6025,7 +7015,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6043,7 +7034,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6052,7 +7044,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6061,11 +7054,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6083,15 +7078,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Brionac',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -6114,15 +7112,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6140,15 +7141,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6157,11 +7161,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6170,7 +7176,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6188,11 +7195,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6201,11 +7210,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6214,15 +7225,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Visk-235W',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -6231,7 +7245,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -6245,23 +7260,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Meteor Smash',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Brionac',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -6270,31 +7290,38 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Wals-MK2',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Blade Dance',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6303,31 +7330,38 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Last Survivor',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Visk-235W',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6336,27 +7370,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Vjaya',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Battle Verge',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6365,23 +7405,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Blade Dance',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -6390,23 +7435,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Ice Staff: Dagon',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -6415,27 +7465,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Slicer of Assassin',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Crush Bullet',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6444,23 +7500,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Bloody Art',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "Flowen's Sword",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -6469,19 +7530,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Kaladbolg',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Slicer of Assassin',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -6490,27 +7555,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'M&A60 Vise',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -6538,7 +7609,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6547,7 +7619,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6556,7 +7629,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6574,11 +7648,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6587,7 +7663,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6605,11 +7682,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Brionac',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -6618,7 +7697,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -6632,23 +7712,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Crush Bullet',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Berdys',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -6657,23 +7742,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Visk-235W',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Edge',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -6682,23 +7772,28 @@ const boxDrops = {
                 items: [
                   {
                     name: "Flowen's Sword",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Beam',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -6707,23 +7802,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Brionac',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Pillar',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -6732,27 +7832,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'M&A60 Vise',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Edge',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6761,23 +7867,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Fire Scepter: Agni',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Berdys',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -6786,23 +7897,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Sawcer',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Launcher',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -6811,23 +7927,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blade Dance',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Claymore',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   }
                 ]
               },
@@ -6836,23 +7957,28 @@ const boxDrops = {
                 items: [
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Crush Bullet',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6861,27 +7987,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Slicer of Assassin',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Gatling',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Varista',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -6895,11 +8027,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6917,11 +8051,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6930,7 +8066,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6939,7 +8076,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6948,11 +8086,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6961,7 +8101,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6970,11 +8111,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -6983,11 +8126,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: "Flowen's Sword",
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -6996,11 +8141,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -7014,7 +8161,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7023,11 +8171,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7054,7 +8204,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7090,7 +8241,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Battle Verge',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -7113,31 +8265,38 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Crush Bullet',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Gungnir',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7146,23 +8305,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Visk-235W',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Ripper',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -7171,27 +8335,33 @@ const boxDrops = {
                 items: [
                   {
                     name: "Flowen's Sword",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Laser',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7200,31 +8370,38 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Brionac',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Striker',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7233,27 +8410,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'M&A60 Vise',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Ripper',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7262,23 +8445,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Fire Scepter: Agni',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Gungnir',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -7287,31 +8475,38 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Arms',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7320,27 +8515,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blade Dance',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Calibur',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7349,19 +8550,23 @@ const boxDrops = {
                 items: [
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7370,23 +8575,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Slicer of Assassin',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Vulcan',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "DB's Saber",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Varista',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Club of Laconium',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               }
@@ -7400,11 +8610,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7413,7 +8625,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   }
                 ]
               },
@@ -7422,11 +8635,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7435,15 +8650,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7452,11 +8670,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7465,7 +8685,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   }
                 ]
               },
@@ -7474,15 +8695,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7491,11 +8715,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7504,19 +8730,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'M&A60 Vise',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7525,7 +8755,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   }
                 ]
               }
@@ -7539,27 +8770,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Meteor Smash',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Brionac',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7568,27 +8805,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Wals-MK2',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Blade Dance',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7597,23 +8840,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Last Survivor',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Visk-235W',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -7622,31 +8870,38 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Vjaya',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Battle Verge',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7655,27 +8910,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Blade Dance',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7684,23 +8945,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Ice Staff: Dagon',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Brionac',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -7709,23 +8975,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Slicer of Assassin',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Crush Bullet',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -7734,31 +9005,38 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Bloody Art',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: "Flowen's Sword",
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7767,19 +9045,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Kaladbolg',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Blade Dance',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -7788,27 +9070,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'M&A60 Vise',
-                    dropRate: 585.14
+                    dropRate: 585.14,
+                    dropRatePercent: 0.17
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -7822,7 +9110,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7831,11 +9120,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7862,11 +9153,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7875,11 +9168,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7888,7 +9183,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7906,7 +9202,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Visk-235W',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -7915,11 +9212,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -7942,7 +9241,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7951,11 +9251,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7964,7 +9266,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -7982,15 +9285,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -8008,7 +9314,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -8017,7 +9324,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Slicer of Assassin',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -8026,11 +9334,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -8044,27 +9354,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Meteor Smash',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Brionac',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -8073,23 +9389,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Wals-MK2',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Blade Dance',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -8098,23 +9419,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Last Survivor',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Visk-235W',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -8123,23 +9449,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Vjaya',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Battle Verge',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -8148,27 +9479,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'H&S25 Justice',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Blade Dance',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -8177,23 +9514,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Ice Staff: Dagon',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Brionac',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -8202,31 +9544,38 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Slicer of Assassin',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Crush Bullet',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -8235,31 +9584,38 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Bloody Art',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: "Flowen's Sword",
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -8268,27 +9624,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Kaladbolg',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Fire Scepter: Agni',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -8297,23 +9659,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska of Liberator',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'M&A60 Vise',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Kaladbolg',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Custom Ray ver.OO',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Mace of Adaman',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               }
@@ -8332,7 +9699,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8341,7 +9709,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8350,7 +9719,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8359,7 +9729,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8368,7 +9739,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8377,7 +9749,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8386,7 +9759,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8395,7 +9769,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8404,7 +9779,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8413,7 +9789,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -8427,7 +9804,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8436,7 +9814,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8445,7 +9824,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8454,7 +9834,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8463,7 +9844,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8472,7 +9854,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8481,7 +9864,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8490,7 +9874,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8499,7 +9884,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8508,7 +9894,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -8522,7 +9909,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8531,7 +9919,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8540,7 +9929,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8549,7 +9939,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8558,7 +9949,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8567,7 +9959,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8576,7 +9969,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8585,7 +9979,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8594,7 +9989,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8603,7 +9999,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -8617,7 +10014,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8626,7 +10024,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8635,7 +10034,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8644,7 +10044,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8653,7 +10054,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8662,7 +10064,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8671,7 +10074,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8680,7 +10084,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8689,7 +10094,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8698,7 +10104,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -8712,7 +10119,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8721,7 +10129,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8730,7 +10139,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8739,7 +10149,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8748,7 +10159,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8757,7 +10169,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8766,7 +10179,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8775,7 +10189,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8784,7 +10199,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8793,7 +10209,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -8807,7 +10224,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8816,7 +10234,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8825,7 +10244,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8834,7 +10254,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8843,7 +10264,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8852,7 +10274,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8861,7 +10284,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8870,7 +10294,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8879,7 +10304,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8888,7 +10314,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -8902,7 +10329,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8911,7 +10339,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8920,7 +10349,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8929,7 +10359,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8938,7 +10369,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8947,7 +10379,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8956,7 +10389,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8965,7 +10399,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8974,7 +10409,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -8983,7 +10419,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -8997,7 +10434,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9006,7 +10444,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9015,7 +10454,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9024,7 +10464,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9033,7 +10474,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9042,7 +10484,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9051,7 +10494,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9060,7 +10504,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9069,7 +10514,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9078,7 +10524,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -9092,7 +10539,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9101,7 +10549,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9110,7 +10559,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9119,7 +10569,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9128,7 +10579,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9137,7 +10589,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9146,7 +10599,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9155,7 +10609,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9164,7 +10619,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               },
@@ -9173,7 +10629,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Photon Crystal',
-                    dropRate: 1638.4
+                    dropRate: 1638.4,
+                    dropRatePercent: 0.06
                   }
                 ]
               }
@@ -9196,7 +10653,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9205,11 +10663,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9227,7 +10687,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9236,7 +10697,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9245,11 +10707,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   }
                 ]
               },
@@ -9258,15 +10722,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 744.73
+                    dropRate: 744.73,
+                    dropRatePercent: 0.13
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9284,11 +10751,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9297,7 +10766,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -9311,11 +10781,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9324,7 +10796,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9333,11 +10806,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9346,7 +10821,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9355,7 +10831,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9364,11 +10841,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   }
                 ]
               },
@@ -9386,15 +10865,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9412,11 +10894,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -9430,7 +10914,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9448,7 +10933,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9457,11 +10943,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9470,11 +10958,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9483,7 +10973,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   }
                 ]
               },
@@ -9492,11 +10983,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 744.73
+                    dropRate: 744.73,
+                    dropRatePercent: 0.13
                   },
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9505,11 +10998,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9518,11 +11013,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9531,7 +11028,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -9545,11 +11043,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9558,7 +11058,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9576,7 +11077,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9585,15 +11087,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9602,11 +11107,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   }
                 ]
               },
@@ -9615,7 +11122,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   }
                 ]
               },
@@ -9624,11 +11132,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9637,7 +11147,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9646,11 +11157,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -9664,15 +11177,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Arms',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Gungnir',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9681,15 +11197,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Laser',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Ripper',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9698,15 +11217,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Calibur',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Laser',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9715,19 +11237,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Gungnir',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Pillar',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9736,15 +11262,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Vulcan',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Ripper',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9753,19 +11282,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Scepter',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Gungnir',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   }
                 ]
               },
@@ -9774,15 +11307,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Arms',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9791,15 +11327,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Ripper',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Calibur',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9808,7 +11347,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9817,15 +11357,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Vulcan',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -9839,15 +11382,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9856,19 +11402,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9877,11 +11427,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -9890,19 +11442,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9911,19 +11467,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9932,15 +11492,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   }
                 ]
               },
@@ -9949,19 +11512,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 744.73
+                    dropRate: 744.73,
+                    dropRatePercent: 0.13
                   }
                 ]
               },
@@ -9970,15 +11537,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -9987,23 +11557,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10012,15 +11587,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -10034,27 +11612,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Arms',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Gungnir',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10063,23 +11647,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Laser',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Ripper',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10088,27 +11677,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Calibur',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Laser',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10117,27 +11712,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Gungnir',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Pillar',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10146,27 +11747,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Vulcan',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Ripper',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10175,23 +11782,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Scepter',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Gungnir',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   }
                 ]
               },
@@ -10200,31 +11812,38 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Diska',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Arms',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10233,23 +11852,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Ripper',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Calibur',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10258,23 +11882,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10283,27 +11912,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Diska',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Vulcan',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -10317,11 +11952,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10330,7 +11967,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10339,15 +11977,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10356,7 +11997,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10365,7 +12007,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10374,11 +12017,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   }
                 ]
               },
@@ -10387,7 +12032,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   }
                 ]
               },
@@ -10396,11 +12042,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Resta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10409,11 +12057,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10422,11 +12072,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -10440,11 +12092,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10453,7 +12107,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10462,11 +12117,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10475,15 +12132,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10492,7 +12152,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10501,19 +12162,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   },
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   }
                 ]
               },
@@ -10522,15 +12187,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Amplifier of Deband',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10539,11 +12207,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10552,15 +12222,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10569,11 +12242,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Anti',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -10587,15 +12262,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Crush Bullet',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Brionac',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10604,19 +12282,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Visk-235W',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Blade Dance',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10625,15 +12307,18 @@ const boxDrops = {
                 items: [
                   {
                     name: "Flowen's Sword",
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Visk-235W',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10642,11 +12327,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Brionac',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Striker',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -10655,15 +12342,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'M&A60 Vise',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Blade Dance',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10672,23 +12362,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Fire Scepter: Agni',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Brionac',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 682.67
+                    dropRate: 682.67,
+                    dropRatePercent: 0.15
                   }
                 ]
               },
@@ -10697,19 +12392,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Slicer of Assassin',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Crush Bullet',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10718,15 +12417,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blade Dance',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: "Flowen's Sword",
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Amplifier of Shifta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10735,7 +12437,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10744,15 +12447,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Slicer of Assassin',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'M&A60 Vise',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -10798,7 +12504,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10807,7 +12514,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10816,7 +12524,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10825,7 +12534,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10834,11 +12544,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10847,7 +12559,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10870,11 +12583,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10883,11 +12598,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10896,7 +12613,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -10905,7 +12623,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -10914,11 +12633,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10927,11 +12648,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10940,11 +12663,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -10953,7 +12678,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -10962,7 +12688,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -10971,15 +12698,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -10993,11 +12723,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11006,7 +12738,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -11015,11 +12748,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11028,11 +12763,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11041,7 +12778,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Recovery Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -11050,15 +12788,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11067,11 +12808,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11080,11 +12823,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Assist Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11093,11 +12838,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11106,15 +12853,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -11128,7 +12878,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11137,7 +12888,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11164,11 +12916,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11177,7 +12931,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11213,7 +12968,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -11227,15 +12983,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Arms',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Gungnir',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11244,11 +13003,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Laser',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Ripper',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   }
                 ]
               },
@@ -11257,15 +13018,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Calibur',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Laser',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11274,23 +13038,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Gungnir',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Pillar',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11299,15 +13068,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Vulcan',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Ripper',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11316,19 +13088,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Scepter',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Gungnir',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11337,27 +13113,33 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Arms',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11366,23 +13148,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Ripper',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Calibur',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11391,7 +13178,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11400,15 +13188,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Diska',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Vulcan',
-                    dropRate: 455.11
+                    dropRate: 455.11,
+                    dropRatePercent: 0.22
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -11422,11 +13213,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11435,7 +13228,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   }
                 ]
               },
@@ -11444,15 +13238,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11461,15 +13258,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11478,11 +13278,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11491,15 +13293,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11508,19 +13313,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11529,19 +13338,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11550,15 +13363,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11567,11 +13383,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -11585,15 +13403,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 146.29
+                    dropRate: 146.29,
+                    dropRatePercent: 0.68
                   },
                   {
                     name: 'Arms',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Gungnir',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -11602,19 +13423,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Laser',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Ripper',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11623,15 +13448,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Calibur',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Laser',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               },
@@ -11640,19 +13468,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Gungnir',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Pillar',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11661,19 +13493,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Vulcan',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Ripper',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11682,19 +13518,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Scepter',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Gungnir',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11703,23 +13543,28 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Diska',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Arms',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11728,19 +13573,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Ripper',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Calibur',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11749,7 +13598,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   }
                 ]
               },
@@ -11758,15 +13608,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Diska',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   },
                   {
                     name: 'Vulcan',
-                    dropRate: 372.36
+                    dropRate: 372.36,
+                    dropRatePercent: 0.27
                   }
                 ]
               }
@@ -11780,11 +13633,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11793,15 +13648,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11828,11 +13686,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11841,15 +13701,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11858,11 +13721,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11871,11 +13736,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11884,15 +13751,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11901,11 +13771,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -11919,7 +13791,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11937,11 +13810,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11950,7 +13825,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11968,11 +13844,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11981,15 +13859,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -11998,11 +13879,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -12011,7 +13894,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -12020,11 +13904,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -12038,15 +13924,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Crush Bullet',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Brionac',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -12055,11 +13944,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Visk-235W',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Blade Dance',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -12068,11 +13959,13 @@ const boxDrops = {
                 items: [
                   {
                     name: "Flowen's Sword",
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Visk-235W',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -12081,11 +13974,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Brionac',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Striker',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -12094,11 +13989,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'M&A60 Vise',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Blade Dance',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               },
@@ -12107,15 +14004,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Fire Scepter: Agni',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Brionac',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -12124,15 +14024,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Slicer of Assassin',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Crush Bullet',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -12141,15 +14044,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blade Dance',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: "Flowen's Sword",
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -12158,7 +14064,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -12167,11 +14074,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Slicer of Assassin',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   },
                   {
                     name: 'M&A60 Vise',
-                    dropRate: 315.08
+                    dropRate: 315.08,
+                    dropRatePercent: 0.32
                   }
                 ]
               }
@@ -12190,7 +14099,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12199,7 +14109,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12208,7 +14119,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12217,7 +14129,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12226,7 +14139,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12235,7 +14149,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12244,7 +14159,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12253,7 +14169,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12262,7 +14179,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12271,7 +14189,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               }
@@ -12285,7 +14204,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12294,7 +14214,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12303,7 +14224,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12312,7 +14234,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12321,7 +14244,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12330,7 +14254,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12339,7 +14264,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12348,7 +14274,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12357,7 +14284,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12366,7 +14294,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               }
@@ -12380,7 +14309,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12389,7 +14319,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12398,7 +14329,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12407,7 +14339,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12416,7 +14349,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12425,7 +14359,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12434,7 +14369,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12443,7 +14379,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12452,7 +14389,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12461,7 +14399,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               }
@@ -12475,7 +14414,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12484,7 +14424,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12493,7 +14434,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12502,7 +14444,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12511,7 +14454,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12520,7 +14464,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12529,7 +14474,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12538,7 +14484,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12547,7 +14494,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12556,7 +14504,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               }
@@ -12570,7 +14519,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12579,7 +14529,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12588,7 +14539,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12597,7 +14549,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12606,7 +14559,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12615,7 +14569,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12624,7 +14579,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12633,7 +14589,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12642,7 +14599,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12651,7 +14609,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               }
@@ -12665,7 +14624,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12674,7 +14634,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12683,7 +14644,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12692,7 +14654,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12701,7 +14664,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12710,7 +14674,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12719,7 +14684,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12728,7 +14694,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12737,7 +14704,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12746,7 +14714,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               }
@@ -12760,7 +14729,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12769,7 +14739,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12778,7 +14749,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12787,7 +14759,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12796,7 +14769,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12805,7 +14779,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12814,7 +14789,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12823,7 +14799,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12832,7 +14809,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12841,7 +14819,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               }
@@ -12855,7 +14834,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12864,7 +14844,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12873,7 +14854,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12882,7 +14864,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12891,7 +14874,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12900,7 +14884,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12909,7 +14894,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12918,7 +14904,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12927,7 +14914,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12936,7 +14924,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               }
@@ -12950,7 +14939,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12959,7 +14949,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12968,7 +14959,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12977,7 +14969,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12986,7 +14979,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -12995,7 +14989,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -13004,7 +14999,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -13013,7 +15009,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -13022,7 +15019,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -13031,7 +15029,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Alliance Uniform',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               }
@@ -13054,11 +15053,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13094,7 +15095,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13103,7 +15105,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13139,7 +15142,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -13153,7 +15157,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13162,11 +15167,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13175,7 +15182,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13184,7 +15192,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13202,11 +15211,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13215,7 +15226,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 744.73
+                    dropRate: 744.73,
+                    dropRatePercent: 0.13
                   }
                 ]
               },
@@ -13224,7 +15236,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13233,11 +15246,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13246,7 +15261,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -13287,7 +15303,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13296,7 +15313,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13305,7 +15323,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13323,7 +15342,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13332,7 +15352,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13341,7 +15362,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -13355,7 +15377,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13382,7 +15405,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13391,7 +15415,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13400,7 +15425,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13418,11 +15444,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13454,15 +15482,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Cannon',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Glaive',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13471,11 +15502,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blaster',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Blade',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -13484,19 +15517,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Breaker',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Blaster',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13505,15 +15542,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Glaive',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Pole',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13522,11 +15562,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Repeater',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Blade',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -13535,15 +15577,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Staff',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Glaive',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13552,15 +15597,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Cutter',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Cannon',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 744.73
+                    dropRate: 744.73,
+                    dropRatePercent: 0.13
                   }
                 ]
               },
@@ -13569,15 +15617,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blade',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Breaker',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13595,15 +15646,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Cutter',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Repeater',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -13617,11 +15671,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13630,11 +15686,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13643,7 +15701,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   }
                 ]
               },
@@ -13652,7 +15711,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   }
                 ]
               },
@@ -13661,15 +15721,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13678,11 +15741,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13691,11 +15756,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 744.73
+                    dropRate: 744.73,
+                    dropRatePercent: 0.13
                   }
                 ]
               },
@@ -13704,7 +15771,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   }
                 ]
               },
@@ -13713,7 +15781,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   }
                 ]
               },
@@ -13722,11 +15791,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -13740,15 +15811,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Cannon',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Glaive',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   }
                 ]
               },
@@ -13757,15 +15831,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Blaster',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Blade',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   }
                 ]
               },
@@ -13774,15 +15851,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Breaker',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Blaster',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   }
                 ]
               },
@@ -13791,19 +15871,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Glaive',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Pole',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13812,19 +15896,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Repeater',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Blade',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13833,19 +15921,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Staff',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Glaive',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13854,15 +15946,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Cutter',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Cannon',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   }
                 ]
               },
@@ -13871,15 +15966,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Blade',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Breaker',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   }
                 ]
               },
@@ -13888,11 +15986,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13901,19 +16001,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Cutter',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Repeater',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -13927,7 +16031,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13945,11 +16050,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13958,7 +16065,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13976,11 +16084,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -13989,11 +16099,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 744.73
+                    dropRate: 744.73,
+                    dropRatePercent: 0.13
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14002,11 +16114,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14015,7 +16129,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14024,7 +16139,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -14047,7 +16163,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14065,7 +16182,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14074,7 +16192,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14083,11 +16202,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14096,7 +16217,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14105,11 +16227,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14118,7 +16242,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14141,11 +16266,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Launcher',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Berdys',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   }
                 ]
               },
@@ -14154,15 +16281,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Beam',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Edge',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14171,11 +16301,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Claymore',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Beam',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   }
                 ]
               },
@@ -14184,11 +16316,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Berdys',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Pillar',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   }
                 ]
               },
@@ -14197,11 +16331,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Gatling',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Edge',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   }
                 ]
               },
@@ -14210,15 +16346,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Baton',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Berdys',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14227,15 +16366,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Sawcer',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Launcher',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14244,15 +16386,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Edge',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Claymore',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14261,7 +16406,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14270,11 +16416,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Sawcer',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Gatling',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   }
                 ]
               }
@@ -14293,7 +16441,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14320,7 +16469,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14329,7 +16479,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14338,7 +16489,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14356,7 +16508,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Zonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14388,7 +16541,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14397,11 +16551,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14428,7 +16584,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14437,7 +16594,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14446,7 +16604,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14473,7 +16632,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Barta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -14487,7 +16647,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14505,11 +16666,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14518,7 +16681,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14536,7 +16700,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14554,7 +16719,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14572,7 +16738,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Foie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -14586,7 +16753,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14595,7 +16763,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14613,7 +16782,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14622,7 +16792,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14631,7 +16802,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14640,7 +16812,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14667,7 +16840,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Gibarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -14681,15 +16855,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Cannon',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Glaive',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14698,11 +16875,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blaster',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Blade',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   }
                 ]
               },
@@ -14711,15 +16890,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Breaker',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Blaster',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14728,19 +16910,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Glaive',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Pole',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14749,19 +16935,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Repeater',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Blade',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14770,19 +16960,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Staff',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Glaive',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14791,15 +16985,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Cutter',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Cannon',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14808,19 +17005,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Blade',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Breaker',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Amplifier of Gizonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14829,11 +17030,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14842,15 +17045,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Cutter',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Repeater',
-                    dropRate: 1820.44
+                    dropRate: 1820.44,
+                    dropRatePercent: 0.05
                   },
                   {
                     name: 'Red Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -14864,11 +17070,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14877,7 +17085,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   }
                 ]
               },
@@ -14886,11 +17095,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14899,15 +17110,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14916,11 +17130,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14929,15 +17145,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14946,11 +17165,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14959,19 +17180,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14980,11 +17205,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'Yellow Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -14993,15 +17220,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 113.78
+                    dropRate: 113.78,
+                    dropRatePercent: 0.88
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Gifoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -15015,15 +17245,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Cannon',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Glaive',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   }
                 ]
               },
@@ -15032,15 +17265,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Blaster',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Blade',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   }
                 ]
               },
@@ -15049,15 +17285,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Breaker',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Blaster',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   }
                 ]
               },
@@ -15066,19 +17305,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Glaive',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Pole',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15087,19 +17330,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Repeater',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Blade',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15108,19 +17355,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Staff',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Glaive',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15129,19 +17380,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Cutter',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Cannon',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15150,19 +17405,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Blade',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Breaker',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Amplifier of Razonde',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15171,11 +17430,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15184,15 +17445,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Mag',
-                    dropRate: 256
+                    dropRate: 256,
+                    dropRatePercent: 0.39
                   },
                   {
                     name: 'Cutter',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   },
                   {
                     name: 'Repeater',
-                    dropRate: 1489.45
+                    dropRate: 1489.45,
+                    dropRatePercent: 0.07
                   }
                 ]
               }
@@ -15206,11 +17470,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15219,15 +17485,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15254,11 +17523,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15267,19 +17538,23 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15288,11 +17563,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15310,15 +17587,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Blue',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15327,11 +17607,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rabarta',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Blue Barrier',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -15345,7 +17627,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15363,11 +17646,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15376,7 +17661,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15394,11 +17680,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15407,11 +17695,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15420,7 +17710,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15429,7 +17720,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Red',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15438,7 +17730,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Amplifier of Rafoie',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -15452,11 +17745,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Launcher',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Berdys',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   }
                 ]
               },
@@ -15465,11 +17760,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Beam',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Edge',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   }
                 ]
               },
@@ -15478,11 +17775,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Claymore',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Beam',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   }
                 ]
               },
@@ -15491,11 +17790,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Berdys',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Pillar',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   }
                 ]
               },
@@ -15504,11 +17805,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Gatling',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Edge',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   }
                 ]
               },
@@ -15517,15 +17820,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Baton',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Berdys',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15534,15 +17840,18 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Sawcer',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Launcher',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15551,11 +17860,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Edge',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Claymore',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   }
                 ]
               },
@@ -15564,11 +17875,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   },
                   {
                     name: 'Amplifier of Yellow',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15577,11 +17890,13 @@ const boxDrops = {
                 items: [
                   {
                     name: 'Sawcer',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   },
                   {
                     name: 'Gatling',
-                    dropRate: 1260.31
+                    dropRate: 1260.31,
+                    dropRatePercent: 0.08
                   }
                 ]
               }
@@ -15600,7 +17915,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15609,7 +17925,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15618,7 +17935,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15627,7 +17945,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15636,7 +17955,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15645,7 +17965,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15654,7 +17975,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15663,7 +17985,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15672,7 +17995,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15681,7 +18005,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -15695,7 +18020,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15704,7 +18030,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15713,7 +18040,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15722,7 +18050,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15731,7 +18060,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15740,7 +18070,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15749,7 +18080,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15758,7 +18090,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15767,7 +18100,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15776,7 +18110,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -15790,7 +18125,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15799,7 +18135,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15808,7 +18145,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15817,7 +18155,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15826,7 +18165,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15835,7 +18175,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15844,7 +18185,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15853,7 +18195,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15862,7 +18205,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15871,7 +18215,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -15885,7 +18230,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15894,7 +18240,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15903,7 +18250,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15912,7 +18260,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15921,7 +18270,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15930,7 +18280,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15939,7 +18290,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15948,7 +18300,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15957,7 +18310,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15966,7 +18320,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -15980,7 +18335,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15989,7 +18345,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -15998,7 +18355,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16007,7 +18365,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16016,7 +18375,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16025,7 +18385,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16034,7 +18395,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16043,7 +18405,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16052,7 +18415,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16061,7 +18425,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -16075,7 +18440,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16084,7 +18450,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16093,7 +18460,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16102,7 +18470,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16111,7 +18480,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16120,7 +18490,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16129,7 +18500,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16138,7 +18510,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16147,7 +18520,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16156,7 +18530,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -16170,7 +18545,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16179,7 +18555,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16188,7 +18565,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16197,7 +18575,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16206,7 +18585,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16215,7 +18595,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16224,7 +18605,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16233,7 +18615,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16242,7 +18625,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16251,7 +18635,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -16265,7 +18650,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16274,7 +18660,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16283,7 +18670,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16292,7 +18680,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16301,7 +18690,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16310,7 +18700,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16319,7 +18710,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16328,7 +18720,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16337,7 +18730,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16346,7 +18740,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }
@@ -16360,7 +18755,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16369,7 +18765,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16378,7 +18775,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16387,7 +18785,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16396,7 +18795,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16405,7 +18805,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16414,7 +18815,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16423,7 +18825,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16432,7 +18835,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               },
@@ -16441,7 +18845,8 @@ const boxDrops = {
                 items: [
                   {
                     name: 'AddSlot',
-                    dropRate: 1170.29
+                    dropRate: 1170.29,
+                    dropRatePercent: 0.09
                   }
                 ]
               }

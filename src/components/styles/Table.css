@@ -208,12 +208,24 @@
   justify-content: space-between;
 }
 
+.table__drop-rate_wrapper p {
+  font-size: 0.8rem;
+}
+
 .table__drop-rate {
   color: var(--color-text-2-on-surface-1);
-  font-size: 0.8rem;
+}
+
+.true-rate-label {
+  color: #ffff00;
+  margin-top: 5px;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  cursor: help;
 }
 
 .table__drop-rate_rate {
   color: var(--color-text-3-on-surface-1);
   font-weight: 600;
+  margin-top: 2px;
 }

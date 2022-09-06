@@ -4,7 +4,6 @@ import parseRarity from '../../../Utils/parseRarity';
 
 function ArmorCard({ item, itemType }) {
   const { name, rarity, effect, classes, notes } = item;
-  console.log(effect.length);
 
   return (
     <div>

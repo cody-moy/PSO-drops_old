@@ -1,0 +1,18 @@
+.beat-time-container {
+  width: 200px;
+  height: 100%;
+  padding: 0 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.beat-time-label {
+  font-size: 0.9rem;
+}
+
+.beat-time-progress-bar {
+  width: 100%;
+  height: 10px;
+}
