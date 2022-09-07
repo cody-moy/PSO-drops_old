@@ -5,10 +5,7 @@ export const sabers = [
     ATP: 1,
     ATA: 1,
     grind: 0,
-    special: null,
-    requirement: null,
-    classes: '111111111111',
-    notes: null
+    classes: '111111111111'
   },
   {
     name: 'Great Bouquet',
@@ -17,7 +14,6 @@ export const sabers = [
     ATA: 1,
     grind: 0,
     special: 'chaos',
-    requirement: null,
     classes: '111111111111',
     notes: 'Can hit up to 10 targets'
   },
@@ -27,10 +23,7 @@ export const sabers = [
     ATP: 1,
     ATA: 1,
     grind: 0,
-    special: null,
-    requirement: null,
-    classes: '111111111111',
-    notes: null
+    classes: '111111111111'
   },
   {
     name: 'Racket',
@@ -38,10 +31,7 @@ export const sabers = [
     ATP: 1,
     ATA: 1,
     grind: 0,
-    special: null,
-    requirement: null,
-    classes: '111111111111',
-    notes: null
+    classes: '111111111111'
   },
   {
     name: '5th Anniv. Blade',
@@ -52,7 +42,6 @@ export const sabers = [
     },
     ATA: 45,
     grind: 0,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 90
@@ -69,7 +58,6 @@ export const sabers = [
     },
     ATA: 32,
     grind: 0,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 135
@@ -108,8 +96,7 @@ export const sabers = [
       stat: 'ATP',
       amount: 340
     },
-    classes: '111111111111',
-    notes: null
+    classes: '111111111111'
   },
   {
     name: 'Durandal',
@@ -137,13 +124,11 @@ export const sabers = [
     },
     ATA: 40,
     grind: 0,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 412
     },
-    classes: '111111111111',
-    notes: null
+    classes: '111111111111'
   },
   {
     name: "DB's Saber (3062)",
@@ -154,13 +139,11 @@ export const sabers = [
     },
     ATA: 27,
     grind: 18,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 130
     },
-    classes: '111111111111',
-    notes: null
+    classes: '111111111111'
   },
   {
     name: "DB's Saber (3064)",
@@ -171,13 +154,11 @@ export const sabers = [
     },
     ATA: 48,
     grind: 18,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 288
     },
-    classes: '111111111111',
-    notes: null
+    classes: '111111111111'
   },
   {
     name: "DB's Saber (3067)",
@@ -188,13 +169,11 @@ export const sabers = [
     },
     ATA: 29,
     grind: 14,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 131
     },
-    classes: '111111111111',
-    notes: null
+    classes: '111111111111'
   },
   {
     name: "DB's Saber (3069 Torato)",
@@ -205,13 +184,11 @@ export const sabers = [
     },
     ATA: 27,
     grind: 21,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 129
     },
-    classes: '111111111111',
-    notes: null
+    classes: '111111111111'
   },
   {
     name: "DB's Saber (3069 Chris)",
@@ -222,13 +199,11 @@ export const sabers = [
     },
     ATA: 34,
     grind: 36,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 140
     },
-    classes: '111111111111',
-    notes: null
+    classes: '111111111111'
   },
   {
     name: "DB's Saber (3070)",
@@ -239,13 +214,11 @@ export const sabers = [
     },
     ATA: 21,
     grind: 29,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 90
     },
-    classes: '111111111111',
-    notes: null
+    classes: '111111111111'
   },
   {
     name: "DB's Saber (3073)",
@@ -256,13 +229,11 @@ export const sabers = [
     },
     ATA: 29,
     grind: 24,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 253
     },
-    classes: '111111111111',
-    notes: null
+    classes: '111111111111'
   },
   {
     name: "DB's Saber (3075)",
@@ -273,7 +244,6 @@ export const sabers = [
     },
     ATA: 40,
     grind: 85,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 600
@@ -290,13 +260,11 @@ export const sabers = [
     },
     ATA: 30,
     grind: 9,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 139
     },
-    classes: '111111111111',
-    notes: null
+    classes: '111111111111'
   },
   {
     name: "Delsaber's Buster",
@@ -380,7 +348,7 @@ export const sabers = [
     },
     classes: '111111111111',
     notes:
-      '30% ATP boost and +15 ATA if equipped with Red Coat 50% ATP boost and +22 ATA if equipped with Crimson Coat'
+      '30% ATP boost and +15 ATA if equipped with Red Coat; 50% ATP boost and +22 ATA if equipped with Crimson Coat'
   },
   {
     name: 'Elysion',
@@ -396,8 +364,7 @@ export const sabers = [
       stat: 'MST',
       amount: 680
     },
-    classes: '110001001111',
-    notes: null
+    classes: '110001001111'
   },
   {
     name: 'Ancient Saber',
@@ -413,8 +380,7 @@ export const sabers = [
       stat: 'ATP',
       amount: 740
     },
-    classes: '111100001110',
-    notes: null
+    classes: '111100001110'
   },
   {
     name: 'Flamberge',
@@ -430,8 +396,7 @@ export const sabers = [
       stat: 'ATP',
       amount: 740
     },
-    classes: '111111110000',
-    notes: null
+    classes: '111111110000'
   },
   {
     name: "Lame d'Argent",
@@ -442,7 +407,6 @@ export const sabers = [
     },
     ATA: 40,
     grind: 35,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 800
@@ -459,7 +423,7 @@ export const sabers = [
     },
     ATA: 54,
     grind: 0,
-    special: 'See Notes',
+    special: 'See notes',
     requirement: {
       stat: 'ATP',
       amount: 800

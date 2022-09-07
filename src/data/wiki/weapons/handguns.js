@@ -47,8 +47,7 @@ export const handguns = [
       stat: `ATA`,
       amount: 114
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Bravace`,
@@ -76,13 +75,11 @@ export const handguns = [
     },
     ATA: 47,
     grind: 9,
-    special: null,
     requirement: {
       stat: `ATA`,
       amount: 110
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Red Handgun`,
@@ -95,8 +92,7 @@ export const handguns = [
       stat: `ATA`,
       amount: 140
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Ruby Bullet`,
@@ -118,7 +114,6 @@ export const handguns = [
     ATP: 340,
     ATA: 45,
     grind: 10,
-    special: null,
     requirement: {
       stat: `ATA`,
       amount: 164
@@ -220,7 +215,7 @@ export const handguns = [
     },
     ATA: 55,
     grind: 20,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `ATA`,
       amount: 200
@@ -237,7 +232,7 @@ export const handguns = [
     },
     ATA: 50,
     grind: 0,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `ATA`,
       amount: 210

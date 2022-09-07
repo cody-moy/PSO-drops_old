@@ -1,6 +1,7 @@
 import React from 'react';
 import buildClassTable from '../../../Utils/buildClassTable';
 import parseRarity from '../../../Utils/parseRarity';
+import { nanoid } from 'nanoid';
 
 function ArmorCard({ item, itemType }) {
   const {
@@ -19,7 +20,9 @@ function ArmorCard({ item, itemType }) {
     <div>
       <div className="item-card__header">
         <h1 className="item-card__name">{name}</h1>
-        <p className="item-card__type">{itemType}</p>
+        <p className="item-card__type">
+          {itemType} / {role}
+        </p>
       </div>
       <div className="item-rarity">
         <span>Rarity: </span>
@@ -59,8 +62,8 @@ function ArmorCard({ item, itemType }) {
         <div className="item-card__notes">
           <p>Notes:</p>
           <ul>
-            {notes.split('; ').map((line, i) => (
-              <li key={i}>{line}</li>
+            {notes.split('; ').map(line => (
+              <li key={nanoid()}>{line}</li>
             ))}
           </ul>
         </div>

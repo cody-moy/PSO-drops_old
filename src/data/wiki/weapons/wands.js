@@ -5,10 +5,7 @@ export const wands = [
     ATP: 1,
     ATA: 1,
     grind: 0,
-    special: null,
-    requirement: null,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `LOGiN`,
@@ -16,13 +13,11 @@ export const wands = [
     ATP: 5,
     ATA: 25,
     grind: 0,
-    special: null,
     requirement: {
       stat: `ATP`,
       amount: 25
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Marina's Bag`,
@@ -169,7 +164,7 @@ export const wands = [
     },
     ATA: 42,
     grind: 40,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `MST`,
       amount: 630

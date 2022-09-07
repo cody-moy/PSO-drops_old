@@ -13,8 +13,7 @@ export const mechguns = [
       stat: `ATA`,
       amount: 100
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Rocket Punch`,
@@ -93,7 +92,7 @@ export const mechguns = [
     },
     ATA: 23,
     grind: 0,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `ATA`,
       amount: 100
@@ -113,8 +112,7 @@ export const mechguns = [
       stat: `ATA`,
       amount: 155
     },
-    classes: `000011110000`,
-    notes: null
+    classes: `000011110000`
   },
 
   {
@@ -126,7 +124,6 @@ export const mechguns = [
     },
     ATA: 27,
     grind: 10,
-    special: null,
     requirement: {
       stat: `ATA`,
       amount: 168
@@ -228,7 +225,7 @@ export const mechguns = [
     },
     ATA: 45,
     grind: 12,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `ATA`,
       amount: 190

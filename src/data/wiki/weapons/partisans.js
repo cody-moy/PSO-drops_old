@@ -10,8 +10,7 @@ export const partisans = [
       stat: `ATP`,
       amount: 0
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Synthesizer`,
@@ -19,13 +18,11 @@ export const partisans = [
     ATP: 1,
     ATA: 1,
     grind: 0,
-    special: null,
     requirement: {
       stat: `ATP`,
       amount: 0
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Tree Clippers`,
@@ -41,8 +38,7 @@ export const partisans = [
       stat: `ATP`,
       amount: 0
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Soul Eater`,
@@ -58,8 +54,7 @@ export const partisans = [
       stat: `ATP`,
       amount: 165
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Nice Shot`,
@@ -70,13 +65,11 @@ export const partisans = [
     },
     ATA: 38,
     grind: 0,
-    special: null,
     requirement: {
       stat: `ATP`,
       amount: 300
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Bamboo Spear`,
@@ -92,8 +85,7 @@ export const partisans = [
       stat: `ATP`,
       amount: 412
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Chameleon Scythe`,
@@ -109,8 +101,7 @@ export const partisans = [
       stat: `ATP`,
       amount: 412
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Getsugasan`,
@@ -121,13 +112,11 @@ export const partisans = [
     },
     ATA: 39,
     grind: 0,
-    special: null,
     requirement: {
       stat: `ATP`,
       amount: 465
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Brionac`,
@@ -143,8 +132,7 @@ export const partisans = [
       stat: `ATP`,
       amount: 475
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `Vjaya`,
@@ -155,13 +143,12 @@ export const partisans = [
     },
     ATA: 36,
     grind: 15,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `ATP`,
       amount: 480
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `Gae Bolg`,
@@ -194,8 +181,7 @@ export const partisans = [
       stat: `ATP`,
       amount: 580
     },
-    classes: `010101010101`,
-    notes: null
+    classes: `010101010101`
   },
   {
     name: `Madam's Umbrella`,
@@ -211,8 +197,7 @@ export const partisans = [
       stat: `ATP`,
       amount: 500
     },
-    classes: `010101010101`,
-    notes: null
+    classes: `010101010101`
   },
   {
     name: `Maguwa`,
@@ -223,13 +208,11 @@ export const partisans = [
     },
     ATA: 30,
     grind: 15,
-    special: null,
     requirement: {
       stat: `ATP`,
       amount: 500
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `Plantain Huge Fan`,
@@ -240,13 +223,12 @@ export const partisans = [
     },
     ATA: 38,
     grind: 9,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `ATP`,
       amount: 690
     },
-    classes: `110000001111`,
-    notes: null
+    classes: `110000001111`
   },
   {
     name: `Red Partisan`,
@@ -262,8 +244,7 @@ export const partisans = [
       stat: `ATP`,
       amount: 700
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `Berdysh`,
@@ -274,13 +255,12 @@ export const partisans = [
     },
     ATA: 40,
     grind: 25,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `ATP`,
       amount: 710
     },
-    classes: `001100000000`,
-    notes: null
+    classes: `001100000000`
   },
   {
     name: `Snake Spire`,
@@ -296,8 +276,7 @@ export const partisans = [
       stat: `ATP`,
       amount: 780
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `Imperial Pick`,
@@ -313,8 +292,7 @@ export const partisans = [
       stat: `ATP`,
       amount: 785
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `Asteron Belt`,
@@ -347,8 +325,7 @@ export const partisans = [
       stat: `ATP`,
       amount: 800
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `Soul Banish`,
@@ -359,13 +336,12 @@ export const partisans = [
     },
     ATA: 45,
     grind: 9,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `ATP`,
       amount: 850
     },
-    classes: `111100001100`,
-    notes: null
+    classes: `111100001100`
   },
   {
     name: `Madam's Parasol`,
@@ -381,7 +357,6 @@ export const partisans = [
       stat: `ATP`,
       amount: 470
     },
-    classes: `010101010101`,
-    notes: null
+    classes: `010101010101`
   }
 ];

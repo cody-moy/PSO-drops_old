@@ -30,8 +30,7 @@ export const launchers = [
       stat: `ATA`,
       amount: 120
     },
-    classes: `000011110000`,
-    notes: null
+    classes: `000011110000`
   },
   {
     name: `Red Scorpio`,
@@ -47,8 +46,7 @@ export const launchers = [
       stat: `ATA`,
       amount: 150
     },
-    classes: `000011110000`,
-    notes: null
+    classes: `000011110000`
   },
   {
     name: `Phonon Maser`,
@@ -64,7 +62,6 @@ export const launchers = [
       stat: `ATA`,
       amount: 155
     },
-    classes: `000011110000`,
-    notes: null
+    classes: `000011110000`
   }
 ];

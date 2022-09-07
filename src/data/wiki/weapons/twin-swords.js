@@ -13,8 +13,7 @@ export const twinSwords = [
       stat: `ATP`,
       amount: 385
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `Yamato`,
@@ -30,8 +29,7 @@ export const twinSwords = [
       stat: `ATP`,
       amount: 470
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `G-Assassin's Sabers`,
@@ -47,8 +45,7 @@ export const twinSwords = [
       stat: `ATP`,
       amount: 390
     },
-    classes: `111100001111`,
-    notes: null
+    classes: `111100001111`
   },
   {
     name: `Asuka`,
@@ -64,8 +61,7 @@ export const twinSwords = [
       stat: `ATP`,
       amount: 650
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `Sange & Yasha`,

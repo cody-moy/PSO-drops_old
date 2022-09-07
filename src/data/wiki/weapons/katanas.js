@@ -30,8 +30,7 @@ export const katanas = [
       stat: `ATP`,
       amount: 350
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Harisen Battle Fan`,
@@ -47,8 +46,7 @@ export const katanas = [
       stat: `ATP`,
       amount: 412
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Toy Hammer`,
@@ -64,8 +62,7 @@ export const katanas = [
       stat: `ATP`,
       amount: 412
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Agito (1977)`,
@@ -166,8 +163,7 @@ export const katanas = [
       stat: `ATP`,
       amount: 550
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Raikiri`,
@@ -178,7 +174,7 @@ export const katanas = [
     },
     ATA: 30,
     grind: 0,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `ATP`,
       amount: 580
@@ -311,7 +307,7 @@ export const katanas = [
     },
     ATA: 55,
     grind: 0,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `ATP`,
       amount: 850

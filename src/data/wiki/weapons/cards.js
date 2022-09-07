@@ -6,9 +6,7 @@ export const cards = [
     ATA: 1,
     grind: 0,
     special: `Charge`,
-    requirement: null,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Amore Rose`,
@@ -19,13 +17,11 @@ export const cards = [
     },
     ATA: 10,
     grind: 0,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 150
     },
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     name: `Kunai`,
@@ -41,8 +37,7 @@ export const cards = [
       stat: `ATP`,
       amount: 412
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Syringe`,
@@ -58,8 +53,7 @@ export const cards = [
       stat: `ATP`,
       amount: 412
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Talis`,
@@ -75,8 +69,7 @@ export const cards = [
       stat: `MST`,
       amount: 475
     },
-    classes: `000000001111`,
-    notes: null
+    classes: `000000001111`
   },
   {
     name: `Mahu`,
@@ -92,8 +85,7 @@ export const cards = [
       stat: `MST`,
       amount: 480
     },
-    classes: `000000001111`,
-    notes: null
+    classes: `000000001111`
   },
   {
     name: `Guardianna`,
@@ -109,8 +101,7 @@ export const cards = [
       stat: `MST`,
       amount: 490
     },
-    classes: `000000001111`,
-    notes: null
+    classes: `000000001111`
   },
   {
     name: `Hitogata`,
@@ -138,7 +129,7 @@ export const cards = [
     },
     ATA: 40,
     grind: 15,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `MST`,
       amount: 800
@@ -172,13 +163,11 @@ export const cards = [
     },
     ATA: 40,
     grind: 0,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 200
     },
-    classes: `000000001111`,
-    notes: null
+    classes: `000000001111`
   },
   {
     name: `Greenill Card`,
@@ -189,13 +178,11 @@ export const cards = [
     },
     ATA: 40,
     grind: 0,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 200
     },
-    classes: `000000001111`,
-    notes: null
+    classes: `000000001111`
   },
   {
     name: `Skyly Card`,
@@ -206,13 +193,11 @@ export const cards = [
     },
     ATA: 40,
     grind: 0,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 200
     },
-    classes: `000000001111`,
-    notes: null
+    classes: `000000001111`
   },
   {
     name: `Bluefull Card`,
@@ -223,13 +208,11 @@ export const cards = [
     },
     ATA: 40,
     grind: 0,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 200
     },
-    classes: `000000001111`,
-    notes: null
+    classes: `000000001111`
   },
   {
     name: `Purplenum Card`,
@@ -240,13 +223,11 @@ export const cards = [
     },
     ATA: 40,
     grind: 0,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 200
     },
-    classes: `000000001111`,
-    notes: null
+    classes: `000000001111`
   },
   {
     name: `Pinkal Card`,
@@ -257,13 +238,11 @@ export const cards = [
     },
     ATA: 40,
     grind: 0,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 200
     },
-    classes: `000000001111`,
-    notes: null
+    classes: `000000001111`
   },
   {
     name: `Redria Card`,
@@ -274,13 +253,11 @@ export const cards = [
     },
     ATA: 40,
     grind: 0,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 200
     },
-    classes: `000000001111`,
-    notes: null
+    classes: `000000001111`
   },
   {
     name: `Oran Card`,
@@ -291,13 +268,11 @@ export const cards = [
     },
     ATA: 40,
     grind: 0,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 200
     },
-    classes: `000000001111`,
-    notes: null
+    classes: `000000001111`
   },
   {
     name: `Yellowboze Card`,
@@ -308,13 +283,11 @@ export const cards = [
     },
     ATA: 30,
     grind: 0,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 200
     },
-    classes: `000000001111`,
-    notes: null
+    classes: `000000001111`
   },
   {
     name: `Whitill Card`,
@@ -325,12 +298,10 @@ export const cards = [
     },
     ATA: 46,
     grind: 0,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 200
     },
-    classes: `000000001111`,
-    notes: null
+    classes: `000000001111`
   }
 ];

@@ -25,7 +25,6 @@ export const canes = [
     },
     ATA: 41,
     grind: 0,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 348
@@ -90,7 +89,6 @@ export const canes = [
     },
     ATA: 44,
     grind: 9,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 690
@@ -107,7 +105,6 @@ export const canes = [
     },
     ATA: 48,
     grind: 0,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 900

@@ -13,8 +13,7 @@ export const bazookas = [
       stat: `ATA`,
       amount: 140
     },
-    classes: `000011110000`,
-    notes: null
+    classes: `000011110000`
   },
   {
     name: `Ano Bazooka`,
@@ -25,13 +24,11 @@ export const bazookas = [
     },
     ATA: 30,
     grind: 15,
-    special: null,
     requirement: {
       stat: `ATA`,
       amount: 170
     },
-    classes: `000011110000`,
-    notes: null
+    classes: `000011110000`
   },
   {
     name: `Gi Gue Bazooka`,
@@ -47,8 +44,7 @@ export const bazookas = [
       stat: `ATA`,
       amount: 200
     },
-    classes: `000011110000`,
-    notes: null
+    classes: `000011110000`
   },
   {
     name: `Cannon Rouge`,
@@ -76,12 +72,10 @@ export const bazookas = [
     },
     ATA: 30,
     grind: 32,
-    special: null,
     requirement: {
       stat: `ATA`,
       amount: 200
     },
-    classes: `000011110000`,
-    notes: null
+    classes: `000011110000`
   }
 ];

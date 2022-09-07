@@ -90,7 +90,6 @@ export const shots = [
     ATP: 230,
     ATA: 37,
     grind: 20,
-    special: null,
     requirement: {
       stat: `ATA`,
       amount: 160
@@ -192,7 +191,7 @@ export const shots = [
     },
     ATA: 45,
     grind: 20,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `ATA`,
       amount: 187
@@ -223,7 +222,6 @@ export const shots = [
     ATP: 270,
     ATA: 37,
     grind: 20,
-    special: null,
     requirement: {
       stat: `ATA`,
       amount: 160
@@ -240,7 +238,7 @@ export const shots = [
     },
     ATA: 45,
     grind: 25,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `ATA`,
       amount: 190

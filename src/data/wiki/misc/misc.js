@@ -1,11 +1,13 @@
 export const misc = [
   {
     name: `AddSlot`,
-    type: `Consumable`
+    type: `Consumable`,
+    description: `Adds a slot to the currently equipped armor`
   },
   {
     name: `Scape Doll`,
-    type: `Recovery`
+    type: `Recovery`,
+    description: `A recovery item that will automatically revive the player upon death. Each Scape Doll has one use and is consumed upon use. Players revived by a Scape Doll will have their HP and TP restored, and casts will have their traps refilled.`
   },
   {
     name: `Heart of Lollipop`,
@@ -70,7 +72,7 @@ export const misc = [
   {
     name: `De Rol Le Shell`,
     type: `Combination Item`,
-    decription: ``
+    description: `Obtainable exclusively from killing Dal Ral Lie and its Episode 2 counterpart, Barba Ray. It can be used to create De Rol Le Shield.`
   },
   {
     name: `Christmas Present`,

@@ -13,8 +13,7 @@ export const claws = [
       stat: `ATP`,
       amount: 300
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Booma's Claw`,
@@ -25,13 +24,11 @@ export const claws = [
     },
     ATA: 48,
     grind: 15,
-    special: null,
     requirement: {
       stat: `ATP`,
       amount: 300
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Panther's Claw`,
@@ -47,8 +44,7 @@ export const claws = [
       stat: `ATP`,
       amount: 412
     },
-    classes: `010101010101`,
-    notes: null
+    classes: `010101010101`
   },
   {
     name: `Silence Claw`,
@@ -76,13 +72,11 @@ export const claws = [
     },
     ATA: 50,
     grind: 35,
-    special: null,
     requirement: {
       stat: `ATP`,
       amount: 336
     },
-    classes: `111111110000`,
-    notes: null
+    classes: `111111110000`
   },
   {
     name: `Nei's Claw (Replica)`,
@@ -98,8 +92,7 @@ export const claws = [
       stat: `ATP`,
       amount: 412
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `Phoenix Claw`,
@@ -127,13 +120,11 @@ export const claws = [
     },
     ATA: 55,
     grind: 55,
-    special: null,
     requirement: {
       stat: `ATP`,
       amount: 600
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `Dragon's Claw`,
@@ -149,8 +140,7 @@ export const claws = [
       stat: `ATP`,
       amount: 600
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `Morning Glory`,
@@ -161,7 +151,6 @@ export const claws = [
     },
     ATA: 52,
     grind: 0,
-    special: null,
     requirement: {
       stat: `ATP`,
       amount: 700

@@ -4,120 +4,110 @@ export const units = [
     rarity: 2,
     effect: [
       {
-        stat: `HP`,
-        value: `10`
+        stat: `every 10 seconds`,
+        value: `1 HP`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `General / HP`,
     rarity: 4,
     effect: [
       {
-        stat: `HP`,
-        value: `20`
+        stat: `every 20 seconds`,
+        value: `1 HP`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Dragon / HP`,
     rarity: 6,
     effect: [
       {
-        stat: `HP`,
-        value: `40`
+        stat: `every 40 seconds`,
+        value: `1 HP`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `God / HP`,
     rarity: 11,
     effect: [
       {
-        stat: `HP`,
-        value: `80`
+        stat: `every 80 seconds`,
+        value: `1 HP`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Heavenly / HP`,
     rarity: 11,
     effect: [
       {
-        stat: `HP`,
-        value: `100`
+        stat: `every 100 seconds`,
+        value: `1 HP`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Magician / TP`,
     rarity: 2,
     effect: [
       {
-        stat: `TP`,
-        value: `10`
+        stat: `every 10 seconds`,
+        value: `1 TP`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `General / TP`,
     rarity: 4,
     effect: [
       {
-        stat: `TP`,
-        value: `20`
+        stat: `every 20 seconds`,
+        value: `1 TP`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Angel / TP`,
     rarity: 6,
     effect: [
       {
-        stat: `TP`,
-        value: `30`
+        stat: `every 30 seconds`,
+        value: `1 TP`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `God / TP`,
     rarity: 11,
     effect: [
       {
-        stat: `TP`,
-        value: `80`
+        stat: `every 80 seconds`,
+        value: `1 TP`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Heavenly / TP`,
     rarity: 11,
     effect: [
       {
-        stat: `TP`,
-        value: `100`
+        stat: `every 100 seconds`,
+        value: `1 TP`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Knight / Power`,
@@ -128,8 +118,7 @@ export const units = [
         value: `5`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `General / Power`,
@@ -140,8 +129,7 @@ export const units = [
         value: `10`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Ogre / Power`,
@@ -152,8 +140,7 @@ export const units = [
         value: `15`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `God / Power`,
@@ -164,8 +151,7 @@ export const units = [
         value: `50`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Heavenly / Power`,
@@ -176,8 +162,7 @@ export const units = [
         value: `55`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Warrior / Body`,
@@ -188,8 +173,7 @@ export const units = [
         value: `10`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `General / Body`,
@@ -200,8 +184,7 @@ export const units = [
         value: `20`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Metal / Body`,
@@ -212,8 +195,7 @@ export const units = [
         value: `30`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `God / Body`,
@@ -224,8 +206,7 @@ export const units = [
         value: `50`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Heavenly / Body`,
@@ -236,8 +217,7 @@ export const units = [
         value: `55`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Priest / Mind`,
@@ -248,8 +228,7 @@ export const units = [
         value: `5`
       }
     ],
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     name: `General / Mind`,
@@ -260,8 +239,7 @@ export const units = [
         value: `10`
       }
     ],
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     name: `Angel / Mind`,
@@ -272,8 +250,7 @@ export const units = [
         value: `15`
       }
     ],
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     name: `God / Mind`,
@@ -284,8 +261,7 @@ export const units = [
         value: `40`
       }
     ],
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     name: `Heavenly / Mind`,
@@ -296,8 +272,7 @@ export const units = [
         value: `45`
       }
     ],
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     name: `Marksman / Arm`,
@@ -308,8 +283,7 @@ export const units = [
         value: `3`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `General / Arm`,
@@ -320,8 +294,7 @@ export const units = [
         value: `5`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Elf / Arm`,
@@ -332,8 +305,7 @@ export const units = [
         value: `7`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `God / Arm`,
@@ -344,8 +316,7 @@ export const units = [
         value: `15`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Heavenly / Arms`,
@@ -356,8 +327,7 @@ export const units = [
         value: `25`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Thief / Legs`,
@@ -368,8 +338,7 @@ export const units = [
         value: `10`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `General / Legs`,
@@ -380,8 +349,7 @@ export const units = [
         value: `20`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Elf / Legs`,
@@ -392,8 +360,7 @@ export const units = [
         value: `30`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `God / Legs`,
@@ -404,8 +371,7 @@ export const units = [
         value: `50`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Heavenly / Legs`,
@@ -416,8 +382,7 @@ export const units = [
         value: `55`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Angel / Luck`,
@@ -428,8 +393,7 @@ export const units = [
         value: `5`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `God / Luck`,
@@ -440,8 +404,7 @@ export const units = [
         value: `30`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Heavenly / Luck`,
@@ -452,8 +415,7 @@ export const units = [
         value: `40`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Master / Ability`,
@@ -468,8 +430,7 @@ export const units = [
         value: `0.5`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Hero / Ability`,
@@ -484,8 +445,7 @@ export const units = [
         value: `1`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `God / Ability`,
@@ -500,8 +460,7 @@ export const units = [
         value: `2`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Heavenly / Ability`,
@@ -516,8 +475,7 @@ export const units = [
         value: `2.5`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Centurion / Ability`,
@@ -532,8 +490,7 @@ export const units = [
         value: `3`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Resist / Fire`,
@@ -544,8 +501,7 @@ export const units = [
         value: `5`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Resist / Flame`,
@@ -556,8 +512,7 @@ export const units = [
         value: `10`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Resist / Burning`,
@@ -568,8 +523,7 @@ export const units = [
         value: `15`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Resist / Cold`,
@@ -580,8 +534,7 @@ export const units = [
         value: `5`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Resist / Freeze`,
@@ -592,8 +545,7 @@ export const units = [
         value: `10`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Resist / Blizzard`,
@@ -604,8 +556,7 @@ export const units = [
         value: `15`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Resist / Shock`,
@@ -616,8 +567,7 @@ export const units = [
         value: `5`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Resist / Thunder`,
@@ -628,8 +578,7 @@ export const units = [
         value: `10`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Resist / Storm`,
@@ -640,8 +589,7 @@ export const units = [
         value: `15`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Resist / Dark`,
@@ -652,8 +600,7 @@ export const units = [
         value: `5`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Resist / Evil`,
@@ -664,8 +611,7 @@ export const units = [
         value: `10`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Resist / Devil`,
@@ -676,8 +622,7 @@ export const units = [
         value: `15`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Resist / Light`,
@@ -688,8 +633,7 @@ export const units = [
         value: `5`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Resist / Saint`,
@@ -700,8 +644,7 @@ export const units = [
         value: `10`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Resist / Holy`,
@@ -712,8 +655,7 @@ export const units = [
         value: `15`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `All / Resist`,
@@ -724,8 +666,7 @@ export const units = [
         value: `3`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Super / Resist`,
@@ -736,8 +677,7 @@ export const units = [
         value: `6`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Perfect / Resist`,
@@ -748,8 +688,7 @@ export const units = [
         value: `9`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Heavenly / Resist`,
@@ -760,152 +699,139 @@ export const units = [
         value: `12`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `HP / Restorate`,
     rarity: 4,
     effect: [
       {
-        stat: `HP`,
-        value: `14`
+        stat: `every 14 seconds`,
+        value: `1 HP`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `HP / Generate`,
     rarity: 6,
     effect: [
       {
-        stat: `HP`,
-        value: `11`
+        stat: `every 11 seconds`,
+        value: `1 HP`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `HP / Revival`,
     rarity: 9,
     effect: [
       {
-        stat: `HP`,
-        value: `8`
+        stat: `every 8 seconds`,
+        value: `1 HP`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `HP / Resurrection`,
     rarity: 11,
     effect: [
       {
-        stat: `HP`,
-        value: `5`
+        stat: `every 5 seconds`,
+        value: `1 HP`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `TP / Restorate`,
     rarity: 4,
     effect: [
       {
-        stat: `TP`,
-        value: `15`
+        stat: `every 15 seconds`,
+        value: `1 TP`
       }
     ],
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     name: `TP / Generate`,
     rarity: 6,
     effect: [
       {
-        stat: `TP`,
-        value: `13`
+        stat: `every 13 seconds`,
+        value: `1 TP`
       }
     ],
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     name: `TP / Revival`,
     rarity: 9,
     effect: [
       {
-        stat: `TP`,
-        value: `11`
+        stat: `every 11 seconds`,
+        value: `1 TP`
       }
     ],
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     name: `TP / Resurrection`,
     rarity: 11,
     effect: [
       {
-        stat: `TP`,
-        value: `9`
+        stat: `every 9 seconds`,
+        value: `1 TP`
       }
     ],
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     name: `PB / Amplifier`,
     rarity: 4,
     effect: [
       {
-        stat: `PB`,
-        value: `40`
+        stat: `every 40 seconds`,
+        value: `1 PB`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `PB / Generate`,
     rarity: 6,
     effect: [
       {
-        stat: `PB`,
-        value: `35`
+        stat: `every 35 seconds`,
+        value: `1 PB`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `PB / Create`,
     rarity: 9,
     effect: [
       {
-        stat: `PB`,
-        value: `23`
+        stat: `every 23 seconds`,
+        value: `1 PB`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `PB / Increase`,
     rarity: 11,
     effect: [
       {
-        stat: `PB`,
-        value: `18`
+        stat: `every 18 seconds`,
+        value: `1 PB`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `General / Battle`,
@@ -1012,8 +938,7 @@ export const units = [
         value: `Confuse`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Cure / Freeze`,
@@ -1024,8 +949,7 @@ export const units = [
         value: `Freeze`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Cure / Paralysis`,
@@ -1036,8 +960,7 @@ export const units = [
         value: `Paralysis`
       }
     ],
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     name: `Cure / Poison`,
@@ -1048,8 +971,7 @@ export const units = [
         value: `Poison`
       }
     ],
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     name: `Cure / Shock`,
@@ -1060,8 +982,7 @@ export const units = [
         value: `Shock`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Cure / Slow`,
@@ -1072,8 +993,7 @@ export const units = [
         value: `Slow`
       }
     ],
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Adept`,

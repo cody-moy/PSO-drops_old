@@ -13,8 +13,7 @@ export const doubleSabers = [
       stat: `ATP`,
       amount: 235
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Stag Cutlery`,
@@ -30,8 +29,7 @@ export const doubleSabers = [
       stat: `ATP`,
       amount: 343
     },
-    classes: `101010100000`,
-    notes: null
+    classes: `101010100000`
   },
   {
     name: `Twin Brand`,
@@ -47,8 +45,7 @@ export const doubleSabers = [
       stat: `ATP`,
       amount: 400
     },
-    classes: `111111110000`,
-    notes: null
+    classes: `111111110000`
   },
   {
     name: `Monkey King Bar`,
@@ -76,7 +73,7 @@ export const doubleSabers = [
     },
     ATA: 50,
     grind: 0,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `ATP`,
       amount: 555
@@ -98,8 +95,7 @@ export const doubleSabers = [
       stat: `ATP`,
       amount: 600
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `Demolition Comet`,
@@ -112,8 +108,7 @@ export const doubleSabers = [
       stat: `ATP`,
       amount: 652
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `Twin Blaze`,
@@ -146,8 +141,7 @@ export const doubleSabers = [
       stat: `ATP`,
       amount: 750
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `Vivienne`,
@@ -180,8 +174,7 @@ export const doubleSabers = [
       stat: `ATP`,
       amount: 800
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `Double Cannon`,
@@ -192,7 +185,7 @@ export const doubleSabers = [
     },
     ATA: 45,
     grind: 0,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `ATP`,
       amount: 900

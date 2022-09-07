@@ -64,8 +64,7 @@ export const slicers = [
       stat: `ATP`,
       amount: 480
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Flight Fan`,
@@ -81,8 +80,7 @@ export const slicers = [
       stat: `ATP`,
       amount: 500
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Izmaela`,
@@ -90,7 +88,7 @@ export const slicers = [
     ATP: 250,
     ATA: 25,
     grind: 0,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `ATP`,
       amount: 500
@@ -146,8 +144,7 @@ export const slicers = [
       stat: `ATP`,
       amount: 820
     },
-    classes: `111111110000`,
-    notes: null
+    classes: `111111110000`
   },
   {
     name: `Rainbow Baton`,
@@ -163,7 +160,6 @@ export const slicers = [
       stat: `ATP`,
       amount: 570
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   }
 ];

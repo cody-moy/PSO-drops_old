@@ -19,8 +19,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 30,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -35,9 +34,7 @@ export const barriers = [
       EDK: 1,
       ELT: 1
     },
-    levelRequirement: null,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -52,9 +49,7 @@ export const barriers = [
       EDK: 1,
       ELT: 1
     },
-    levelRequirement: null,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -76,8 +71,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 14,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -99,8 +93,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 33,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -116,8 +109,7 @@ export const barriers = [
       ELT: 30
     },
     levelRequirement: 40,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -133,8 +125,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 51,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -150,8 +141,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 51,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -167,8 +157,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 51,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -184,8 +173,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 51,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -281,8 +269,7 @@ export const barriers = [
       ELT: 15
     },
     levelRequirement: 17,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -304,8 +291,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 17,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -327,8 +313,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 17,
-    classes: `001100110000`,
-    notes: null
+    classes: `001100110000`
   },
   {
     role: `Generic`,
@@ -350,8 +335,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 17,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -373,8 +357,7 @@ export const barriers = [
       ELT: 5
     },
     levelRequirement: 41,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -396,8 +379,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 41,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -436,8 +418,7 @@ export const barriers = [
       ELT: 5
     },
     levelRequirement: 50,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -482,8 +463,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 66,
-    classes: `111111110000`,
-    notes: null
+    classes: `111111110000`
   },
   {
     role: `Generic`,
@@ -505,8 +485,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 66,
-    classes: `111111110000`,
-    notes: null
+    classes: `111111110000`
   },
   {
     role: `Generic`,
@@ -528,8 +507,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 66,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -660,8 +638,7 @@ export const barriers = [
       ELT: 20
     },
     levelRequirement: 102,
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     role: `Generic`,
@@ -729,8 +706,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 102,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -752,8 +728,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 109,
-    classes: `100000000000`,
-    notes: null
+    classes: `100000000000`
   },
   {
     role: `Generic`,
@@ -798,8 +773,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 125,
-    classes: `111111110000`,
-    notes: null
+    classes: `111111110000`
   },
   {
     role: `Generic`,
@@ -953,8 +927,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 120,
-    classes: `000011000000`,
-    notes: null
+    classes: `000011000000`
   },
   {
     role: `Generic`,
@@ -999,8 +972,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 133,
-    classes: `010101010101`,
-    notes: null
+    classes: `010101010101`
   },
   {
     role: `Generic`,
@@ -1843,8 +1815,7 @@ export const barriers = [
       ELT: 60
     },
     levelRequirement: 30,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Ring`,
@@ -1860,8 +1831,7 @@ export const barriers = [
       ELT: 0
     },
     levelRequirement: 80,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Ring`,

@@ -47,8 +47,7 @@ export const rifles = [
       stat: `ATA`,
       amount: 120
     },
-    classes: `000011110000`,
-    notes: null
+    classes: `000011110000`
   },
   {
     name: `Justy-23ST`,
@@ -64,8 +63,7 @@ export const rifles = [
       stat: `ATA`,
       amount: 125
     },
-    classes: `000011110000`,
-    notes: null
+    classes: `000011110000`
   },
   {
     name: `Le Cogneur`,
@@ -76,13 +74,11 @@ export const rifles = [
     },
     ATA: 60,
     grind: 0,
-    special: null,
     requirement: {
       stat: `ATA`,
       amount: 140
     },
-    classes: `000011110000`,
-    notes: null
+    classes: `000011110000`
   },
   {
     name: `Rianov 303SNR`,
@@ -90,7 +86,6 @@ export const rifles = [
     ATP: 300,
     ATA: 60,
     grind: 60,
-    special: null,
     requirement: {
       stat: `ATA`,
       amount: 144
@@ -107,7 +102,6 @@ export const rifles = [
     },
     ATA: 38,
     grind: 0,
-    special: null,
     requirement: {
       stat: `ATA`,
       amount: 190
@@ -175,7 +169,6 @@ export const rifles = [
     },
     ATA: 50,
     grind: 50,
-    special: null,
     requirement: {
       stat: `ATA`,
       amount: 144
@@ -192,7 +185,6 @@ export const rifles = [
     },
     ATA: 30,
     grind: 25,
-    special: null,
     requirement: {
       stat: `ATA`,
       amount: 144
@@ -206,7 +198,6 @@ export const rifles = [
     ATP: 500,
     ATA: 65,
     grind: 15,
-    special: null,
     requirement: {
       stat: `ATA`,
       amount: 194
@@ -223,7 +214,6 @@ export const rifles = [
     },
     ATA: 60,
     grind: 60,
-    special: null,
     requirement: {
       stat: `ATA`,
       amount: 194
@@ -240,7 +230,7 @@ export const rifles = [
     },
     ATA: 60,
     grind: 9,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `ATA`,
       amount: 162
@@ -262,8 +252,7 @@ export const rifles = [
       stat: `ATA`,
       amount: 163
     },
-    classes: `000011110000`,
-    notes: null
+    classes: `000011110000`
   },
   {
     name: `Yasminkov 3000R`,
@@ -274,7 +263,6 @@ export const rifles = [
     },
     ATA: 66,
     grind: 60,
-    special: null,
     requirement: {
       stat: `ATA`,
       amount: 171
@@ -296,8 +284,7 @@ export const rifles = [
       stat: `ATA`,
       amount: 174
     },
-    classes: `000011110000`,
-    notes: null
+    classes: `000011110000`
   },
   {
     name: `Yasminkov 7000V`,
@@ -308,7 +295,6 @@ export const rifles = [
     },
     ATA: 67,
     grind: 25,
-    special: null,
     requirement: {
       stat: `ATA`,
       amount: 190
@@ -330,8 +316,7 @@ export const rifles = [
       stat: `MST`,
       amount: 680
     },
-    classes: `110001001111`,
-    notes: null
+    classes: `110001001111`
   },
   {
     name: `Angel Harp`,
@@ -359,7 +344,7 @@ export const rifles = [
     },
     ATA: 60,
     grind: 18,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `ATA`,
       amount: 162

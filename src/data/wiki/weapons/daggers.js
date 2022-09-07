@@ -64,8 +64,7 @@ export const daggers = [
       stat: `ATP`,
       amount: 463
     },
-    classes: `11110000000`,
-    notes: null
+    classes: `11110000000`
   },
   {
     name: `S-Beat's Blade`,
@@ -81,8 +80,7 @@ export const daggers = [
       stat: `ATP`,
       amount: 400
     },
-    classes: `111111110000`,
-    notes: null
+    classes: `111111110000`
   },
   {
     name: `S-Berill's Hands #0`,
@@ -115,8 +113,7 @@ export const daggers = [
       stat: `ATP`,
       amount: 480
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Zero Divide`,
@@ -149,8 +146,7 @@ export const daggers = [
       stat: `ATP`,
       amount: 568
     },
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     name: `Red Dagger`,
@@ -200,8 +196,7 @@ export const daggers = [
       stat: `ATP`,
       amount: 830
     },
-    classes: `010101010000`,
-    notes: null
+    classes: `010101010000`
   },
   {
     name: `S-Berill's Hands #1`,
@@ -217,8 +212,7 @@ export const daggers = [
       stat: `ATP`,
       amount: 600
     },
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     name: `Two Kamui`,
@@ -268,7 +262,6 @@ export const daggers = [
       stat: `ATP`,
       amount: 850
     },
-    classes: `111111110000`,
-    notes: null
+    classes: `111111110000`
   }
 ];

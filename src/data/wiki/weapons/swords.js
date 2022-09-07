@@ -8,13 +8,11 @@ export const swords = [
     },
     ATA: 1,
     grind: 0,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 0
     },
-    classes: '111111111111',
-    notes: null
+    classes: '111111111111'
   },
   {
     name: 'Hammer',
@@ -30,8 +28,7 @@ export const swords = [
       stat: 'ATP',
       amount: 129
     },
-    classes: '111111111111',
-    notes: null
+    classes: '111111111111'
   },
   {
     name: 'Daisy Chain',
@@ -47,8 +44,7 @@ export const swords = [
       stat: 'ATP',
       amount: 400
     },
-    classes: '111100000000',
-    notes: null
+    classes: '111100000000'
   },
   {
     name: 'Crazy Tune',
@@ -64,8 +60,7 @@ export const swords = [
       stat: 'ATP',
       amount: 412
     },
-    classes: '111111111111',
-    notes: null
+    classes: '111111111111'
   },
   {
     name: 'Huge Battle Fan',
@@ -81,8 +76,7 @@ export const swords = [
       stat: 'ATP',
       amount: 412
     },
-    classes: '111111111111',
-    notes: null
+    classes: '111111111111'
   },
   {
     name: "Flowen's Sword",
@@ -93,7 +87,6 @@ export const swords = [
     },
     ATA: 28,
     grind: 28,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 430
@@ -145,7 +138,6 @@ export const swords = [
     },
     ATA: 7,
     grind: 12,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 378
@@ -162,7 +154,6 @@ export const swords = [
     },
     ATA: 13,
     grind: 16,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 387
@@ -179,7 +170,6 @@ export const swords = [
     },
     ATA: 5,
     grind: 21,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 379
@@ -196,7 +186,6 @@ export const swords = [
     },
     ATA: 15,
     grind: 34,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 385
@@ -213,7 +202,6 @@ export const swords = [
     },
     ATA: 12,
     grind: 32,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 401
@@ -230,7 +218,6 @@ export const swords = [
     },
     ATA: 25,
     grind: 9,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 402
@@ -247,7 +234,6 @@ export const swords = [
     },
     ATA: 17,
     grind: 12,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 388
@@ -264,7 +250,6 @@ export const swords = [
     },
     ATA: 19,
     grind: 11,
-    special: null,
     requirement: {
       stat: 'ATP',
       amount: 382
@@ -320,8 +305,7 @@ export const swords = [
       stat: 'ATP',
       amount: 630
     },
-    classes: '111100000000',
-    notes: null
+    classes: '111100000000'
   },
   {
     name: 'Chain Sawd',
@@ -354,8 +338,7 @@ export const swords = [
       stat: 'ATP',
       amount: 710
     },
-    classes: '101000000000',
-    notes: null
+    classes: '101000000000'
   },
   {
     name: 'Sealed J-Sword',
@@ -401,7 +384,7 @@ export const swords = [
     },
     ATA: 50,
     grind: 0,
-    special: 'See Notes',
+    special: 'See notes',
     requirement: {
       stat: 'ATP',
       amount: 971
@@ -419,7 +402,7 @@ export const swords = [
     },
     ATA: 40,
     grind: 50,
-    special: 'See Notes',
+    special: 'See notes',
     requirement: {
       stat: 'ATP',
       amount: 910

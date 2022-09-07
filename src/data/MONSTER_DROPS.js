@@ -336,64 +336,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -5246,64 +5216,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -12995,64 +12935,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -13061,64 +12971,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -17558,64 +17438,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               }
@@ -17848,64 +17698,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -17914,64 +17734,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -22175,64 +21965,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -22665,64 +22425,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               }
@@ -25563,64 +25293,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -25629,64 +25329,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -30092,64 +29762,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               }
@@ -30381,64 +30021,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -30447,64 +30057,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -34695,64 +34275,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -35181,64 +34731,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               }
@@ -37523,64 +37043,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -37589,64 +37079,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -38010,64 +37470,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -38076,64 +37506,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -38375,34 +37775,19 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
                     secID: 'Pinkal',
@@ -38415,28 +37800,16 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -39146,64 +38519,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -39435,28 +38778,16 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
                     secID: 'Purplenum',
@@ -39479,22 +38810,13 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
                     secID: 'Whitill',
@@ -39513,40 +38835,22 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
                     secID: 'Redria',
@@ -39559,10 +38863,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
                     secID: 'Yellowboze',
@@ -39575,10 +38876,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -40974,10 +40272,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
                     secID: 'Bluefull',
@@ -41040,10 +40335,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -41975,10 +41267,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
                     secID: 'Skyly',
@@ -42001,10 +41290,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
                     secID: 'Pinkal',
@@ -42275,34 +41561,19 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
                     secID: 'Pinkal',
@@ -42315,28 +41586,16 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -42577,64 +41836,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               }
@@ -42879,46 +42108,25 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
                     secID: 'Oran',
@@ -42932,10 +42140,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
                     secID: 'Whitill',
@@ -42955,64 +42160,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -43054,16 +42229,10 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
                     secID: 'Pinkal',
@@ -43077,10 +42246,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
                     secID: 'Oran',
@@ -43105,10 +42271,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -43400,22 +42563,13 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
                     secID: 'Whitill',
@@ -43456,10 +42610,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
                     secID: 'Bluefull',
@@ -43688,10 +42839,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
                     secID: 'Purplenum',
@@ -43854,16 +43002,10 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -44368,10 +43510,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
                     secID: 'Skyly',
@@ -44396,10 +43535,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
                     secID: 'Pinkal',
@@ -44424,10 +43560,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
                     secID: 'Yellowboze',
@@ -44441,10 +43574,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -44497,10 +43627,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
                     secID: 'Pinkal',
@@ -44547,10 +43674,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -44984,10 +44108,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
                     secID: 'Yellowboze',
@@ -45029,16 +44150,10 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
                     secID: 'Bluefull',
@@ -45052,40 +44167,22 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -45571,16 +44668,10 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
                     secID: 'Bluefull',
@@ -45616,10 +44707,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
                     secID: 'Oran',
@@ -45694,10 +44782,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
                     secID: 'Purplenum',
@@ -45870,10 +44955,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -46346,10 +45428,7 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
                     secID: 'Greenill',
@@ -46407,10 +45486,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
                     secID: 'Oran',
@@ -46452,16 +45528,10 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
                     secID: 'Skyly',
@@ -46475,10 +45545,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
                     secID: 'Purplenum',
@@ -46503,10 +45570,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
                     secID: 'Oran',
@@ -46531,10 +45595,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -46669,10 +45730,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
                     secID: 'Skyly',
@@ -46686,16 +45744,10 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
                     secID: 'Pinkal',
@@ -46709,10 +45761,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
                     secID: 'Oran',
@@ -46797,22 +45846,13 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
                     secID: 'Oran',
@@ -46826,10 +45866,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
                     secID: 'Whitill',
@@ -46981,10 +46018,7 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
                     secID: 'Skyly',
@@ -47042,16 +46076,10 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
                     secID: 'Whitill',
@@ -47303,64 +46331,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -47548,16 +46546,10 @@ const monsterDrops = {
                     }
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
                     secID: 'Yellowboze',
@@ -47819,64 +46811,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               }
@@ -48218,64 +47180,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -48284,64 +47216,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -48350,64 +47252,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -48882,64 +47754,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -48948,64 +47790,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -49014,64 +47826,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -49197,64 +47979,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               }
@@ -49268,64 +48020,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -49334,64 +48056,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -49400,64 +48092,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -49466,64 +48128,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -49649,64 +48281,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -49715,64 +48317,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -49781,64 +48353,34 @@ const monsterDrops = {
                 rare: false,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               },
@@ -49848,64 +48390,34 @@ const monsterDrops = {
                 rareRate: 10,
                 items: [
                   {
-                    secID: 'Viridia',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Viridia'
                   },
                   {
-                    secID: 'Greenill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Greenill'
                   },
                   {
-                    secID: 'Skyly',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Skyly'
                   },
                   {
-                    secID: 'Bluefull',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Bluefull'
                   },
                   {
-                    secID: 'Purplenum',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Purplenum'
                   },
                   {
-                    secID: 'Pinkal',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Pinkal'
                   },
                   {
-                    secID: 'Redria',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Redria'
                   },
                   {
-                    secID: 'Oran',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Oran'
                   },
                   {
-                    secID: 'Yellowboze',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Yellowboze'
                   },
                   {
-                    secID: 'Whitill',
-                    itemName: null,
-                    dropRate: null,
-                    dropRatePercent: null
+                    secID: 'Whitill'
                   }
                 ]
               }

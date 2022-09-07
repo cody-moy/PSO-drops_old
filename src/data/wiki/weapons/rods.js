@@ -107,7 +107,6 @@ export const rods = [
     ATP: 600,
     ATA: 66,
     grind: 33,
-    special: null,
     requirement: {
       stat: `ATP`,
       amount: 500
@@ -124,7 +123,6 @@ export const rods = [
     },
     ATA: 45,
     grind: 0,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 590
@@ -141,7 +139,6 @@ export const rods = [
     },
     ATA: 45,
     grind: 0,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 590
@@ -158,7 +155,6 @@ export const rods = [
     },
     ATA: 45,
     grind: 0,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 600
@@ -305,7 +301,6 @@ export const rods = [
     },
     ATA: 34,
     grind: 0,
-    special: null,
     requirement: {
       stat: `MST`,
       amount: 900
@@ -322,7 +317,7 @@ export const rods = [
     },
     ATA: 55,
     grind: 0,
-    special: `See Notes`,
+    special: `See notes`,
     requirement: {
       stat: `MST`,
       amount: 900

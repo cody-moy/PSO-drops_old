@@ -19,8 +19,7 @@ export const frames = [
       ELT: 18
     },
     levelRequirement: 80,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -35,9 +34,7 @@ export const frames = [
       EDK: 70,
       ELT: 0
     },
-    levelRequirement: null,
-    classes: `101010101010`,
-    notes: null
+    classes: `101010101010`
   },
   {
     role: `Generic`,
@@ -59,8 +56,7 @@ export const frames = [
       ELT: 25
     },
     levelRequirement: 28,
-    classes: `000000001111`,
-    notes: null
+    classes: `000000001111`
   },
   {
     role: `Generic`,
@@ -82,8 +78,7 @@ export const frames = [
       ELT: 15
     },
     levelRequirement: 28,
-    classes: `111100000000`,
-    notes: null
+    classes: `111100000000`
   },
   {
     role: `Generic`,
@@ -98,9 +93,7 @@ export const frames = [
       EDK: 0,
       ELT: 0
     },
-    levelRequirement: null,
-    classes: `010000000000`,
-    notes: null
+    classes: `010000000000`
   },
   {
     role: `Generic`,
@@ -122,8 +115,7 @@ export const frames = [
       ELT: 20
     },
     levelRequirement: 28,
-    classes: `000011110000`,
-    notes: null
+    classes: `000011110000`
   },
   {
     role: `Generic`,
@@ -139,8 +131,7 @@ export const frames = [
       ELT: 80
     },
     levelRequirement: 200,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -159,8 +150,7 @@ export const frames = [
       ELT: 0
     },
     levelRequirement: 76,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -182,8 +172,7 @@ export const frames = [
       ELT: 25
     },
     levelRequirement: 54,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -202,8 +191,7 @@ export const frames = [
       ELT: 2
     },
     levelRequirement: 121,
-    classes: `001100110000`,
-    notes: null
+    classes: `001100110000`
   },
   {
     role: `Generic`,
@@ -222,8 +210,7 @@ export const frames = [
       ELT: 0
     },
     levelRequirement: 101,
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     role: `Generic`,
@@ -245,8 +232,7 @@ export const frames = [
       ELT: 18
     },
     levelRequirement: 76,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -268,8 +254,7 @@ export const frames = [
       ELT: 20
     },
     levelRequirement: 76,
-    classes: `111111110000`,
-    notes: null
+    classes: `111111110000`
   },
   {
     role: `Generic`,
@@ -291,8 +276,7 @@ export const frames = [
       ELT: 18
     },
     levelRequirement: 76,
-    classes: `111111110000`,
-    notes: null
+    classes: `111111110000`
   },
   {
     role: `Generic`,
@@ -311,8 +295,7 @@ export const frames = [
       ELT: 15
     },
     levelRequirement: 54,
-    classes: `111111110000`,
-    notes: null
+    classes: `111111110000`
   },
   {
     role: `Generic`,
@@ -334,8 +317,7 @@ export const frames = [
       ELT: 6
     },
     levelRequirement: 91,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -357,8 +339,7 @@ export const frames = [
       ELT: 6
     },
     levelRequirement: 76,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -380,8 +361,7 @@ export const frames = [
       ELT: 8
     },
     levelRequirement: 101,
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     role: `Generic`,
@@ -403,8 +383,7 @@ export const frames = [
       ELT: 12
     },
     levelRequirement: 101,
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     role: `Generic`,
@@ -423,8 +402,7 @@ export const frames = [
       ELT: 0
     },
     levelRequirement: 89,
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     role: `Generic`,
@@ -440,8 +418,7 @@ export const frames = [
       ELT: 0
     },
     levelRequirement: 54,
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     role: `Generic`,
@@ -463,8 +440,7 @@ export const frames = [
       ELT: 0
     },
     levelRequirement: 101,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -486,8 +462,7 @@ export const frames = [
       ELT: 20
     },
     levelRequirement: 58,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -509,8 +484,7 @@ export const frames = [
       ELT: 25
     },
     levelRequirement: 141,
-    classes: `111111110000`,
-    notes: null
+    classes: `111111110000`
   },
   {
     role: `Generic`,
@@ -532,8 +506,7 @@ export const frames = [
       ELT: 0
     },
     levelRequirement: 98,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -555,8 +528,7 @@ export const frames = [
       ELT: 25
     },
     levelRequirement: 71,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -575,8 +547,7 @@ export const frames = [
       ELT: 0
     },
     levelRequirement: 111,
-    classes: `001100110000`,
-    notes: null
+    classes: `001100110000`
   },
   {
     role: `Generic`,
@@ -598,8 +569,7 @@ export const frames = [
       ELT: 0
     },
     levelRequirement: 54,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -615,8 +585,7 @@ export const frames = [
       ELT: 0
     },
     levelRequirement: 50,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `Generic`,
@@ -638,8 +607,7 @@ export const frames = [
       ELT: 20
     },
     levelRequirement: 131,
-    classes: `010101010101`,
-    notes: null
+    classes: `010101010101`
   },
   {
     role: `Generic`,
@@ -655,8 +623,7 @@ export const frames = [
       ELT: 0
     },
     levelRequirement: 66,
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     role: `Generic`,
@@ -672,8 +639,7 @@ export const frames = [
       ELT: 0
     },
     levelRequirement: 89,
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     role: `Offense`,
@@ -1136,9 +1102,7 @@ export const frames = [
       EDK: 0,
       ELT: 70
     },
-    levelRequirement: null,
-    classes: `010101010101`,
-    notes: null
+    classes: `010101010101`
   },
   {
     role: `aesthetic`,
@@ -1154,8 +1118,7 @@ export const frames = [
       ELT: 0
     },
     levelRequirement: 101,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `aesthetic`,
@@ -1174,8 +1137,7 @@ export const frames = [
       ELT: 0
     },
     levelRequirement: 120,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `aesthetic`,
@@ -1197,8 +1159,7 @@ export const frames = [
       ELT: 20
     },
     levelRequirement: 152,
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   },
   {
     role: `aesthetic`,
@@ -1220,8 +1181,7 @@ export const frames = [
       ELT: 20
     },
     levelRequirement: 111,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `aesthetic`,
@@ -1243,8 +1203,7 @@ export const frames = [
       ELT: 22
     },
     levelRequirement: 121,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `aesthetic`,
@@ -1266,8 +1225,7 @@ export const frames = [
       ELT: 5
     },
     levelRequirement: 122,
-    classes: `001100110000`,
-    notes: null
+    classes: `001100110000`
   },
   {
     role: `aesthetic`,
@@ -1289,8 +1247,7 @@ export const frames = [
       ELT: 0
     },
     levelRequirement: 101,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `aesthetic`,
@@ -1312,8 +1269,7 @@ export const frames = [
       ELT: 20
     },
     levelRequirement: 101,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `aesthetic`,
@@ -1335,8 +1291,7 @@ export const frames = [
       ELT: 15
     },
     levelRequirement: 101,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `aesthetic`,
@@ -1358,8 +1313,7 @@ export const frames = [
       ELT: 20
     },
     levelRequirement: 144,
-    classes: `111111111111`,
-    notes: null
+    classes: `111111111111`
   },
   {
     role: `aesthetic`,
@@ -1381,8 +1335,7 @@ export const frames = [
       ELT: 25
     },
     levelRequirement: 131,
-    classes: `000000000010`,
-    notes: null
+    classes: `000000000010`
   },
   {
     role: `aesthetic`,
@@ -1404,7 +1357,6 @@ export const frames = [
       ELT: 15
     },
     levelRequirement: 156,
-    classes: `110011001111`,
-    notes: null
+    classes: `110011001111`
   }
 ];

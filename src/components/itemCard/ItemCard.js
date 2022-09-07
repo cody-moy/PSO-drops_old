@@ -5,6 +5,8 @@ import ArmorCard from './types/ArmorCard';
 import UnitCard from './types/UnitCard';
 
 import './ItemCard.css';
+import ToolCard from './types/ToolCard';
+import MiscCard from './types/MiscCard';
 
 function ItemCard({ item }) {
   const [itemToDisplay, setItemToDisplay] = useState();
@@ -50,8 +52,12 @@ function ItemCard({ item }) {
           {itemToDisplay && item.type.object === 'Unit' && (
             <UnitCard item={itemToDisplay} />
           )}
-          {itemToDisplay && item.type.object === 'Tool'}
-          {itemToDisplay && item.type.object === 'Misc'}
+          {itemToDisplay && item.type.object === 'Tool' && (
+            <ToolCard item={itemToDisplay} />
+          )}
+          {itemToDisplay && item.type.object === 'Misc' && (
+            <MiscCard item={itemToDisplay} />
+          )}
         </div>
       )}
     </>
