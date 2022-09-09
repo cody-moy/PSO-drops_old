@@ -122,12 +122,3 @@
 .item-card__notes li {
   margin: 5px 0;
 }
-
-.item-card-description-container {
-  font-size: 0.9rem;
-}
-
-.item-card-description-container p:last-child {
-  margin-top: 3px;
-  text-indent: 1rem;
-}
