@@ -128,7 +128,14 @@ function Table({ setItem, showDropRatePercent }) {
                         >
                           <>
                             <div className="secID-container">
-                              <h4 className="table__area-name">{area.name}</h4>
+                              <div
+                                className="table__area-name"
+                                id={area.name
+                                  .toLowerCase()
+                                  .replaceAll(' ', '-')}
+                              >
+                                <h4>{area.name}</h4>
+                              </div>
                               <div style={{ display: 'flex', width: '100%' }}>
                                 <div className="table__source-label-container">
                                   {/* <p>Source</p> */}
