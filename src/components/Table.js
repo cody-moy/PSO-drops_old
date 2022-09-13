@@ -42,6 +42,12 @@ function Table({ setItem, showDropRatePercent }) {
     }
   };
 
+  const shortenEp = index => {
+    if (index === 0) return 'EP1';
+    else if (index === 1) return 'EP2';
+    else if (index === 2) return 'EP4';
+  };
+
   return (
     <div>
       <div className="table-filter-container">
@@ -102,7 +108,6 @@ function Table({ setItem, showDropRatePercent }) {
           />
         </div>
       </div>
-      <h2>Drop table for {difficulty}</h2>
       {episodes.length > 0 && (
         <div className="episode-wrapper">
           {episodes.map((episode, ei) => {
@@ -114,11 +119,11 @@ function Table({ setItem, showDropRatePercent }) {
                   id={episode.name}
                 >
                   <>
-                    <div className="table__episode-name-wrapper">
+                    {/* <div className="table__episode-name-wrapper">
                       <h3 className="table__episode-name">
                         {episode.name.toUpperCase()}
                       </h3>
-                    </div>
+                    </div> */}
                     {episode.areas.map((area, ai) => {
                       return (
                         <div
@@ -134,7 +139,9 @@ function Table({ setItem, showDropRatePercent }) {
                                   .toLowerCase()
                                   .replaceAll(' ', '-')}
                               >
-                                <h4>{area.name}</h4>
+                                <span>
+                                  {shortenEp(ei)}: {area.name}
+                                </span>
                               </div>
                               <div style={{ display: 'flex', width: '100%' }}>
                                 <div className="table__source-label-container">

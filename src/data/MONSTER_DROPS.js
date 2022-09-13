@@ -1014,7 +1014,7 @@ const monsterDrops = {
                     secID: 'Viridia',
                     itemName: 'Agito (1975)',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Katana',
                       index: 16
@@ -1044,7 +1044,7 @@ const monsterDrops = {
                     secID: 'Bluefull',
                     itemName: 'Agito (1975)',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Katana',
                       index: 16
@@ -1054,7 +1054,7 @@ const monsterDrops = {
                     secID: 'Purplenum',
                     itemName: 'Lavis Cannon',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Saber',
                       index: 28
@@ -1094,7 +1094,7 @@ const monsterDrops = {
                     secID: 'Yellowboze',
                     itemName: 'Agito (1975)',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Katana',
                       index: 16
@@ -1104,7 +1104,7 @@ const monsterDrops = {
                     secID: 'Whitill',
                     itemName: 'Handgun: Milla',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Handgun',
                       index: 9
@@ -1311,7 +1311,7 @@ const monsterDrops = {
                     secID: 'Yellowboze',
                     itemName: 'Heaven Punisher',
                     dropRate: 190650.18,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00052,
                     type: {
                       object: 'Handgun',
                       index: 14
@@ -1868,7 +1868,7 @@ const monsterDrops = {
                     secID: 'Viridia',
                     itemName: 'Yasha',
                     dropRate: 67216.41,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00148,
                     type: {
                       object: 'Katana',
                       index: 17
@@ -2024,7 +2024,7 @@ const monsterDrops = {
                     secID: 'Pinkal',
                     itemName: 'Lavis Cannon',
                     dropRate: 37342.45,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00267,
                     type: {
                       object: 'Saber',
                       index: 28
@@ -2693,7 +2693,7 @@ const monsterDrops = {
                     secID: 'Oran',
                     itemName: 'Oran Card',
                     dropRate: 33608.21,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00297,
                     type: {
                       object: 'Card',
                       index: 17
@@ -2769,7 +2769,7 @@ const monsterDrops = {
                     secID: 'Purplenum',
                     itemName: "Flowen's Sword (3073)",
                     dropRate: 33608.21,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00297,
                     type: {
                       object: 'Sword',
                       index: 11
@@ -3042,7 +3042,7 @@ const monsterDrops = {
                     secID: 'Whitill',
                     itemName: 'Heaven Punisher',
                     dropRate: 174762.67,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00057,
                     type: {
                       object: 'Handgun',
                       index: 14
@@ -3058,7 +3058,7 @@ const monsterDrops = {
                     secID: 'Viridia',
                     itemName: 'Heaven Punisher',
                     dropRate: 190650.18,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00052,
                     type: {
                       object: 'Handgun',
                       index: 14
@@ -3110,7 +3110,7 @@ const monsterDrops = {
                     secID: 'Pinkal',
                     itemName: 'Heaven Punisher',
                     dropRate: 190650.18,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00052,
                     type: {
                       object: 'Handgun',
                       index: 14
@@ -3168,7 +3168,7 @@ const monsterDrops = {
                     secID: 'Viridia',
                     itemName: 'Viridia Card',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Card',
                       index: 10
@@ -3248,7 +3248,7 @@ const monsterDrops = {
                     secID: 'Yellowboze',
                     itemName: 'NUG2000-Bazooka',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Bazooka',
                       index: 4
@@ -3258,7 +3258,7 @@ const monsterDrops = {
                     secID: 'Whitill',
                     itemName: 'Whitill Card',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Card',
                       index: 19
@@ -3504,7 +3504,7 @@ const monsterDrops = {
                     secID: 'Greenill',
                     itemName: 'Agito (1975)',
                     dropRate: 22405.47,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00446,
                     type: {
                       object: 'Katana',
                       index: 16
@@ -3604,7 +3604,7 @@ const monsterDrops = {
                     secID: 'Viridia',
                     itemName: 'Lavis Cannon',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Saber',
                       index: 28
@@ -3614,7 +3614,7 @@ const monsterDrops = {
                     secID: 'Greenill',
                     itemName: 'Psycho Wand',
                     dropRate: 299593.14,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00033,
                     type: {
                       object: 'Rod',
                       index: 19
@@ -3624,7 +3624,7 @@ const monsterDrops = {
                     secID: 'Skyly',
                     itemName: 'Psycho Wand',
                     dropRate: 299593.14,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00033,
                     type: {
                       object: 'Rod',
                       index: 19
@@ -3645,7 +3645,7 @@ const monsterDrops = {
                     secID: 'Purplenum',
                     itemName: 'Book of Hitogata',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Tool',
                       objectSubType: 'Combination Item',
@@ -3667,7 +3667,7 @@ const monsterDrops = {
                     secID: 'Redria',
                     itemName: 'Psycho Wand',
                     dropRate: 299593.14,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00033,
                     type: {
                       object: 'Rod',
                       index: 19
@@ -3677,7 +3677,7 @@ const monsterDrops = {
                     secID: 'Oran',
                     itemName: 'Book of Hitogata',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Tool',
                       objectSubType: 'Combination Item',
@@ -3699,7 +3699,7 @@ const monsterDrops = {
                     secID: 'Whitill',
                     itemName: 'Handgun: Guld',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Handgun',
                       index: 8
@@ -3735,7 +3735,7 @@ const monsterDrops = {
                     secID: 'Skyly',
                     itemName: 'Skyly Card',
                     dropRate: 22405.47,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00446,
                     type: {
                       object: 'Card',
                       index: 12
@@ -3841,7 +3841,7 @@ const monsterDrops = {
                     secID: 'Skyly',
                     itemName: 'Skyly Card',
                     dropRate: 22405.47,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00446,
                     type: {
                       object: 'Card',
                       index: 12
@@ -4068,7 +4068,7 @@ const monsterDrops = {
                     secID: 'Bluefull',
                     itemName: 'Book of Hitogata',
                     dropRate: 22405.47,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00446,
                     type: {
                       object: 'Tool',
                       objectSubType: 'Combination Item',
@@ -4302,7 +4302,7 @@ const monsterDrops = {
                     secID: 'Pinkal',
                     itemName: 'Evil Curst',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Saber',
                       index: 29
@@ -4332,7 +4332,7 @@ const monsterDrops = {
                     secID: 'Yellowboze',
                     itemName: 'Psycho Wand',
                     dropRate: 299593.14,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00033,
                     type: {
                       object: 'Rod',
                       index: 19
@@ -4408,7 +4408,7 @@ const monsterDrops = {
                     secID: 'Pinkal',
                     itemName: 'Evil Curst',
                     dropRate: 22405.47,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00446,
                     type: {
                       object: 'Saber',
                       index: 29
@@ -4438,7 +4438,7 @@ const monsterDrops = {
                     secID: 'Yellowboze',
                     itemName: 'Psycho Wand',
                     dropRate: 233016.89,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00043,
                     type: {
                       object: 'Rod',
                       index: 19
@@ -4696,7 +4696,7 @@ const monsterDrops = {
                     secID: 'Skyly',
                     itemName: 'Lavis Cannon',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Saber',
                       index: 28
@@ -5788,7 +5788,7 @@ const monsterDrops = {
                     secID: 'Viridia',
                     itemName: 'NUG2000-Bazooka',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Bazooka',
                       index: 4
@@ -5798,7 +5798,7 @@ const monsterDrops = {
                     secID: 'Greenill',
                     itemName: 'Handgun: Milla',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Handgun',
                       index: 9
@@ -5808,7 +5808,7 @@ const monsterDrops = {
                     secID: 'Skyly',
                     itemName: 'Yasha',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Katana',
                       index: 17
@@ -7239,7 +7239,7 @@ const monsterDrops = {
                     secID: 'Skyly',
                     itemName: 'Agito (1975)',
                     dropRate: 33608.21,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00297,
                     type: {
                       object: 'Katana',
                       index: 16
@@ -7445,7 +7445,7 @@ const monsterDrops = {
                     secID: 'Greenill',
                     itemName: 'Handgun: Guld',
                     dropRate: 40329.85,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00247,
                     type: {
                       object: 'Handgun',
                       index: 8
@@ -7515,7 +7515,7 @@ const monsterDrops = {
                     secID: 'Yellowboze',
                     itemName: 'Lavis Cannon',
                     dropRate: 40329.85,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00247,
                     type: {
                       object: 'Saber',
                       index: 28
@@ -7552,7 +7552,7 @@ const monsterDrops = {
                     secID: 'Greenill',
                     itemName: 'Greenill Card',
                     dropRate: 40329.85,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00247,
                     type: {
                       object: 'Card',
                       index: 11
@@ -7594,7 +7594,7 @@ const monsterDrops = {
                     secID: 'Pinkal',
                     itemName: 'Prophets of Motav',
                     dropRate: 40329.85,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00247,
                     type: {
                       object: 'Wand',
                       index: 13
@@ -7604,7 +7604,7 @@ const monsterDrops = {
                     secID: 'Redria',
                     itemName: 'Redria Card',
                     dropRate: 40329.85,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00247,
                     type: {
                       object: 'Card',
                       index: 16
@@ -7811,7 +7811,7 @@ const monsterDrops = {
                     secID: 'Pinkal',
                     itemName: 'Pinkal Card',
                     dropRate: 33608.21,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00297,
                     type: {
                       object: 'Card',
                       index: 15
@@ -8494,7 +8494,7 @@ const monsterDrops = {
                     secID: 'Whitill',
                     itemName: 'Handgun: Guld',
                     dropRate: 20480,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.0049,
                     type: {
                       object: 'Handgun',
                       index: 8
@@ -8540,7 +8540,7 @@ const monsterDrops = {
                     secID: 'Bluefull',
                     itemName: 'Bluefull Card',
                     dropRate: 33608.21,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00297,
                     type: {
                       object: 'Card',
                       index: 13
@@ -8957,7 +8957,7 @@ const monsterDrops = {
                     secID: 'Skyly',
                     itemName: 'Heaven Punisher',
                     dropRate: 22405.47,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00446,
                     type: {
                       object: 'Handgun',
                       index: 14
@@ -9296,7 +9296,7 @@ const monsterDrops = {
                     secID: 'Purplenum',
                     itemName: "DB's Saber (3064)",
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Saber',
                       index: 11
@@ -9372,7 +9372,7 @@ const monsterDrops = {
                     secID: 'Greenill',
                     itemName: 'Lavis Cannon',
                     dropRate: 25206.15,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.0039,
                     type: {
                       object: 'Saber',
                       index: 28
@@ -9624,7 +9624,7 @@ const monsterDrops = {
                     secID: 'Pinkal',
                     itemName: "Flowen's Sword (3077)",
                     dropRate: 33608.21,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00297,
                     type: {
                       object: 'Sword',
                       index: 12
@@ -9730,7 +9730,7 @@ const monsterDrops = {
                     secID: 'Pinkal',
                     itemName: 'Psycho Wand',
                     dropRate: 299593.14,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00033,
                     type: {
                       object: 'Rod',
                       index: 19
@@ -9740,7 +9740,7 @@ const monsterDrops = {
                     secID: 'Redria',
                     itemName: 'Heaven Punisher',
                     dropRate: 299593.14,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00033,
                     type: {
                       object: 'Handgun',
                       index: 14
@@ -9867,7 +9867,7 @@ const monsterDrops = {
                     secID: 'Yellowboze',
                     itemName: 'Yellowboze Card',
                     dropRate: 25206.15,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.0039,
                     type: {
                       object: 'Card',
                       index: 18
@@ -9893,7 +9893,7 @@ const monsterDrops = {
                     secID: 'Viridia',
                     itemName: 'Psycho Wand',
                     dropRate: 131072,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00076,
                     type: {
                       object: 'Rod',
                       index: 19
@@ -9903,7 +9903,7 @@ const monsterDrops = {
                     secID: 'Greenill',
                     itemName: 'Heaven Punisher',
                     dropRate: 131072,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00076,
                     type: {
                       object: 'Handgun',
                       index: 14
@@ -9963,7 +9963,7 @@ const monsterDrops = {
                     secID: 'Oran',
                     itemName: 'Heaven Punisher',
                     dropRate: 131072,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00076,
                     type: {
                       object: 'Handgun',
                       index: 14
@@ -10120,7 +10120,7 @@ const monsterDrops = {
                     secID: 'Viridia',
                     itemName: "Nei's Claw",
                     dropRate: 25206.15,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.0039,
                     type: {
                       object: 'Claw',
                       index: 12
@@ -10226,7 +10226,7 @@ const monsterDrops = {
                     secID: 'Viridia',
                     itemName: 'Book of Hitogata',
                     dropRate: 28807.03,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00347,
                     type: {
                       object: 'Tool',
                       objectSubType: 'Combination Item',
@@ -10318,7 +10318,7 @@ const monsterDrops = {
                     secID: 'Whitill',
                     itemName: 'Psycho Wand',
                     dropRate: 299593.14,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00033,
                     type: {
                       object: 'Rod',
                       index: 19
@@ -38053,7 +38053,7 @@ const monsterDrops = {
                     secID: 'Viridia',
                     itemName: "Gobooma's Right Arm",
                     dropRate: 20480,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.0049,
                     type: {
                       object: 'Tool',
                       objectSubType: 'enemy part',
@@ -38064,7 +38064,7 @@ const monsterDrops = {
                     secID: 'Greenill',
                     itemName: "Gobooma's Right Arm",
                     dropRate: 20480,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.0049,
                     type: {
                       object: 'Tool',
                       objectSubType: 'enemy part',
@@ -38075,7 +38075,7 @@ const monsterDrops = {
                     secID: 'Skyly',
                     itemName: "Gobooma's Right Arm",
                     dropRate: 20480,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.0049,
                     type: {
                       object: 'Tool',
                       objectSubType: 'enemy part',
@@ -38086,7 +38086,7 @@ const monsterDrops = {
                     secID: 'Bluefull',
                     itemName: "Gobooma's Right Arm",
                     dropRate: 20480,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.0049,
                     type: {
                       object: 'Tool',
                       objectSubType: 'enemy part',
@@ -38097,7 +38097,7 @@ const monsterDrops = {
                     secID: 'Purplenum',
                     itemName: "Gobooma's Right Arm",
                     dropRate: 20480,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.0049,
                     type: {
                       object: 'Tool',
                       objectSubType: 'enemy part',
@@ -38108,7 +38108,7 @@ const monsterDrops = {
                     secID: 'Pinkal',
                     itemName: "Gobooma's Right Arm",
                     dropRate: 20480,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.0049,
                     type: {
                       object: 'Tool',
                       objectSubType: 'enemy part',
@@ -38119,7 +38119,7 @@ const monsterDrops = {
                     secID: 'Redria',
                     itemName: "Gobooma's Right Arm",
                     dropRate: 20480,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.0049,
                     type: {
                       object: 'Tool',
                       objectSubType: 'enemy part',
@@ -38130,7 +38130,7 @@ const monsterDrops = {
                     secID: 'Oran',
                     itemName: "Gobooma's Right Arm",
                     dropRate: 20480,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.0049,
                     type: {
                       object: 'Tool',
                       objectSubType: 'enemy part',
@@ -38141,7 +38141,7 @@ const monsterDrops = {
                     secID: 'Yellowboze',
                     itemName: "Gobooma's Right Arm",
                     dropRate: 20480,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.0049,
                     type: {
                       object: 'Tool',
                       objectSubType: 'enemy part',
@@ -38152,7 +38152,7 @@ const monsterDrops = {
                     secID: 'Whitill',
                     itemName: "Gobooma's Right Arm",
                     dropRate: 20480,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.0049,
                     type: {
                       object: 'Tool',
                       objectSubType: 'enemy part',
@@ -41352,7 +41352,7 @@ const monsterDrops = {
                     secID: 'Viridia',
                     itemName: 'Crush Bullet',
                     dropRate: 31207.62,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.0032,
                     type: {
                       object: 'Shot',
                       index: 0
@@ -41458,7 +41458,7 @@ const monsterDrops = {
                     secID: 'Viridia',
                     itemName: 'Crush Bullet',
                     dropRate: 23405.71,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00427,
                     type: {
                       object: 'Shot',
                       index: 0
@@ -42031,8 +42031,8 @@ const monsterDrops = {
                   {
                     secID: 'Bluefull',
                     itemName: 'Trigrinder',
-                    dropRate: 4294967295,
-                    dropRatePercent: 0,
+                    dropRate: 1.14,
+                    dropRatePercent: 87.72,
                     type: {
                       object: 'Tool',
                       objectSubType: 'Grinder',
@@ -42132,7 +42132,7 @@ const monsterDrops = {
                     secID: 'Oran',
                     itemName: 'Power Material',
                     dropRate: 23405.71,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00427,
                     type: {
                       object: 'Tool',
                       objectSubType: 'material',
@@ -42146,7 +42146,7 @@ const monsterDrops = {
                     secID: 'Whitill',
                     itemName: 'Evade Material',
                     dropRate: 23405.71,
-                    dropRatePercent: 0,
+                    dropRatePercent: 0.00427,
                     type: {
                       object: 'Tool',
                       objectSubType: 'material',
