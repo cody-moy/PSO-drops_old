@@ -10,20 +10,126 @@
   z-index: 10;
 }
 
-.character-menu__toggle-wrapper {
+.nav__search-wrapper {
+  flex-grow: 1;
+  max-width: 400px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.nav__search-wrapper input {
+  width: 100%;
+  height: 30px;
+  border-radius: 15px;
+  border: 0;
+  padding: 0 30px 0 10px;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.nav__search-wrapper button {
+  margin-left: 5px;
+}
+
+.navbar__submenu-container {
   height: 100%;
   position: relative;
 }
 
-.character-menu__toggle {
-  width: fit-content;
+.navbar__submenu-toggle {
   height: 100%;
   display: flex;
   align-items: center;
-  padding: 10px;
+  padding: 0 16px;
   cursor: pointer;
 }
 
-.character-menu__toggle:hover {
-  background-color: #3c537e;
+.navbar__submenu-toggle:hover {
+  background-color: #40547a;
+}
+
+.navbar__submenu-contents {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 1rem;
+  background-color: #34394d;
+  border: 1px solid var(--color-surface-2);
+  padding: 1rem;
+}
+
+.navbar__submenu-contents hr {
+  border: 0;
+  border-left: 1px solid var(--color-surface-2);
+}
+
+.navbar__submenu-contents .filter-label {
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.navbar__submenu-contents .episode-name {
+  width: 100%;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 8px 0;
+  padding: 0;
+}
+
+.navbar__submenu-contents .episode-name:not(.episode-name:first-child) {
+  margin-top: 20px;
+}
+
+.navbar__submenu-contents ul {
+  padding: 0;
+}
+
+.navbar__submenu-contents li {
+  font-size: 0.8rem;
+  list-style: none;
+  margin: 4px 0;
+}
+
+.navbar__submenu-contents li,
+.navbar__submenu-contents label {
+  white-space: nowrap;
+}
+
+.navbar__submenu-contents a {
+  color: unset;
+  text-decoration: unset;
+}
+
+.navbar__submenu-contents a:hover {
+  text-decoration: underline;
+}
+
+.ep-filter__input-wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.25rem;
+}
+
+.ep-filter__input-wrapper input {
+  margin-left: 0;
+}
+
+.character-info-wrapper {
+  width: fit-content;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  padding: 1rem;
+  background-color: #34394d;
+  border-radius: 0.25rem;
+}
+
+.character-controls.fade {
+  opacity: 0.5;
+  pointer-events: none;
 }

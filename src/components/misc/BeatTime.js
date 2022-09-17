@@ -1,16 +1,13 @@
 import React, { useEffect, useState } from 'react';
-import { fromDate } from 'dot-beat-time';
+import { now } from 'dot-beat-time';
 
 import '../styles/BeatTime.css';
 
 function BeatTime(props) {
-  const [time, setTime] = useState(fromDate(new Date()));
+  const [time, setTime] = useState(now());
 
   useEffect(() => {
-    const updateTime = () => {
-      setTime(fromDate(new Date()));
-    };
-    const intervalID = setInterval(updateTime, 1000);
+    const intervalID = setInterval(() => setTime(now()), 1000);
 
     return () => {
       clearInterval(intervalID);

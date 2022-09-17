@@ -112,9 +112,16 @@
   background-position-y: 100%;
 }
 
-.table__area-name#subterranian-desert {
+.table__area-name#subterranean-desert {
   background: url('../../assets/desert.webp');
   background-position-y: 80%;
+}
+
+.jump-location {
+  display: block;
+  position: relative;
+  top: -50px;
+  visibility: hidden;
 }
 
 .secID-container {
@@ -245,6 +252,11 @@
   cursor: pointer;
 }
 
+.table__item-container.not-in-search {
+  opacity: 0.25;
+  pointer-events: none;
+}
+
 .table__item-container.no-drop {
   background-color: var(--color-surface-1-disabled);
   pointer-events: none;
@@ -289,7 +301,7 @@
 }
 
 .true-rate-label {
-  color: #ffff00;
+  color: #dddd00;
   margin-top: 5px;
   text-decoration: underline;
   text-decoration-style: dotted;

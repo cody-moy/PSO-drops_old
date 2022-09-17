@@ -3370,7 +3370,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 53
+                      index: 55
                     }
                   }
                 ]
@@ -5822,7 +5822,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 36
+                      index: 38
                     }
                   },
                   {
@@ -6435,68 +6435,118 @@ const monsterDrops = {
                 ]
               },
               {
-                source: 'Halo Rappy',
+                source: 'Hallo Rappy',
                 rare: false,
                 items: [
                   {
                     secID: 'Viridia',
                     itemName: "Jack-O'-Lantern",
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 19
+                    }
                   },
                   {
                     secID: 'Greenill',
                     itemName: "Jack-O'-Lantern",
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 19
+                    }
                   },
                   {
                     secID: 'Skyly',
                     itemName: "Jack-O'-Lantern",
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 19
+                    }
                   },
                   {
                     secID: 'Bluefull',
                     itemName: "Jack-O'-Lantern",
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 19
+                    }
                   },
                   {
                     secID: 'Purplenum',
                     itemName: "Jack-O'-Lantern",
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 19
+                    }
                   },
                   {
                     secID: 'Pinkal',
                     itemName: "Jack-O'-Lantern",
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 19
+                    }
                   },
                   {
                     secID: 'Redria',
                     itemName: "Jack-O'-Lantern",
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 19
+                    }
                   },
                   {
                     secID: 'Oran',
                     itemName: "Jack-O'-Lantern",
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 19
+                    }
                   },
                   {
                     secID: 'Yellowboze',
                     itemName: "Jack-O'-Lantern",
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 19
+                    }
                   },
                   {
                     secID: 'Whitill',
                     itemName: "Jack-O'-Lantern",
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 19
+                    }
                   }
                 ]
               },
@@ -6508,61 +6558,111 @@ const monsterDrops = {
                     secID: 'Viridia',
                     itemName: 'Easter Egg',
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 20
+                    }
                   },
                   {
                     secID: 'Greenill',
                     itemName: 'Easter Egg',
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 20
+                    }
                   },
                   {
                     secID: 'Skyly',
                     itemName: 'Easter Egg',
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 20
+                    }
                   },
                   {
                     secID: 'Bluefull',
                     itemName: 'Easter Egg',
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 20
+                    }
                   },
                   {
                     secID: 'Purplenum',
                     itemName: 'Easter Egg',
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 20
+                    }
                   },
                   {
                     secID: 'Pinkal',
                     itemName: 'Easter Egg',
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 20
+                    }
                   },
                   {
                     secID: 'Redria',
                     itemName: 'Easter Egg',
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 20
+                    }
                   },
                   {
                     secID: 'Oran',
                     itemName: 'Easter Egg',
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 20
+                    }
                   },
                   {
                     secID: 'Yellowboze',
                     itemName: 'Easter Egg',
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 20
+                    }
                   },
                   {
                     secID: 'Whitill',
                     itemName: 'Easter Egg',
                     dropRate: 1.14,
-                    dropRatePercent: 87.72
+                    dropRatePercent: 87.72,
+                    type: {
+                      object: 'Misc',
+                      objectSubType: 'Event Item',
+                      index: 20
+                    }
                   }
                 ]
               }
@@ -7273,7 +7373,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 19
+                      index: 21
                     }
                   },
                   {
@@ -7587,7 +7687,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 40
+                      index: 42
                     }
                   },
                   {
@@ -7931,7 +8031,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 43
+                      index: 45
                     }
                   },
                   {
@@ -10014,7 +10114,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 27
+                      index: 29
                     }
                   },
                   {
@@ -10025,7 +10125,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 27
+                      index: 29
                     }
                   },
                   {
@@ -10069,7 +10169,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 27
+                      index: 29
                     }
                   },
                   {
@@ -10102,7 +10202,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 27
+                      index: 29
                     }
                   }
                 ]
@@ -10955,7 +11055,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 19
+                      index: 21
                     }
                   }
                 ]
@@ -11717,7 +11817,7 @@ const monsterDrops = {
             ]
           },
           {
-            name: 'Subterranian Desert',
+            name: 'Subterranean Desert',
             drops: [
               {
                 source: 'Goran',
@@ -11943,7 +12043,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 19
+                      index: 21
                     }
                   },
                   {
@@ -11964,7 +12064,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 19
+                      index: 21
                     }
                   },
                   {
@@ -12480,7 +12580,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -12491,7 +12591,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -12502,7 +12602,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -12513,7 +12613,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -12524,7 +12624,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -12535,7 +12635,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -12546,7 +12646,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -12557,7 +12657,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -12568,7 +12668,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -12579,7 +12679,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   }
                 ]
@@ -18944,7 +19044,7 @@ const monsterDrops = {
                 ]
               },
               {
-                source: 'Halo Rappy',
+                source: 'Hallo Rappy',
                 rare: false,
                 items: [
                   {
@@ -23337,7 +23437,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -23348,7 +23448,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -23369,7 +23469,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -23380,7 +23480,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -23411,7 +23511,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -23422,7 +23522,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -23433,7 +23533,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   }
                 ]
@@ -24083,7 +24183,7 @@ const monsterDrops = {
             ]
           },
           {
-            name: 'Subterranian Desert',
+            name: 'Subterranean Desert',
             drops: [
               {
                 source: 'Goran',
@@ -24633,7 +24733,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 49
+                      index: 51
                     }
                   },
                   {
@@ -24664,7 +24764,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 49
+                      index: 51
                     }
                   },
                   {
@@ -24695,7 +24795,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 49
+                      index: 51
                     }
                   },
                   {
@@ -24716,7 +24816,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 49
+                      index: 51
                     }
                   },
                   {
@@ -24727,7 +24827,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 49
+                      index: 51
                     }
                   }
                 ]
@@ -24850,7 +24950,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -24861,7 +24961,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -24872,7 +24972,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -24883,7 +24983,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -24894,7 +24994,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -24905,7 +25005,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -24916,7 +25016,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -24927,7 +25027,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -24938,7 +25038,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -24949,7 +25049,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   }
                 ]
@@ -31262,7 +31362,7 @@ const monsterDrops = {
                 ]
               },
               {
-                source: 'Halo Rappy',
+                source: 'Hallo Rappy',
                 rare: false,
                 items: [
                   {
@@ -35640,7 +35740,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -35651,7 +35751,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -35662,7 +35762,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -35673,7 +35773,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -35684,7 +35784,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -35695,7 +35795,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -35706,7 +35806,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -35717,7 +35817,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -35728,7 +35828,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -35739,7 +35839,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   }
                 ]
@@ -36393,7 +36493,7 @@ const monsterDrops = {
             ]
           },
           {
-            name: 'Subterranian Desert',
+            name: 'Subterranean Desert',
             drops: [
               {
                 source: 'Goran',
@@ -37123,7 +37223,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -37134,7 +37234,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -37145,7 +37245,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -37156,7 +37256,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -37167,7 +37267,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -37178,7 +37278,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -37189,7 +37289,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -37200,7 +37300,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -37211,7 +37311,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   },
                   {
@@ -37222,7 +37322,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 50
+                      index: 52
                     }
                   }
                 ]
@@ -43358,7 +43458,7 @@ const monsterDrops = {
                 ]
               },
               {
-                source: 'Halo Rappy',
+                source: 'Hallo Rappy',
                 rare: false,
                 items: [
                   {
@@ -47528,7 +47628,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -47539,7 +47639,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -47550,7 +47650,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -47561,7 +47661,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -47572,7 +47672,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -47583,7 +47683,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -47594,7 +47694,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -47605,7 +47705,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -47616,7 +47716,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   },
                   {
@@ -47627,7 +47727,7 @@ const monsterDrops = {
                     type: {
                       object: 'Misc',
                       objectSubType: 'Mag Cell',
-                      index: 45
+                      index: 47
                     }
                   }
                 ]
@@ -48013,7 +48113,7 @@ const monsterDrops = {
             ]
           },
           {
-            name: 'Subterranian Desert',
+            name: 'Subterranean Desert',
             drops: [
               {
                 source: 'Goran',

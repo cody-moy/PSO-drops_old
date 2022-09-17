@@ -50,14 +50,11 @@ body {
   flex-direction: column;
   align-items: center;
   margin-top: 50px;
+  padding-top: 50px;
 }
 
-.main-content h1 {
-  align-self: flex-start;
-}
-
-.main-content > div:not(.global-dimmer) {
-  max-width: 1440px;
+.main-content > div:not(.global-dimmer, .item-modal) {
+  width: 1440px;
 }
 
 /* progress bars */

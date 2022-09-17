@@ -3388,7 +3388,7 @@ const table_vh = {
               ]
             },
             {
-              source: 'Halo Rappy',
+              source: 'Hallo Rappy',
               items: [
                 {
                   secID: 'Viridia',
@@ -6170,7 +6170,7 @@ const table_vh = {
           ]
         },
         {
-          name: 'Subterranian Desert',
+          name: 'Subterranean Desert',
           drops: [
             {
               source: 'Goran',

@@ -75,7 +75,7 @@ const Option = ({
       style={{
         height: `${height}px`,
         padding: `${padding}px 10px`,
-        borderBottom: border ? '1px solid var(--color-surface-alt-1)' : null
+        borderBottom: border ? '1px solid var(--color-surface-1-hover)' : null
       }}
       onClick={() => {
         setValue(value);
