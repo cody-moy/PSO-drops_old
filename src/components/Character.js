@@ -24,7 +24,7 @@ function Character({
   }, [characterClass]);
 
   return (
-    <div className="character-info-wrapper">
+    <div>
       <Checkbox
         label="Use character filter"
         labelSide="right"
@@ -35,12 +35,12 @@ function Character({
         }}
       />
       <div className={`character-controls ${!characterMode ? 'fade' : ''}`}>
-        <p>Current character</p>
+        {/* <p>Current character</p>
         <TextInput
           label="Name"
           defaultValue={character.name}
           setValue={e => setCharacter({ ...character, name: e.target.value })}
-        />
+        /> */}
         <Select
           label={'SectionID'}
           options={secIDs.map(s => {

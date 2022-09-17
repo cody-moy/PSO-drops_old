@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import monsterDrops from '../data/MONSTER_DROPS';
 import boxDrops from '../data/BOX_DROPS';
-import Button from './Button';
 
 import Greenill from '../assets/Greenill_icon.png';
 import Viridia from '../assets/Viridia_icon.png';
@@ -16,31 +15,18 @@ import Redria from '../assets/Redria_icon.png';
 
 import './styles/Table.css';
 
-function Table({ setItem, showDropRatePercent }) {
-  const [difficulty, setDifficulty] = useState('ultimate');
-  const [episodeFilter, setEpisodeFilter] = useState([true, true, true]);
+function Table({
+  setItem,
+  showDropRatePercent,
+  episodeFilter,
+  difficulty,
+  search
+}) {
   const [episodes, setEpisodes] = useState([]);
 
   useEffect(() => {
     setEpisodes(monsterDrops[difficulty].episodes);
   }, [difficulty]);
-
-  const changeEpFilter = (episode, value) => {
-    if (episode === 'all') {
-      setEpisodeFilter([true, true, true]);
-      return;
-    }
-    // if we're about to deselect the last active one
-    // (leaving us with no filters), prevent doing so
-    if (
-      episodeFilter[0] + episodeFilter[1] + episodeFilter[2] > 1 ||
-      value === true
-    ) {
-      let temp = [...episodeFilter];
-      temp[episode] = value;
-      setEpisodeFilter(temp);
-    }
-  };
 
   const shortenEp = index => {
     if (index === 0) return 'EP1';
@@ -48,66 +34,13 @@ function Table({ setItem, showDropRatePercent }) {
     else if (index === 2) return 'EP4';
   };
 
+  function getItemNamesFromSource(source) {
+    let items = source.items.map(item => item.itemName?.toLowerCase());
+    return items;
+  }
+
   return (
     <div>
-      <div className="table-filter-container">
-        <div className="table-filter" id="difficulty">
-          <p>Difficulty</p>
-          <Button
-            func={() => setDifficulty('ultimate')}
-            label="Ultimate"
-            highlighted={difficulty === 'ultimate'}
-          />
-          <Button
-            func={() => setDifficulty('vhard')}
-            label="Very hard"
-            highlighted={difficulty === 'vhard'}
-          />
-          <Button
-            func={() => setDifficulty('hard')}
-            label="Hard"
-            highlighted={difficulty === 'hard'}
-          />
-          <Button
-            func={() => setDifficulty('normal')}
-            label="Normal"
-            highlighted={difficulty === 'normal'}
-          />
-        </div>
-        <div className="table-filter" id="episode">
-          <p>Episode</p>
-          <Button
-            highlighted={
-              episodeFilter[0] && episodeFilter[1] && episodeFilter[2]
-            }
-            func={() => {
-              changeEpFilter('all', true);
-            }}
-            label="All"
-          />
-          <Button
-            highlighted={episodeFilter[0]}
-            func={() => {
-              changeEpFilter(0, !episodeFilter[0]);
-            }}
-            label="Episode 1"
-          />
-          <Button
-            highlighted={episodeFilter[1]}
-            func={() => {
-              changeEpFilter(1, !episodeFilter[1]);
-            }}
-            label="Episode 2"
-          />
-          <Button
-            highlighted={episodeFilter[2]}
-            func={() => {
-              changeEpFilter(2, !episodeFilter[2]);
-            }}
-            label="Episode 4"
-          />
-        </div>
-      </div>
       {episodes.length > 0 && (
         <div className="episode-wrapper">
           {episodes.map((episode, ei) => {
@@ -126,13 +59,22 @@ function Table({ setItem, showDropRatePercent }) {
                     </div> */}
                     {episode.areas.map((area, ai) => {
                       return (
-                        <div
-                          key={ai}
-                          className="table__area-container"
-                          id={area.name}
-                        >
-                          <>
-                            <div className="secID-container">
+                        <>
+                          <a
+                            className="jump-location"
+                            id={area.name.toLowerCase().replaceAll(' ', '-')}
+                          />
+                          <div
+                            key={ai}
+                            className={`table__area-container ${
+                              search.length > 0 ? 'filtering-for-search' : ''
+                            }`}
+                            id={area.name}
+                          >
+                            <div
+                              className="secID-container"
+                              style={{ opacity: search.length > 0 ? 0.25 : '' }}
+                            >
                               <div
                                 className="table__area-name"
                                 id={area.name
@@ -220,11 +162,25 @@ function Table({ setItem, showDropRatePercent }) {
                               </div>
                             </div>
                             {area.drops.map((dropSource, di) => {
+                              // save a tiny amount of memory / performance hit with this short-circuit
+                              let itemNames =
+                                search.length > 0
+                                  ? getItemNamesFromSource(dropSource)
+                                  : null;
+                              let includesSearchTerm = Boolean(
+                                itemNames?.find(item => item?.includes(search))
+                              );
                               return (
                                 <div
                                   key={di}
                                   className="table__drop-source-container"
                                   id={dropSource.source}
+                                  style={{
+                                    display:
+                                      search.length > 0 && !includesSearchTerm
+                                        ? 'none'
+                                        : ''
+                                  }}
                                 >
                                   <div className="table__row">
                                     <div className="table__drop-source-name-container">
@@ -248,8 +204,13 @@ function Table({ setItem, showDropRatePercent }) {
                                         <div
                                           key={ii}
                                           className={`table__item-container ${
-                                            item.itemName ? '' : 'no-drop'
-                                          }`}
+                                            search.length > 0 &&
+                                            !item?.itemName
+                                              ?.toLowerCase()
+                                              .includes(search)
+                                              ? 'not-in-search'
+                                              : ''
+                                          } ${item.itemName ? '' : 'no-drop'}`}
                                           onClick={() => setItem(item)}
                                         >
                                           <p
@@ -327,8 +288,8 @@ function Table({ setItem, showDropRatePercent }) {
                                 </div>
                               );
                             })}
-                          </>
-                        </div>
+                          </div>
+                        </>
                       );
                     })}
                   </>

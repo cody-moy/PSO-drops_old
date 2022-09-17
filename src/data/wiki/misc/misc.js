@@ -77,196 +77,232 @@ export const misc = [
   {
     name: `Christmas Present`,
     type: `Event Item`,
-    decription: `A rare seasonal drop which can contain various items.
-During the Christmas Event, Love Rappies are replaced by St. Rappies, which drop Christmas Presents at 87.5% chance (not counting any rare drop boost) instead of the usual Love Rappy rare drop.`,
-    christmasDropTable: {
+    description: `A rare seasonal drop which can contain various items; During the Christmas Event, Love Rappies are replaced by St. Rappies, which drop Christmas Presents at 87.5% chance instead of the usual Love Rappy rare drop.`,
+    dropTable: {
       caption: `Item chance upon use`,
-      data: [
-        `Heart of Angel: 15%`,
-        `Heart of Devil: 15%`,
-        `Panther's Spirit: 15%`,
-        `Kit of Mark III: 15%`,
-        `Kit of Hamburger: 15%`,
-        `Kit of Master System: 10%`,
-        `Kit of Genesis: 7%`,
-        `Kit of Sega Saturn: 5%`,
-        `Kit of Dreamcast: 3%`
+      items: [
+        { name: `Heart of Angel`, rate: `15%` },
+        { name: `Heart of Devil`, rate: `15%` },
+        { name: `Panther's Spirit`, rate: `15%` },
+        { name: `Kit of Mark III`, rate: `15%` },
+        { name: `Kit of Hamburger`, rate: `15%` },
+        { name: `Kit of Master System`, rate: `10%` },
+        { name: `Kit of Genesis`, rate: `7%` },
+        { name: `Kit of Sega Saturn`, rate: `5%` },
+        { name: `Kit of Dreamcast`, rate: `3%` }
+      ]
+    }
+  },
+  {
+    name: `Jack-O'-Lantern`,
+    type: `Event Item`,
+    description: `A rare seasonal drop which can contain various items; During the Halloween Event, Love Rappies are replaced by Hallo Rappies, which drop Jack-O'-Lanterns at 87.5% chance instead of the usual Love Rappy rare drop.`,
+    dropTable: {
+      caption: `Item chance upon use`,
+      items: [
+        { name: `Cell of Mag 502`, rate: `13%` },
+        { name: `Cell of Mag 213`, rate: `13%` },
+        { name: `Heart of Chu Chu`, rate: `13%` },
+        { name: `Heart of Kapu Kapu`, rate: `13%` },
+        { name: `Parts of RoboChao`, rate: `12%` },
+        { name: `Heart of Opa Opa`, rate: `12%` },
+        { name: `Heart of Pian`, rate: `12%` },
+        { name: `Heart of Chao`, rate: `12%` }
+      ]
+    }
+  },
+  {
+    name: `Easter Egg`,
+    type: `Event Item`,
+    description: `A rare seasonal drop which can contain various items; During the Easter Event, Love Rappies are replaced by Egg Rappies, which drop Easter Eggs at 87.5% chance instead of the usual Love Rappy rare drop.`,
+    dropTable: {
+      caption: `Item chance upon use`,
+      items: [
+        { name: `Sonic Knuckle`, rate: `14%` },
+        { name: `Wok of Akiko's Shop`, rate: `13%` },
+        { name: `Rocket Punch`, rate: `11%` },
+        { name: `Huge Battle Fan`, rate: `11%` },
+        { name: `Rabbit Wand`, rate: `11%` },
+        { name: `Drill Launcher`, rate: `11%` },
+        { name: `Marina's Bag`, rate: `11%` },
+        { name: `Panther's Claw`, rate: `11%` },
+        { name: `Amore Rose`, rate: `7%` }
       ]
     }
   },
   {
     name: `Liberta Kit`,
     type: `Mag Cell`,
-    decription: `A Mag cell that can be used on a level 50+ non-rare Mag to evolve it into Agastya.`
+    description: `A Mag cell that can be used on a level 50+ non-rare Mag to evolve it into Agastya.`
   },
   {
     name: `Heart of Angel`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It can be used on a level 100+ third evolution Mag to evolve it into Angel's Wing.`
+    description: `A Mag cell. It can be used on a level 100+ third evolution Mag to evolve it into Angel's Wing.`
   },
   {
     name: `Heart of Chao`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It can be used on a third evolution Mag with all of its stats at level 35 or above to evolve it into Chao.`
+    description: `A Mag cell. It can be used on a third evolution Mag with all of its stats at level 35 or above to evolve it into Chao.`
   },
   {
     name: `Heart of Chu Chu`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It is used to create the Chu Chu mag when used with a level 50+ third evolution Mag.`
+    description: `A Mag cell. It is used to create the Chu Chu mag when used with a level 50+ third evolution Mag.`
   },
   {
     name: `Cell of Mag 213`,
     type: `Mag Cell`,
-    decription: `A Mag cell that can be used on a level 100+ third evolution Mag to evolve it into Churel or Preta, dependent on the Section ID of the character who uses it.`
+    description: `A Mag cell that can be used on a level 100+ third evolution Mag to evolve it into Churel or Preta, dependent on the Section ID of the character who uses it.`
   },
   {
     name: `Heart of Devil`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It can be used on a level 100+ third evolution Mag to evolve it into Devil's Wing, or on a Devil's Wing to evolve it into Devil's Tail.`
+    description: `A Mag cell. It can be used on a level 100+ third evolution Mag to evolve it into Devil's Wing, or on a Devil's Wing to evolve it into Devil's Tail.`
   },
   {
     name: `Kit of Dreamcast`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It is used to create the Dreamcast mag when used on a Level 100+ character and Level 100+ Sega Saturn.`
+    description: `A Mag cell. It is used to create the Dreamcast mag when used on a Level 100+ character and Level 100+ Sega Saturn.`
   },
   {
     name: `Heart of YN-0117`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It is used to create the Elenor mag when used with a level 50+ third evolution Mag.`
+    description: `A Mag cell. It is used to create the Elenor mag when used with a level 50+ third evolution Mag.`
   },
   {
     name: `D-Photon Core`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It can be used on a level 100+ Kama to evolve it into Gael Giel.`
+    description: `A Mag cell. It can be used on a level 100+ Kama to evolve it into Gael Giel.`
   },
   {
     name: `Kit of Genesis`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It is used to create the Genesis mag when used on a Level 80+ character and Level 70+ Master System.`
+    description: `A Mag cell. It is used to create the Genesis mag when used on a Level 80+ character and Level 70+ Master System.`
   },
   {
     name: `Tablet`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It can be used on a Rukmin to evolve it into Geung-si.`
+    description: `A Mag cell. It can be used on a Rukmin to evolve it into Geung-si.`
   },
   {
     name: `Kit of Hamburger`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It can be used on a level 50+ Kaitabha to evolve it into Hamburger.`
+    description: `A Mag cell. It can be used on a level 50+ Kaitabha to evolve it into Hamburger.`
   },
   {
     name: `Kalki Kit`,
     type: `Mag Cell`,
-    decription: `A Mag cell that can be used on a level 50+ non-rare Mag to evolve it into Kalki*.`
+    description: `A Mag cell that can be used on a level 50+ non-rare Mag to evolve it into Kalki*.`
   },
   {
     name: `Heart of Kapu Kapu`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It is used to create the Kapu Kapu mag when used with a level 50+ third evolution Mag.`
+    description: `A Mag cell. It is used to create the Kapu Kapu mag when used with a level 50+ third evolution Mag.`
   },
   {
     name: `Mag Kit`,
     type: `Mag Cell`,
-    decription: `A Mag cell that can be used on a level 50+ non-rare Mag to evolve it into Mag*.`
+    description: `A Mag cell that can be used on a level 50+ non-rare Mag to evolve it into Mag*.`
   },
   {
     name: `Kit of Mark III`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It is used to create the Mark III mag when used on a Level 60+ character with a starter Mag.`
+    description: `A Mag cell. It is used to create the Mark III mag when used on a Level 60+ character with a starter Mag.`
   },
   {
     name: `Kit of Master System`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It is used to create the Master System mag when used on a Level 70+ character and Level 60+ Mark III.`
+    description: `A Mag cell. It is used to create the Master System mag when used on a Level 70+ character and Level 60+ Mark III.`
   },
   {
     name: `Heart of Morolian`,
     type: `Mag Cell`,
-    decription: `A Mag cell that can be used on any Kumara mag to evolve it into a Moro mag.`
+    description: `A Mag cell that can be used on any Kumara mag to evolve it into a Moro mag.`
   },
   {
     name: `Heart of Opa Opa`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It can be used on a level 100+ third evolution Mag to evolve it into Opa-Opa.`
+    description: `A Mag cell. It can be used on a level 100+ third evolution Mag to evolve it into Opa-Opa.`
   },
   {
     name: `Panther's Spirit`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It can be used on a level 50+ Naga to evolve it into Panzer's Tail.`
+    description: `A Mag cell. It can be used on a level 50+ Naga to evolve it into Panzer's Tail.`
   },
   {
     name: `Heart of Pian`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It can be used on a level 100+ third evolution Mag with 120% Synchro and at least 180 IQ to evolve it into Pian.`
+    description: `A Mag cell. It can be used on a level 100+ third evolution Mag with 120% Synchro and at least 180 IQ to evolve it into Pian.`
   },
   {
     name: `Pioneer Parts`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It is used to create the Pioneer mag when used with a level 50+ third evolution Mag.`
+    description: `A Mag cell. It is used to create the Pioneer mag when used with a level 50+ third evolution Mag.`
   },
   {
     name: `Cell of Mag 502`,
     type: `Mag Cell`,
-    decription: `A Mag cell that can be used on a level 100+ third evolution Mag to evolve it into Pitri or Soniti, dependent on the Section ID of the character who uses it.`
+    description: `A Mag cell that can be used on a level 100+ third evolution Mag to evolve it into Pitri or Soniti, dependent on the Section ID of the character who uses it.`
   },
   {
     name: `Cell of Mag 213`,
     type: `Mag Cell`,
-    decription: `A Mag cell that can be used on a level 100+ third evolution Mag to evolve it into Pitri or Soniti, dependent on the Section ID of the character who uses it.`
+    description: `A Mag cell that can be used on a level 100+ third evolution Mag to evolve it into Pitri or Soniti, dependent on the Section ID of the character who uses it.`
   },
   {
     name: `Amitie's Memo`,
     type: `Mag Cell`,
-    decription: `A Mag cell that can be used on a level 50+ Chu Chu to evolve it into a Puyo.`
+    description: `A Mag cell that can be used on a level 50+ Chu Chu to evolve it into a Puyo.`
   },
   {
     name: `Parts of RoboChao`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It can be used on a third evolution Mag with two of its stats at level 70 or above to evolve it into Robochao.`
+    description: `A Mag cell. It can be used on a third evolution Mag with two of its stats at level 70 or above to evolve it into Robochao.`
   },
   {
     name: `Rappy's Beak`,
     type: `Mag Cell`,
-    decription: `A Mag cell that can be used on a level 50+ third evolution Mag to evolve it into Rappy.`
+    description: `A Mag cell that can be used on a level 50+ third evolution Mag to evolve it into Rappy.`
   },
   {
     name: `Kit of Sega Saturn`,
     type: `Mag Cell`,
-    decription: `A Mag cell. It is used to create the Sega Saturn mag when used on a Level 90+ character and Level 90+ Genesis.`
+    description: `A Mag cell. It is used to create the Sega Saturn mag when used on a Level 90+ character and Level 90+ Genesis.`
   },
   {
     name: `Cell of Mag 502`,
     type: `Mag Cell`,
-    decription: `A Mag cell that can be used on a level 100+ third evolution Mag to evolve it into Pitri or Soniti, dependent on the Section ID of the character who uses it.`
+    description: `A Mag cell that can be used on a level 100+ third evolution Mag to evolve it into Pitri or Soniti, dependent on the Section ID of the character who uses it.`
   },
   {
     name: `Stealth Kit`,
     type: `Mag Cell`,
-    decription: `A Mag cell that can be used on a level 50+ non-rare Mag to evolve it into Stealth.`
+    description: `A Mag cell that can be used on a level 50+ non-rare Mag to evolve it into Stealth.`
   },
   {
     name: `Heaven Striker Coat`,
     type: `Mag Cell`,
-    decription: `A Mag cell that can be used on a level 50+ Garuda to evolve it into a Striker Unit.`
+    description: `A Mag cell that can be used on a level 50+ Garuda to evolve it into a Striker Unit.`
   },
   {
     name: `Dragon Scale`,
     type: `Mag Cell`,
-    decription: `A Mag cell that can be used on a level 50+ Kama to evolve it into a Tellusis.`
+    description: `A Mag cell that can be used on a level 50+ Kama to evolve it into a Tellusis.`
   },
   {
     name: `Varuna Kit`,
     type: `Mag Cell`,
-    decription: `A Mag cell that can be used on a level 50+ non-rare Mag to evolve it into Varuna*.`
+    description: `A Mag cell that can be used on a level 50+ non-rare Mag to evolve it into Varuna*.`
   },
   {
     name: `Vritra Kit`,
     type: `Mag Cell`,
-    decription: `A Mag cell that can be used on a level 50+ non-rare Mag to evolve it into Vritra*.`
+    description: `A Mag cell that can be used on a level 50+ non-rare Mag to evolve it into Vritra*.`
   },
   {
     name: `Yahoo!'s engine`,
     type: `Mag Cell`,
-    decription: `A Mag cell that can be used on a level 50+ third evolution Mag to evolve it into Yahoo!.`
+    description: `A Mag cell that can be used on a level 50+ third evolution Mag to evolve it into Yahoo!.`
   }
 ];

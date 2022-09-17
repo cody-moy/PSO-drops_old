@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import Table from './components/Table';
 import ItemModal from './components/ItemModal';
 import setType from './Utils/setItemType';
@@ -12,10 +12,13 @@ function App() {
     class: 'HUmar',
     secID: 'Viridia'
   });
+  const [difficulty, setDifficulty] = useState('ultimate');
+  const [episodeFilter, setEpisodeFilter] = useState([true, true, true]);
   const [characterMode, setCharacterMode] = useState(false);
   const [item, setItem] = useState();
   const [showModal, setShowModal] = useState(false);
   const [showDropRatePercent, setShowDropRatePercent] = useState(false);
+  const [search, setSearch] = useState('');
 
   useEffect(() => {
     document.title = 'PSO database';
@@ -25,19 +28,51 @@ function App() {
     setShowModal(Boolean(item));
   }, [item]);
 
+  const changeEpFilter = useMemo((episode, value) => {
+    if (episode === 'all') {
+      setEpisodeFilter([true, true, true]);
+      return;
+    }
+    // if we're about to deselect the last active one
+    // (leaving us with no filters), prevent doing so
+    if (episodeFilter.reduce((prev, a) => prev + a, 0) > 1 || value === true) {
+      let temp = [...episodeFilter];
+      temp[episode] = value;
+      setEpisodeFilter(temp);
+    }
+  }, []);
+
+  // memo-izing the Table so it doesn't re-render for every keystroke in the search bar
+  const table = useMemo(
+    () => (
+      <Table
+        difficulty={difficulty}
+        setItem={setItem}
+        showDropRatePercent={showDropRatePercent}
+        episodeFilter={episodeFilter}
+        setEpisodeFilter={setEpisodeFilter}
+        changeEpFilter={changeEpFilter}
+        search={search.toLowerCase()}
+      />
+    ),
+    [difficulty, showDropRatePercent, episodeFilter, changeEpFilter, search]
+  );
+
   return (
     <div className="App">
       <Navbar
+        difficulty={difficulty}
+        setDifficulty={setDifficulty}
         character={character}
         setCharacter={setCharacter}
         characterMode={characterMode}
         setCharacterMode={setCharacterMode}
+        episodeFilter={episodeFilter}
+        changeEpFilter={changeEpFilter}
+        setSearch={setSearch}
       />
       <div className="main-content">
-        <h1>Ephinea PSO:BB drop database</h1>
-        <div className="table-container">
-          <Table setItem={setItem} showDropRatePercent={showDropRatePercent} />
-        </div>
+        <div className="table-container">{table}</div>
         <ItemModal
           visible={showModal}
           close={() => setShowModal(false)}

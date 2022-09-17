@@ -3,6 +3,7 @@ import getItemFromWiki from '../../Utils/getItemFromWiki';
 import WeaponCard from './types/WeaponCard';
 import ArmorCard from './types/ArmorCard';
 import UnitCard from './types/UnitCard';
+import EventItemCard from './types/EventItemCard';
 
 import './ItemCard.css';
 import ToolCard from './types/ToolCard';
@@ -43,20 +44,27 @@ function ItemCard({ item }) {
     <>
       {item && (
         <div className="item-card-container">
-          {itemToDisplay && weapons.includes(item.type.object) && (
-            <WeaponCard item={itemToDisplay} itemType={item.type.object} />
-          )}
-          {itemToDisplay && armor.includes(item.type.object) && (
-            <ArmorCard item={itemToDisplay} itemType={item.type.object} />
-          )}
           {itemToDisplay && item.type.object === 'Unit' && (
             <UnitCard item={itemToDisplay} />
           )}
           {itemToDisplay && item.type.object === 'Tool' && (
             <ToolCard item={itemToDisplay} />
           )}
-          {itemToDisplay && item.type.object === 'Misc' && (
-            <MiscCard item={itemToDisplay} />
+          {itemToDisplay &&
+            item.type.object === 'Misc' &&
+            item.type.objectSubType !== 'Event Item' && (
+              <MiscCard item={itemToDisplay} />
+            )}
+          {itemToDisplay &&
+            item.type.object === 'Misc' &&
+            item.type.objectSubType === 'Event Item' && (
+              <EventItemCard item={itemToDisplay} />
+            )}
+          {itemToDisplay && armor.includes(item.type.object) && (
+            <ArmorCard item={itemToDisplay} itemType={item.type.object} />
+          )}
+          {itemToDisplay && weapons.includes(item.type.object) && (
+            <WeaponCard item={itemToDisplay} itemType={item.type.object} />
           )}
         </div>
       )}
